@@ -1,0 +1,1196 @@
+🗂️# N57.03.00 ✅
+
+
+👓🏮🍊🎇# 🎇 Production Logo ✨
+
+
+👓🏮🍊Dr. Sparkle Presents
+
+
+
+👓🏮🍊🎇# 📽️ Chrontendo Title Sequence ✨
+
+🎧🏮🍊♪ "UFO" ♪ by ESG
+
+
+👓🏮🍊"Chrontendo 🍋 EPISODE 57"🍌
+
+
+👓🏮🍊Index ☰️, Transcript ⌨️, 🍋 + Captions ⏱ in English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🍋 from Nate Lawrence 🏮🍌
+
+👓🏮🍊Translated from English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🍋 to __________ 🏁 by __________ ⬜🍌
+
+
+
+👓🏮🍊🎇# 🗨️ Introduction to Chrontendo Episode 57 ✨
+
+
+✅🏮🍊🍓 Welcome back, everyone! 🍇
+
+✅🏮🍊🍓 It's "...Episode 57" and today we've got some... kind of okay games... maybe? 🍇
+
+✅🏮🍊🍓 Another ten games from March 1990. 🍇
+
+✅🏮🍊🍓 As promised, "Wizardry II" but there's also a couple nice Puzzle Games, a port of an old Computer Game, a notorious Capcom title, and a truly strange and unpleasant R.P.G. (that is, it is a second unpleasant R.P.G., in addition to "Wizardry"). 🍇
+
+✅🏮🍊🍓 And we've even got a FamiCom Disk System game. 🍇🍌
+
+
+✅🏮🍊🍓 I am also currently working on a special project (a bonus episode, of sorts) that will be revealed at some point in the near future. 🍇🍌
+
+
+✅🏮🍊🍓 As always, thanks to all the patrons who have been a major factor when it comes to getting these things put out on a regular basis. 🍇🍌
+
+
+✅🏮🍊🍓 So, without any further ado, here we go. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Wizardry III: Diamond no Kishi: The Second Scenario 🇯🇵 // Wizardry: Knight of Diamonds: The Second Scenario 🇺🇸 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 March 09 🇯🇵 // 1992 April [?] 🇺🇸
+👓🏮🍒💾 Developed by Game Studio
+👓🏮🍒📦 Published by ASCII 🇯🇵 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Okay, folks, we're starting off with the second week of March 1990. 🍇
+
+✅🏮🍊🍓 "Wizardry III: Diamond no Kishi: The Second Scenario" or, as it was called here in the West, "Wizardry: Knight of Diamonds: The Second Scenario". 🍇
+
+✅🏮🍊🍓 Though the title screen just says "The Knight of Diamonds" and the box art just says "Knight of Diamonds" (without the 'The'). 🍇🍌
+
+
+✅🏮🍊🍓 Now, right away, the game gives you a couple choices. 🍇
+
+✅🏮🍊🍓 The original Apple II game was released back in 1992 and quite a few graphical and interface changes have been made - but this is mostly the same game. 🍇
+
+✅🏮🍊🍓 Meaning that it is extremely unfriendly and a huge pain in the ass to play and you'll probably hate it unless you're a total masochist when it comes to R.P.G.s. 🍇🍌
+
+
+✅🏮🍊🍓 So, there are two areas in this game: 🍊 the Castle (which is simply a bunch of menus, really, - there's no graphics per se in the castle); 🍊 the other section is the dungeon (or 'Maze', as the game calls it); 🍋 this is where ya actually move around, and fight monsters, and such. 🍇🍌
+
+
+✅🏮🍊🍓 But we need to start by creating characters. 🍇
+
+✅🏮🍊🍓 There are some default characters that come with the game, but you don't want to use those because they're terrible. 🍇🍌
+
+
+✅🏮🍊🍓 So, in 'Wizardry', there are five races: Human, Elf, Dwarf, Gnome, and Hobbit. 🍇
+
+✅🏮🍊🍓 And there's eight Classes: Cleric, Fighter, Lord, Mage, Ninja, Samurai, Thief, and Wizard. 🍇
+
+✅🏮🍊🍓 And certain races are better suited towards certain Classes. 🍇
+
+✅🏮🍊🍓 For example, Dwarves have very high Strength and Vitality so they make good Fighters; and Hobbits have high Luck so they make good Thieves. 🍇🍌
+
+
+✅🏮🍊🍓 This game is very D&D-based, so there are virtual dice rolls [that] determine everything (such as your stat point bonus). 🍇
+
+✅🏮🍊🍓 You put these into the various stats and certain stats are necessary in order to choose a particular class. 🍇
+
+✅🏮🍊🍓 For example, a Cleric needs just 11 Piety but a Wizard needs 12 IQ and 12 Piety. 🍇
+
+✅🏮🍊🍓 So, if you want one of the better classes you'll need to keep deleting characters and rolling again, in order to get a character with decent stats. 🍇🍌
+
+
+✅🏮🍊🍓 Alright, so once you've created your party, you need to buy Weapons and Armor for at least the frontline characters - which are probably Fighters (or maybe Samurai or something if you got lucky with your rolls). 🍇
+
+✅🏮🍊🍓 Then it's time to take your party into the 'Maze', start exploring, and grinding for Experience and Gold. 🍇🍌
+
+
+✅🏮🍊🍓 Now, there's six floors in the Maze and each Maze is 20 by 20 squares in size. 🍇
+
+✅🏮🍊🍓 "Wizardry" was clearly designed with graph paper and... and a pencil in mind; you would never make it through this game without a map. 🍇🍌
+
+
+✅🏮🍊🍓 Now, this game does not take it easy on you like "Dragon Quest" or something (where it starts you off nice and easy). 🍇
+
+✅🏮🍊🍓 My first encounter was with a Wild Bear and Hippopotamus which instantly wrecked my party. 🍇
+
+✅🏮🍊🍓 Wow! [I] wasn't expecting *that* to happen. 🍇
+
+✅🏮🍊🍓 Again, everything is random to some degree - so you might come up against enemies that are way overpowered. 🍇🍌
+
+
+✅🏮🍊🍓 So, the actual goal in "Wizardry II" is to find all the pieces of the Knight of Diamond's armor, which are scattered throughout the Maze's six levels. 🍇
+
+✅🏮🍊🍓 The original "Wizardry II" was released as sort of an expansion pack for the first game (hence the name "...Second Scenario"). 🍇
+
+✅🏮🍊🍓 The third 'Wizardry' game was named "Legacy of Llylgamyn: The Third Scenario". 🍇🍌
+
+
+✅🏮🍊🍓 For reasons that I cannot comprehend, ASCII released "Legacy of Llylgamyn" for the FamiCom in 1989, then released "Knight of Diamonds" in 1990. 🍇
+
+✅🏮🍊🍓 "Legacy of Llylgamyn" was not released for the N.E.S. in the U.S., so "Knight of Diamonds" is correctly referred to as "The Second Scenario" in the U.S., but in Japan, it's called "Wizardry III", despite being the second game in the original series. 🍇🍌
+
+
+✅🏮🍊🍓 The 'Wizardry' games were definitely an influence on Japanese R.P.G.s. 🍇
+
+✅🏮🍊🍓 For example, at the temple in town, you can have a character's status ailments cured or a dead character revived. 🍇
+
+✅🏮🍊🍓 There's an inn, where you can rest to recover hit points. 🍇🍌
+
+
+✅🏮🍊🍓 Now, not everything, of course, was used in games like "Dragon Quest". 🍇
+
+✅🏮🍊🍓 For example, treasure chests are often booby-trapped and there's, like, literally, like, a dozen different types of traps 😆 when you open one up. 🍇
+
+✅🏮🍊🍓 Now, the pure dungeon-crawl nature of the gameplay might not appeal to modern-day gamers. 🍇
+
+✅🏮🍊🍓 And the game's general unfairness and cruelty will probably be a big turn-off - but, hey, if that sounds like your thing then give it a shot. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Don Doko Don 🇯🇵 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 March 09 🇯🇵
+👓🏮🍒💾 Developed by Taito | ITL
+👓🏮🍒📦 Published by Taito 🇯🇵 🍌
+
+
+✅🏮🍊🍓 Hey, kids, do you like killing things with axes? 🍇
+
+✅🏮🍊🍓 Then have I got a game for you. 🍇
+
+✅🏮🍊🍓 Don't let this cute little dwarf on the box art fool you; you are playing as a ruthless killer in this game. 🍇🍌
+
+
+✅🏮🍊🍓 Alright, so 'something, something... captured princess'; we get it. 🍇🍌
+
+
+✅🏮🍊🍓 Alright, here we go. 🍇
+
+✅🏮🍊🍓 The goal here is simple: just destroy every living creature in the level; there can be no survivors. 🍇
+
+✅🏮🍊🍓 After caving in an enemy's skull, you can pick up the body and throw it at his friends. 🍇
+
+✅🏮🍊🍓 This is, like, some real Jason Voorhees-type stuff you're doin', here. 🍇🍌
+
+
+✅🏮🍊🍓 After everyone is terminated, you simply teleport to the next level. 🍇🍌
+
+
+✅🏮🍊🍓 Now, be careful because if you leave a body lying around too long it will eventually come back to life. 🍇
+
+✅🏮🍊🍓 If you're holding the body when this happens, you will instantly be killed. 🍇
+
+✅🏮🍊🍓 Now, throwing the body will cause it to permanently die. 🍇
+
+✅🏮🍊🍓 So, typically what you do is you hit an enemy with your axe, then throw it (taking down at least one other enemy and sometimes leaving an enemy stunned - which you could then pick up and keep repeating the process). 🍇🍌
+
+
+✅🏮🍊🍓 Now, I think you are officially armed with a mallet, but to me this looks an awful lot like a double-bit axe. 🍇
+
+✅🏮🍊🍓 Now, "Don Doko Don" is supposedly the spiritual successor to "Bubble Bobble" - a series of single-screen rooms with a number of horizontal levels, in which you need to defeat a group of enemies in some sort of Hop-'n'-Bop-style fashion. 🍇🍌
+
+
+✅🏮🍊🍓 The original Arcade game was released in 1989 - just one of a series of cute Action Puzzle Games that Taito was putting out at the time. 🍇
+
+✅🏮🍊🍓 The Arcade game is obviously more colorful and cuter and has some cool sprite-rotation effects. 🍇
+
+✅🏮🍊🍓 And the music is [pretty] great too! 🍇🍌
+
+
+✅🏮🍊🍓 The FamiCom version looks... decent, I guess? 🍇
+
+✅🏮🍊🍓 The color palette obviously takes a [pretty] big hit but it's definitely not *ugly*. 🍇🍌
+
+
+✅🏮🍊🍓 So, "Don Doko Don" has 50 levels, with a Boss battle every ten levels. 🍇
+
+✅🏮🍊🍓 New enemies are introduced on a regular basis, and there are different themes to the levels as you pass through the game (such as, you know, the ice levels, the space levels, castle levels - the usual video game stuff). 🍇🍌
+
+
+✅🏮🍊🍓 There is also a secret mode in the game. 🍇
+
+✅🏮🍊🍓 If, on the very first level, you jump to the very top platform and whack this invisible sphere a few times at the top, a key will fall out and a magic door will appear. 🍇
+
+✅🏮🍊🍓 This will then transport you to an alternate universe or something. 🍇🍌
+
+
+✅🏮🍊🍓 Entering in the correct password will unlock what the game calls the 'Reverse Round' - a somewhat altered version of the game, in which you rescue the King at the end instead of the Princess. 🍇
+
+✅🏮🍊🍓 I guess he got kidnapped as well. 🍇🍌
+
+
+✅🏮🍊🍓 Now, there are a few power-ups you can get - such as that 'P' icon which increases your Power to the max. 🍇
+
+✅🏮🍊🍓 The Power level allows you to move faster when you're carrying enemies, and you can also throw them further (and therefore knock out more enemies). 🍇
+
+✅🏮🍊🍓 The Hammer power-up will allow your Hammer to insta-kill enemies instead of just knocking them out. 🍇
+
+✅🏮🍊🍓 The Book of Smash knocks down all enemies temporarily (kinda like the Power Block in the original "Mario Bros." game). 🍇🍌
+
+
+✅🏮🍊🍓 And, you know, "Mario Bros." is actually a [pretty] good reference for Don Doko Don. 🍇
+
+✅🏮🍊🍓 It's essentially just a much fancier version of *that* game. 🍇
+
+✅🏮🍊🍓 Nowadays, of course, you can play the Arcade "Don Doko Don" easily enough, so the FamiCom version is sort of extraneous - though it's still [pretty] fun and not a bad game, by any means. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Moai-Kun 🇯🇵 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 March 09 🇯🇵
+👓🏮🍒💾 Developed by Konami
+👓🏮🍒📦 Published by Konami 🇯🇵 🍌
+
+
+✅🏮🍊🍓 I sure hope you like Platformer Puzzle Games because here's another one - this time from Konami. 🍇
+
+✅🏮🍊🍓 I kind of feel like the major publishers don't put out their best stuff this early in the year. 🍇🍌
+
+
+✅🏮🍊🍓 There's nothing wrong with "Moai-Kun"; it's just not a super-ambitious title. 🍇
+
+✅🏮🍊🍓 The first level is actually kind of sadistic. 🍇
+
+✅🏮🍊🍓 If you miss a jump, you'll be stuck and have to use a life to start over ([pretty] unforgiving, for the first level). 🍇🍌
+
+
+✅🏮🍊🍓 Now, as you are aware, Konami have been putting Moai heads (from Easter Island) into their games for a while ("Gradius" being perhaps the most well-known example). 🍇
+
+✅🏮🍊🍓 An actual Moai head character first appeared in "Konami Wai Wai World" (which we covered back in "...Episode 27"). 🍇🍌
+
+
+✅🏮🍊🍓 So, the plot here is you need to rescue all the young Moais from the evil Skull Emperor. 🍇
+
+✅🏮🍊🍓 The manual refers to the young Moais as 'Pucchi's. 😂 🍇
+
+✅🏮🍊🍓 You simply need to collect all the 'Pucchi's on each level and then exit via the door. 🍇🍌
+
+
+✅🏮🍊🍓 Now, compared to "Don Doko Don" this is considerably more focused on puzzles and less focused on action. 🍇
+
+✅🏮🍊🍓 You still have to avoid or kill enemies but, in order to actually beat a level, you typically must follow a very specific set of steps (often involving pushing rocks and smashing blocks). 🍇
+
+✅🏮🍊🍓 Making one mistake will typically force you to sacrifice a life to start the level over. 🍇🍌
+
+
+✅🏮🍊🍓 Now, one thing to keep in mind is that the screen wraps around so (assuming that there's nothing blocking your way) you can walk off one side of the screen and then reappear on the other side. 🍇
+
+✅🏮🍊🍓 And you'll definitely need to do this in order to solve some puzzles. 🍇🍌
+
+
+✅🏮🍊🍓 Now, you're bound to make a number of mistakes when playing "Moai-Kun" for the first time, so the game rather generously gives you one additional life each time you complete a level. 🍇🍌
+
+
+✅🏮🍊🍓 So, here's an interesting piece of trivia: this may have been intended to originally have horizontal scrolling. 🍇
+
+✅🏮🍊🍓 The ability to scroll is functional in the game's code. 🍇
+
+✅🏮🍊🍓 A few folks have created cheat codes that allow you to access this feature; here's Level 3, for example. 🍇
+
+✅🏮🍊🍓 You can't really do anything in this level but the capability to scroll does, in fact, exist in the game's code. 🍇🍌
+
+
+✅🏮🍊🍓 Naturally, "Moai-Kun" introduces new enemies, new perils, and more complicated puzzles, as it progresses. 🍇
+
+✅🏮🍊🍓 It reminds me a bit of the 'Adventures of Lolo' games, except in a platform-based format. 🍇🍌
+
+
+✅🏮🍊🍓 I mean, there's absolutely nothing wrong with "Moai-Kun". 🍇
+
+✅🏮🍊🍓 It just feels like minor-league Konami to me. 🍇
+
+✅🏮🍊🍓 But if you're into Puzzle Games, then... maybe check it out. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Ikari III 🇯🇵 // Ikari III: The Rescue 🇺🇸 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 March 16 🇯🇵 // 1991 February [?] 🇺🇸
+👓🏮🍒💾 Developed by SNK
+👓🏮🍒📦 Published by K Amusement 🇯🇵 // SNK 🇺🇸 🍌
+
+
+✅🏮🍊🍓 March 16th: All three games released this day are [pretty] notable. 🍇
+
+✅🏮🍊🍓 And when I say 'notable', I don't mean good - just that you've heard of them. 🍇🍌
+
+
+✅🏮🍊🍓 Now, the one good thing about "Ikari III" is the intro. 🍇
+
+✅🏮🍊🍓 In the U.S. this was released in February 1991 as "Ikari III: The Rescue" - because, well, you are rescuing the President's daughter. 🍇
+
+✅🏮🍊🍓 The President (or President's children) are always being kidnapped in video games (something that literally *never* happens in real life). 🍇🍌
+
+
+✅🏮🍊🍓 So, of course, they send in just one guy to do the job; that's you, Mr. Ikari. 🍇
+
+✅🏮🍊🍓 I'll just point out that the daughter has been kidnapped by a worldwide terrorist organization named 'Crime Ghost', run by a dude [named] 'Faust'. 🍇
+
+✅🏮🍊🍓 Your tank was immediately blown up, so you have to hoof it on foot - alone and unarmed. 🍇🍌
+
+
+✅🏮🍊🍓 And here's the thing: 'Ikari...' (a.k.a. 'Ikari Warriors') is a series of 'Commando' clones (vertical Run-'n'-Gun games). 🍇
+
+✅🏮🍊🍓 However "Ikari III" is a vertical Beat-'em-Up (you *don't* have a gun; you just punch everyone to death). 🍇
+
+✅🏮🍊🍓 This is a radical change of pace - but, considering how every 'Ikari...' game is totally different, I'm not surprised. 🍇🍌
+
+
+✅🏮🍊🍓 The game starts off kinda cool; you have to head upstream, fight some guys at the river, eventually you make your way onto dry land... 🍇
+
+✅🏮🍊🍓 And, then the game just... well, it basically has you punching dudes over and over. 🍇
+
+✅🏮🍊🍓 To be clear, virtually the entire game is just entering a little area with a few army dudes hanging around, punching them out, and then moving on to the next little area (which also has a little group of similar army dudes). 🍇🍌
+
+
+✅🏮🍊🍓 'Ikari...' is, of course, a weirdly inconsistent series and the whole 'punching dudes' thing is ported directly from the 1989 Arcade game. 🍇
+
+✅🏮🍊🍓 As you might recall, the first 'Ikari...' game was a very much standard Vertical Run-'n'-Gun. 🍇
+
+✅🏮🍊🍓 The second one had a weird alien theme. 🍇
+
+✅🏮🍊🍓 And the third one returns you to the jungle, but this time [only] for soldier-*punching* action. 🍇🍌
+
+
+✅🏮🍊🍓 The N.E.S. ports of these games are noted for being [pretty] ugly and "Ikari III" actually looks better than the first two - but it is very repetitive, overly difficult, and mostly lacks any sort of, like, cool action set pieces (of the sort that you might find in "Super C" or "Heavy Barrel"). 🍇
+
+✅🏮🍊🍓 There's basically two flavors of enemy soldiers: 🍋 the kind that rushes at you (and then just disappears off the screen) 🍋 and the type that will stay and fight you. 🍇
+
+✅🏮🍊🍓 Some enemies will have guns or grenades (which really sucks because those are all one-hit deaths). 🍇
+
+✅🏮🍊🍓 Now, of course, most N.E.S. Run-'n'-Gun games have one-hit deaths - but the difference between this and "Contra" or "Heavy Barrel" is that, in those games you also have a gun (often a very cool gun) and, in "Ikari III" you are [only] armed with your fists. 🍇
+
+✅🏮🍊🍓 There are very rare weapon drops but these are absurdly limited (like, when you pick up a gun you get 5 bullets - or you'll get just one grenade). 🍇
+
+✅🏮🍊🍓 And the hit detection in "Ikari III" is eccentric (to put it kindly) - and this becomes very irritating, during the Boss fights. 🍇🍌
+
+
+✅🏮🍊🍓 This guy is the first Boss. 🍇
+
+✅🏮🍊🍓 He just disappears and reappears around the screen and you need to hit him before he throws out a bunch of projectiles at you (assuming, of course, that you can actually get your fist to connect with him). 🍇
+
+✅🏮🍊🍓 The Bosses are definitely not as impressive as they were in "Heavy Barrel". 🍇
+
+✅🏮🍊🍓 I can't even remember what the final Boss in this game was. 🍇🍌
+
+
+✅🏮🍊🍓 So, you do, in fact, have three attacks: 🍋 the classic Punch, 🍋 a less useful Spinning Kick, 🍋 and a Jumping Kick which seems [pretty] powerful (and it actually is really useful for jumping through a group of enemies). 🍇
+
+✅🏮🍊🍓 And certain enemies will spam the spinning kick (which is not [only] annoying but looks very silly). 🍇
+
+✅🏮🍊🍓 Okay, so here you get to fight a tank. 🍇
+
+✅🏮🍊🍓 Luckily you get a gun for this fight; it's a super boring gun... but, whatever. 🍇🍌
+
+
+✅🏮🍊🍓 Then there is this underwater sequence, where you shoot dudes with a spear gun. 🍇
+
+✅🏮🍊🍓 It's not great, but at least it breaks up the monotony of the rest [of] the game. 🍇
+
+✅🏮🍊🍓 You collect diamonds, which adds to your score (which I'll point out - the score is not even displayed anywhere on the screen). 🍇
+
+✅🏮🍊🍓 The Boss is this guy, who takes, like, a zillion hits to kill. 🍇🍌
+
+
+✅🏮🍊🍓 All of the enemies in "Ikari III" look more or less the same, but some are tougher than others. 🍇
+
+✅🏮🍊🍓 The game introduces you to knife guys, at some point, who... well, they... they have a knife and they try to stab you with it. 🍇🍌
+
+
+✅🏮🍊🍓 Also, some enemies will take way more hits to die. 🍇
+
+✅🏮🍊🍓 Like, most generic bad guys will [only] take one punch to kill - but others will, like, randomly take ten punches - and they look exactly the same as the regular guys. 🍇
+
+✅🏮🍊🍓 It's kind of weird that they didn't make a different sprite for the tougher dudes. 🍇🍌
+
+
+✅🏮🍊🍓 So, you do, in fact, rescue the President's daughter at the beginning of the final level. 🍇
+
+✅🏮🍊🍓 And (thank goodness) this isn't an escort mission. 🍇
+
+✅🏮🍊🍓 The kid is completely bulletproof, so there's no possibility of her getting hurt. 🍇
+
+✅🏮🍊🍓 There's a lot of kicking enemies in the last level (and, quite frankly, it feels like you're fighting an evil ballet troupe, at this point). 🍇🍌
+
+
+✅🏮🍊🍓 Before you can make your escape, you must face the leader of Crime Ghost, Faust. 🍇
+
+✅🏮🍊🍓 And, according to the manual, he's seven feet tall and weighs 220 pounds. 🍇
+
+✅🏮🍊🍓 He's actually not very tough at all. 🍇
+
+✅🏮🍊🍓 He doesn't have any ranged attacks and you can hit him multiple times in a row. 🍇🍌
+
+
+✅🏮🍊🍓 Once he's down, you fly away and return the President's daughter. 🍇🍌
+
+
+✅🏮🍊🍓 And thus ends the 'Ikari Warrior' series. 🍇
+
+✅🏮🍊🍓 It died as it lived - in mediocrity. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Image Fight 🇯🇵 🇺🇸 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 March 16 🇯🇵 // 1990 June [?] 🇺🇸
+👓🏮🍒💾 Developed by Irem | Lenar
+👓🏮🍒📦 Published by Irem 🇯🇵 🇺🇸 🍌
+
+
+✅🏮🍊🍓 You know, it feels like we haven't had too many Shoot-'em-Ups recently, so here's "Image Fight" from our old buddies, Irem. 🍇
+
+✅🏮🍊🍓 This was ported by Lenar - famous for their work on such titles as "Bird Week" and "Deadly Towers". 🍇
+
+✅🏮🍊🍓 Alright, so we're pluggin' in our Cyber Connectors. 🍇
+
+✅🏮🍊🍓 Gotta check out our Image Projectors. 🍇🍌
+
+
+✅🏮🍊🍓 Now, of course, "Image Fight" is not Irem's most famous Shoot-'em-Up, but it's still not bad. 🍇
+
+✅🏮🍊🍓 One nice little feature is: you can control your ship's speed. 🍇
+
+✅🏮🍊🍓 Pressing the A Button selects your ship's speed, while the B Button fires. 🍇🍌
+
+
+✅🏮🍊🍓 Now, you have two types of power-ups (those little floating spheres that function a lot like Options in "Gradius"). 🍇
+
+✅🏮🍊🍓 These come in two flavors: 🍋 Blue: which always fires straight ahead 🍋 and Orange: which fires in the opposite direction your ship was last moving in (which comes in very handy). 🍇
+
+✅🏮🍊🍓 You can also get an add-on to your main gun; this one shoots lasers at 45 degree angles to each side. 🍇
+
+✅🏮🍊🍓 The other weapons are not necessarily original (such as, there's one that shoots homing missiles; another shoots those, like, bubble things that old shooters are quite fond of). 🍇🍌
+
+
+✅🏮🍊🍓 Levels are quite short; here is the first Boss - about three minutes into the game. 🍇
+
+✅🏮🍊🍓 So, as you can see, the side-firing weapons allow you to easily hit this guy by staying clear of the... those large rings that he shoots at you. 🍇🍌
+
+
+✅🏮🍊🍓 So, this is not exactly a beautiful game, but it does have some reasonably impressive moments - like this massive carrier ship that ya fly past, while shooting out its various guns and turrets and such. 🍇
+
+✅🏮🍊🍓 Obviously, this is reminiscent of the huge ship from "R-Type". 🍇🍌
+
+
+✅🏮🍊🍓 The "Image Fight" Arcade game was released in 1988 and it is a very different game in how it plays. 🍇
+
+✅🏮🍊🍓 Graphically, of course, it's in a totally different league than the FamiCom port, with huge colorful sprites, and detailed backgrounds, and parallax scrolling in some places. 🍇
+
+✅🏮🍊🍓 But it's also much harder - with more enemies and tons of projectiles on the screen at once. 🍇
+
+✅🏮🍊🍓 And, while it certainly didn't have the impact that Irem's "R-Type" had the previous year, it's, you know, definitely not bad. 🍇
+
+✅🏮🍊🍓 Now, a port for the PC Engine was released in 1990 that's much more accurate to the original, and we'll cover that at some point in the future. 🍇🍌
+
+
+✅🏮🍊🍓 Next to the Arcade game, this feels almost tranquil, in comparison. 🍇
+
+✅🏮🍊🍓 The second Boss seems really difficult, at first. 🍇
+
+✅🏮🍊🍓 He boxes you in with these lasers that twist and turn in every direction. 🍇
+
+✅🏮🍊🍓 But it turns out that you just need to fly right up next to the dude and blast him with your angled laser. 🍇🍌
+
+
+✅🏮🍊🍓 Alright, so the next level is some kind of space station (or something)... with little mechs walking around on platforms and so on. 🍇
+
+✅🏮🍊🍓 This level's Boss goes down [pretty] quick if you can get into a position to shoot his core and avoid the missiles. 🍇🍌
+
+
+✅🏮🍊🍓 The last level is [pretty] mellow. 🍇
+
+✅🏮🍊🍓 The final Boss is this big crustacean-looking thing, whose weak spot is protected by these two claw-like arms, as well as these two small orbs that can attack you. 🍇
+
+✅🏮🍊🍓 If you lure them out, then killing this guy will be a snap - as long as you have a weapon that fires in a downward direction. 🍇
+
+✅🏮🍊🍓 Without that, I don't think he can be killed. 🍇🍌
+
+
+✅🏮🍊🍓 So, once you've beaten all five levels, it's time for the 'Real Fight' as the game calls it. 🍇
+
+✅🏮🍊🍓 As far as I can tell, the first five levels are supposed to be, like, a Virtual Reality training simulation (hence the name "Image Fight") and the last three levels are the quote unquote "Real Battle". 🍇🍌
+
+
+✅🏮🍊🍓 There's this little maze section, where you can get trapped, if you go down the wrong path. 🍇
+
+✅🏮🍊🍓 It even lures you into the wrong path with a few power-ups. 🍇🍌
+
+
+✅🏮🍊🍓 "Image Fight" is one of those games I played all [the] way through, so that you don't have to. 🍇
+
+✅🏮🍊🍓 It's not bad, by any means; I might even say that it's better than average. 🍇
+
+✅🏮🍊🍓 But there are quite a few good FamiCom shooters coming up in future episodes and "Image Fight" isn't really quite top tier. 🍇🍌
+
+
+✅🏮🍊🍓 As I mentioned, there are three 'real' levels in the game. 🍇
+
+✅🏮🍊🍓 This is the third and last one. 🍇🍌
+
+
+✅🏮🍊🍓 I like the part where this background appears out of nowhere; it's [pretty] cool! 🍇
+
+✅🏮🍊🍓 The Final Boss is apparently some kind of computer... 🍇
+
+✅🏮🍊🍓 Those two guys on either side will shoot these waves at you, which slow you down (making it harder to dodge the Boss' projectiles). 🍇
+
+✅🏮🍊🍓 You do have to be careful to not get boxed in, as well. 🍇🍌
+
+
+✅🏮🍊🍓 Once ya defeat the Final Boss and save the world, you need to file some paperwork, of course. 🍇
+
+✅🏮🍊🍓 This is probably one of the more realistic things that we've seen in a Shoot-'em-Up, game. 🍇
+
+✅🏮🍊🍓 Turns out the computer got jammed up with space weeds? 🍇🍌
+
+
+✅🏮🍊🍓 After a final cutscene, the game starts again. 🍇
+
+✅🏮🍊🍓 So, in conclusion, "Image Fight" is a purty compromised port of a decent Arcade Shooter. 🍇
+
+✅🏮🍊🍓 Despite that, it's definitely okay. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Kamen no Ninja Hanamaru 🇯🇵 // Yo! Noid 🇺🇸 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 March 16 🇯🇵 // 1990 November [?] 🇺🇸
+👓🏮🍒💾 Developed by Now Production
+👓🏮🍒📦 Published by Capcom 🇯🇵 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Alright, March 16th is apparently the day for mediocre games from major publishers. 🍇
+
+✅🏮🍊🍓 "Ikari III", "Image Fight", and now (to cap it all off) we have this little disaster from Capcom. 🍇
+
+✅🏮🍊🍓 "Kamen no Ninja Hanamaru" is an unassuming little side-scrolling Platformer about a ninja and his hawk. 🍇🍌
+
+
+✅🏮🍊🍓 It was actually developed by Now Production - a company who mostly produced games for Namco. 🍇
+
+✅🏮🍊🍓 Ya might remember a few of their games from past Chrontendo episodes like, uh, "Dragon Spirit...", "Metro-Cross" and "Wagyan Land". 🍇
+
+✅🏮🍊🍓 The most notable game we've seen from them is probably "Splatterhouse: Wanpaku Graffiti". 🍇🍌
+
+
+✅🏮🍊🍓 There is a translation of this game from pacnsacdave. 🍇
+
+✅🏮🍊🍓 So, Hanamaru is a young ninja who's going to investigate some missing kids on Fun Island. 🍇
+
+✅🏮🍊🍓 Wait a second; is Fun Island just Disneyland? 🍇🍌
+
+
+✅🏮🍊🍓 This is a purty simple little Platformer that would have felt right at home in 1986. 🍇
+
+✅🏮🍊🍓 One button jumps and the other shoots your hawk, Takamaru, at the enemies... of which there really aren't that many. 🍇
+
+✅🏮🍊🍓 Fish will also jump out of the water, killing you if you touch one (because, as you know, ninjas will die if they touch a fish). 🍇🍌
+
+
+✅🏮🍊🍓 More dangerous is the island rising and falling in the water, occasionally submerging some sections. 🍇
+
+✅🏮🍊🍓 You must avoid standing on any section that is even the slightest bit underwater (since, if a ninja gets his ankles wet, he will die of pneumonia). 🍇🍌
+
+
+✅🏮🍊🍓 Now, here's the weird part. 🍇
+
+✅🏮🍊🍓 At the end of most levels, there's an unconventional Boss battle; you play sort of a card game against the enemy. 🍇
+
+✅🏮🍊🍓 The highest card wins and the guy with the lower card will lose a number of Life Blocks, based on the difference between the cards. 🍇
+
+✅🏮🍊🍓 So, if you play a 1 and your opponent plays a 3, you will lose two Life Blocks. 🍇
+
+✅🏮🍊🍓 Now, you do have an advantage, because your opponent always plays his card first. 🍇
+
+✅🏮🍊🍓 Ya then go on to the next level (everyone's favorite - the ice level) and then so on. 🍇🍌
+
+
+✅🏮🍊🍓 The game was not well-received and got a 24 out of 40 from Famitsu. 🍇🍌
+
+
+✅🏮🍊🍓 Now, no one really cares about Hanamaru, but in the U.S. this achieved a certain level of infamy when it appeared in a highly modified form as "Yo! Noid" in November 1990. 🍇
+
+✅🏮🍊🍓 The oddity of a video game from Capcom being based on a short-lived advertising campaign from a pizza chain lends a certain fascination to "Yo! Noid". 🍇
+
+✅🏮🍊🍓 Obviously, there are plenty of N.E.S. games based on licensed properties (such as Disney characters) but the Noid [only] existed in the world of 30-second T.V. commercials. 🍇
+
+✅🏮🍊🍓 (I mean, Domino's wasn't even good pizza!) 🍇🍌
+
+
+✅🏮🍊🍓 The structure of the game remains the same and the level designs are the same (just with different graphics). 🍇
+
+✅🏮🍊🍓 Instead of Islands, we have the Noid traveling across Docks, and Soldiers replaced by strangely-aggressive Dock Workers, Polar Bears transformed into Hockey-playing Bears (for some reason) on a Rooftop Ice-skating Rink, and instead of an Eagle the Noid has a Yo-Yo (which I don't believe has any precedent in any of the Domino's commercials). 🍇
+
+✅🏮🍊🍓 Now, to make matters even weirder, the Boss fights are replaced with pizza-eating contests, in which you face off against the quote-unquote "area champion" (who just happens to be another Noid, dressed in a different color outfit). 🍇🍌
+
+
+✅🏮🍊🍓 Now, there isn't really much 'Noid' lore produced by Domino's, but this game implies there is an entire race of Noids and that each area in New York has an official Noid pizza-eating champion. 🍇
+
+✅🏮🍊🍓 The mechanics work very similar to the fights in Hanamaru but, instead of trying to empty your opponent's Life Meter, you are trying to fill up your Pizza Meter. 🍇
+
+✅🏮🍊🍓 So, if you play a Four card and your opponent plays a One card, you get to eat three pizzas. 🍇🍌
+
+
+✅🏮🍊🍓 And, first of all, these are obviously not pizzas. 🍇
+
+✅🏮🍊🍓 They're, like, the size of a cookie. 🍇🍌
+
+
+✅🏮🍊🍓 You also have special cards (like the Multiplier) which gives you extra pizzas. 🍇
+
+✅🏮🍊🍓 Or the Pepper and Hot Sauce cards (which will prevent your opponent from eating the pizzas that he's won). 🍇
+
+✅🏮🍊🍓 You'd typically use those when your opponent plays a high-number card. 🍇
+
+✅🏮🍊🍓 You'd then use the Pepper card and a low-number card (thus denying him the fruits of his victory). 🍇🍌
+
+
+✅🏮🍊🍓 The thing about this is that the Noid would not be engaging in any pizza-eating contests, because the Noid doesn't like pizza. 🍇
+
+✅🏮🍊🍓 In fact, he detests pizza; he's made it his life's work to destroy pizza. 🍇
+
+✅🏮🍊🍓 And a game which depicts the Noid eating pizza is, quite frankly, a travesty. 🍇🍌
+
+
+✅🏮🍊🍓 For those who were not around at the time, the Noid (a gibbering microcephalic idiot in a red bunny suit) first appeared in Domino's pizza commercials in 1986. 🍇
+
+✅🏮🍊🍓 Domino's gimmick at the time was to say that they would deliver your pizza in 30 minutes or less. 🍇
+
+✅🏮🍊🍓 And, if they failed to do so, the pizza would be free. 🍇🍌
+
+
+✅🏮🍊🍓 The Noid character seemed to hold a grudge of some sort against Domino's (as well as a grudge against pizza in general). 🍇
+
+✅🏮🍊🍓 Using a variety of contraptions, he would try to destroy or ruin the piping-hot pizzas. 🍇
+
+✅🏮🍊🍓 [Only] with Domino's delivery could you 'avoid the Noid'. 🍇🍌
+
+
+✅🏮🍊🍓 Such devices such as his pizza crusher would always malfunction or backfire (Wile E. Coyote style) when used against Domino's pizzas. 🍇
+
+✅🏮🍊🍓 The Claymation commercials were produced by Will Vinton Studios, who also created 'The California Raisins'. 🍇
+
+✅🏮🍊🍓 The Vinton studio would eventually evolve into Laika, which produced much more high-minded animated fare. 🍇🍌
+
+
+✅🏮🍊🍓 "Yo! Noid" is actually not the first 'Noid' video game. 🍇
+
+✅🏮🍊🍓 That would be "Avoid the Noid" - a 1989 Computer Game in which you play as a very acrobatic pizza delivery guy and you try to, well, 'avoid the Noid' and successfully deliver your pizzas. 🍇
+
+✅🏮🍊🍓 This definitely feels much more faithful to the Noid's original character than the N.E.S. game. 🍇🍌
+
+
+✅🏮🍊🍓 Now, the Noid's story took a dark turn when a man named Kenneth Lamar Noid held several Domino's employees hostage, believing that the Noid commercials were some kind of personal attack against him. 🍇
+
+✅🏮🍊🍓 Noid eventually surrendered and was sentenced to an insane asylum, but after being released, he killed himself in 1995. 🍇
+
+✅🏮🍊🍓 Perhaps coincidentally, Domino's dropped the Noid commercials, shortly thereafter. 🍇🍌
+
+
+✅🏮🍊🍓 The plot of "Yo! Noid" is [pretty] weird. 🍇
+
+✅🏮🍊🍓 A gang of hooligans is taking over New York and the Noid is the [only] one who can save the city. 🍇
+
+✅🏮🍊🍓 Rather than ruining delicious Domino's pizzas, the Noid travels around the city, fighting bad guys. 🍇🍌
+
+
+✅🏮🍊🍓 There are 15 levels, altogether. 🍇
+
+✅🏮🍊🍓 Some, like the skateboarding levels, are actually kind of fun (though it was never clear to me why sometimes I'd die when landing on an enemy's head with a skateboard - and other times I'd kill the enemy instead). 🍇🍌
+
+
+✅🏮🍊🍓 The enemies you encounter include rockabilly Plumbers and fire-breathing Punk Rockers. 🍇
+
+✅🏮🍊🍓 In the sewers, you'll find Dynamite-throwing Miners and Buckets full of Rats. 🍇🍌
+
+
+✅🏮🍊🍓 "Yo! Noid" does not feel polished. 🍇
+
+✅🏮🍊🍓 Most of the side-scrolling levels alternate between being boring and being unfair when enemies just appear out of nowhere and kill you. 🍇
+
+✅🏮🍊🍓 The Boss battles drag on too long (especially in the later stages, as the battles get longer and longer). 🍇
+
+✅🏮🍊🍓 "Yo! Noid" is really [only] interesting as a weird cultural oddity. 🍇🍌
+
+
+✅🏮🍊🍓 Being from Capcom, it's a disappointment. 🍇
+
+✅🏮🍊🍓 It lacks the creativity of their other late-'80s and early-'90s licensed product like "Duck Tales" or "Chip 'n' Dale". 🍇
+
+✅🏮🍊🍓 It's just (kind of) okay. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Isaki Shuugorou no Keiba Hisshou Gaku 🇯🇵 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 March 20 🇯🇵
+👓🏮🍒💾 Developed by C-Lab
+👓🏮🍒📦 Published by Imagineer 🇯🇵 🍌
+
+
+✅🏮🍊🍓 Alright, here's one from Imagineer who are well known for... not much, really - mostly just "Battle of Olympus". 🍇
+
+✅🏮🍊🍓 So, this is the boring game this episode: "Isaki Shuugorou no Keiba Hisshou Gaku". 🍇🍌
+
+
+✅🏮🍊🍓 And, yes, this is a Horse Racing game. 🍇
+
+✅🏮🍊🍓 The 'game of kings' is quite popular in Japan and there were a lot of Horse Racing video games made. 🍇
+
+✅🏮🍊🍓 We've covered at least one, earlier in this series. 🍇🍌
+
+
+✅🏮🍊🍓 Now, this is not a Horse Raising or Training Simulation Game. 🍇
+
+✅🏮🍊🍓 It's a Horse Race *Betting* Simulation Game. 🍇
+
+✅🏮🍊🍓 The object here is just to bet on horse races and make money. 🍇🍌
+
+
+✅🏮🍊🍓 Now, there's a number of things to do in this game. 🍇
+
+✅🏮🍊🍓 First and foremost is watching horse races. 🍇
+
+✅🏮🍊🍓 The races are all set to Stephen Foster's "Camptown Races" (which seems appropriate) and Rossini's "William Tell Overture" (which has also become associated with horses, over the years). 🍇🍌
+
+
+✅🏮🍊🍓 But, before you can win money you need to spend money, so head on down to the racetrack and plunk down some cash. 🍇
+
+✅🏮🍊🍓 You can get more betting money by taking out a loan from various sources. 🍇
+
+✅🏮🍊🍓 Now, this isn't just any old Horse Racing game; as per the title, this is an Isaki Shuugorou racing game. 🍇🍌
+
+
+✅🏮🍊🍓 And - while the name Isaki Shuugorou isn't going to mean anything to you or me - he is, in fact, Japan's most famous Horse Racing pundit. 🍇
+
+✅🏮🍊🍓 This is him, looking quite dapper. 🍇
+
+✅🏮🍊🍓 He's done televised commentary on horse races since the 1980s, he's written Horse Racing-related books, as well as columns for racing periodicals. 🍇
+
+✅🏮🍊🍓 He still seems to be very active in the world of Horse Racing media, as far as I can tell. 🍇🍌
+
+
+✅🏮🍊🍓 In order to pick winners, you'll need to study up on the ponies - so the game provides all kinds of stats and info on the horses. 🍇
+
+✅🏮🍊🍓 If I knew even the slightest thing about Horse Racing, this might be interesting to me. 🍇
+
+✅🏮🍊🍓 Unfortunately, I have no idea how to pick horses and sucked [pretty] bad while playing this. 🍇🍌
+
+
+✅🏮🍊🍓 Aside from looking at stats, you can ask people for their opinion on horse races (like a guy in the bathroom!? - he'll sell you a hint for ¥1,000). 🍇🍌
+
+
+✅🏮🍊🍓 And, it turns out, there are around 132 races in the game. 🍇
+
+✅🏮🍊🍓 To win you'll need to have a certain amount of money at the end [of] the game. 🍇🍌
+
+
+✅🏮🍊🍓 But, apparently, the good ending and bad ending are virtually the same and not very spectacular? 🍇
+
+✅🏮🍊🍓 The ending screen is just a picture of a sunset. 🍇🍌
+
+
+✅🏮🍊🍓 Okay, moving on, we've got three games from March 23rd. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Famimaga Disk Vol. 1: Hong Kong 🇯🇵 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 March 23 🇯🇵
+👓🏮🍒💾 Developed by [?]
+👓🏮🍒📦 Published by Tokuma Shoten 🇯🇵 🍌
+
+
+✅🏮🍊🍓 Yes! It's been so long since we've seen a FamiCom Disk System game. 🍇
+
+✅🏮🍊🍓 The last one was back in November 1989. 🍇🍌
+
+
+✅🏮🍊🍓 Ya *gotta* love these loading screens. 🍇
+
+✅🏮🍊🍓 The FamiMaga discs apparently came with copies of Takuma Shoten's FamiCom magazine - an actual newsstand magazine. 🍇
+
+✅🏮🍊🍓 Disc One is called "Hong Kong". 🍇
+
+✅🏮🍊🍓 Takuma Shoten released six of these - the final one coming out in December 1992. 🍇
+
+✅🏮🍊🍓 I think Takuma Shoten was the last true believer when it came to the FamiCom Disk System. 🍇
+
+✅🏮🍊🍓 So, "Hong Kong" is a puzzle game of sorts, played with Mahjong tiles (similar to the more well-known "Shanghai" game). 🍇🍌
+
+
+✅🏮🍊🍓 I guess this episode is basically the Puzzle Game episode (better than the next episode, which is gonna be the Sports and T.V. Game Show episode). 🍇
+
+✅🏮🍊🍓 Ya have several options, including the ability to design your own arrangements (since these can be saved, because the F.D.S. is basically a floppy disk drive). 🍇🍌
+
+
+✅🏮🍊🍓 Right, so we have this big array of tiles. 🍇
+
+✅🏮🍊🍓 It's best to think of this as a vertical structure. 🍇
+
+✅🏮🍊🍓 It's basically a weirdly-shaped brick wall. 🍇
+
+✅🏮🍊🍓 Ya need to remove bricks, one at a time. 🍇🍌
+
+
+✅🏮🍊🍓 As long as a tile is supported by another tile below it, you're fine. 🍇
+
+✅🏮🍊🍓 Without at least one supporting tile, any tile will fall - taking all the tiles above it down, and you'll lose. 🍇
+
+✅🏮🍊🍓 Now, on the left hand side under the word 'Next', it will show a tile and you must remove that type of tile. 🍇🍌
+
+
+✅🏮🍊🍓 The object is to remove all tiles without the wall collapsing (so it's sort of like Jenga in two dimensions). 🍇
+
+✅🏮🍊🍓 Clearly, the best plan of action is to start at the top and work your way down. 🍇
+
+✅🏮🍊🍓 Now, I think it's [pretty] clear how to play this game, so I'll just shut up for a few moments. 🍇🍌
+
+
+✅🏮🍊🍓 Once you get down to just a few rows, then you're [pretty] much good to go. 🍇
+
+✅🏮🍊🍓 And there are harder patterns, like the hourglass. 🍇
+
+✅🏮🍊🍓 Since you have several very narrow rows, you can [only] remove a few tiles from these rows without the whole thing collapsing. 🍇
+
+✅🏮🍊🍓 I'm sure every puzzle is solvable but since you don't know what tiles are coming up, it is entirely possible to end up in a no-win situation. 🍇🍌
+
+
+✅🏮🍊🍓 I've mentioned before there is a level editor - which sounds like a [pretty] cool idea (though I'm not sure if it's possible to create a level that can't be solved or not). 🍇
+
+✅🏮🍊🍓 Anyway, "Hong Kong" is a, cute little time-waster and you F.D.S. enthusiasts can look forward to another five titles in the FamiMaga series. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Sansara Naga 🇯🇵 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 March 23 🇯🇵
+👓🏮🍒💾 Developed by Advance Communication
+👓🏮🍒📦 Published by Victor Interactive 🇯🇵 🍌
+
+
+✅🏮🍊🍓 Okay, wow! Here we go: "Sansara Naga". 🍇
+
+✅🏮🍊🍓 So, who wants to see an R.P.G. developed by the same guys who made "Dr. Jekyll and Mr. Hyde" for the N.E.S.? 🍇
+
+✅🏮🍊🍓 What's that you say? 🍇
+
+✅🏮🍊🍓 Well, too bad; I had to look at this game... and so do you. 🍇🍌
+
+
+✅🏮🍊🍓 This was published by Victor Interactive, who've not had the best track record throughout the Chrontendo series. 🍇🍌
+
+
+✅🏮🍊🍓 In the words of Keats, "...Beauty is truth, truth beauty, – that is all...". 🍇
+
+✅🏮🍊🍓 "Sansara Naga" contains no beauty and nor would I argue that it offers any truth. 🍇
+
+✅🏮🍊🍓 It obviously never received a U.S. release and was mostly forgotten but (against all odds) there is a full English translation, so let's take a look. 🍇🍌
+
+
+✅🏮🍊🍓 Okay, so you stole a dragon egg from [a] village and the entire population [of] the village is P.O.ed, but it turns out the dragon egg was just an ostrich egg. 🍇
+
+✅🏮🍊🍓 I guess the egg hatched and this full-grown ostrich that you are chasing is what came out of the egg? 🍇🍌
+
+
+✅🏮🍊🍓 If you go into your village and talk to people, you'll find that everyone hates you and will beat you up if you talk to them, leaving you with one Hit Point. 🍇
+
+✅🏮🍊🍓 Luckily, if you then die your grandmother will revive you and you'll end up back at the village, fully healed. 🍇🍌
+
+
+✅🏮🍊🍓 Now, let's state the obvious; this looks surprisingly bad for a 1990 game. 🍇
+
+✅🏮🍊🍓 Just look at this texture! 🍇
+
+✅🏮🍊🍓 And look at this sprite! 🍇
+
+✅🏮🍊🍓 Where're his legs? 🍇
+
+✅🏮🍊🍓 The developers have definitely recreated, like, the classic 1985 FamiCom vibe with this game. 🍇🍌
+
+
+✅🏮🍊🍓 The disappointing thing about "Sansara Naga" is it tries to do things differently than your standard J.R.P.G., but the execution is so shaky that the final product is just total crap. 🍇
+
+✅🏮🍊🍓 It has random battles but, at this point, there's no benefit to fighting monsters. 🍇
+
+✅🏮🍊🍓 You don't get any Experience or Money and when you win a battle you get a message that says 'you didn't earn any trophies'. 🍇🍌
+
+
+✅🏮🍊🍓 Now, you can try to run away from fights but this does sometimes fail and you might get hit a couple times. 🍇
+
+✅🏮🍊🍓 Much stronger enemies will attack you if you [stray] off the green path, so it's purty easy to die 5 minutes into this game. 🍇🍌
+
+
+✅🏮🍊🍓 Once you reach this guy's house he'll says he'll swap you a dragon egg for some dragon dung. 🍇
+
+✅🏮🍊🍓 Fortunately, there is a tree which holds the dragon dung and isn't very far away. 🍇
+
+✅🏮🍊🍓 On the other hand, the dung is hidden in one of the many, many holes in the tree - so you'll need to navigate the tree's internal maze until ya finally get the message saying that ya found the dung. 🍇
+
+✅🏮🍊🍓 There is also some low-grade armor and a sword (which I guess is better than nothing). 🍇
+
+✅🏮🍊🍓 You then, of course, need to return to the dude's hut and choose a dragon egg. 🍇🍌
+
+
+✅🏮🍊🍓 Apparently they have different types of dragons in them (meaning the dragon will have different abilities, once it's hatched). 🍇
+
+✅🏮🍊🍓 And then we get to the old delayed-title-screen thing - similar to "Final Fantasy" and other J.R.P.G.s. 🍇🍌
+
+
+✅🏮🍊🍓 At this point, your dragon egg is absolutely useless - but it will eventually hatch. 🍇
+
+✅🏮🍊🍓 Your next objective is simply to leave your hometown and explore the world. 🍇
+
+✅🏮🍊🍓 Wandering around the game's large empty spaces isn't exactly fun. 🍇🍌
+
+
+✅🏮🍊🍓 You will often run into more powerful monsters that will knock off tons of Health. 🍇
+
+✅🏮🍊🍓 And remember: you don't get any Experience or Money from battles, so they are mostly a losing proposition. 🍇
+
+✅🏮🍊🍓 You can try to Run Away, but this fails on a [pretty] regular basis - so there's really no way to avoid losing Health as you explore. 🍇
+
+✅🏮🍊🍓 You'll probably find yourselves getting killed and being sent back to your home village on a regular basis. 🍇🍌
+
+
+✅🏮🍊🍓 If you come across this little shop by the river, there's a guy who gives you some money. 🍇
+
+✅🏮🍊🍓 There's also a Food stand here, and you would think that the Food would restore your Health but... buying a Food item off the menu just gives you hints about the game (like where to go next). 🍇
+
+✅🏮🍊🍓 And, after this, just wander around - getting killed, every so often. 🍇🍌
+
+
+✅🏮🍊🍓 I eventually made my way to the capital city, which is divided into three separate sections. 🍇
+
+✅🏮🍊🍓 And this is kinda weird, because typically in J.R.P.G.s the first city you encounter is, like, [pretty] modest; it's, like, a small town. 🍇
+
+✅🏮🍊🍓 And this city is huge! 🍇
+
+✅🏮🍊🍓 There are shops carrying all kinds of items (which I have no idea what they do and I can't afford any of them). 🍇
+
+✅🏮🍊🍓 You can take out a loan (though I'm not sure how I would repay it). 🍇🍌
+
+
+✅🏮🍊🍓 The fact that "Sansara Naga" does away with the oldest R.P.G. rule (that monsters drop loot) makes this game very confusing for me. 🍇
+
+✅🏮🍊🍓 Now, I have nothing against R.P.G.s that use experimental or unusual mechanics (N.E.S. games like "Final Fantasy III" and the 'Megami [Tensei]' series do this and it works). 🍇
+
+✅🏮🍊🍓 In, "Sansara Naga", however, the weird mechanics just makes it feel frustrating and pointless. 🍇🍌
+
+
+✅🏮🍊🍓 Eventually, your dragon will hatch and... Boy! she's ugly! 🍇
+
+✅🏮🍊🍓 However, she still appears to be useless and doesn't really seem to do anything in battle. 🍇
+
+✅🏮🍊🍓 I guess the dragon has to grow up a bit more? 🍇🍌
+
+
+✅🏮🍊🍓 Other fun things: if you accidentally fall into the water outside the city, you will immediately get murdered by water cats. 🍇
+
+✅🏮🍊🍓 In fact, you get murdered a lot in general, during this game. 🍇🍌
+
+
+✅🏮🍊🍓 Honestly, I've done a lot of boring bog-standard R.P.G.s throughout the Chrontendo series and this is one of my least-favorites. 🍇
+
+✅🏮🍊🍓 The combination of just hideous graphics and bizarre design choices really turn me off. 🍇
+
+✅🏮🍊🍓 Maybe it gets better later on, but (from what I played) I get, sort of, serious "Hoshi no Miru Hito" vibes from this game. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Boulder Dash 🇯🇵 🇺🇸 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 March 23 🇯🇵 // 1990 June [?] 🇺🇸
+👓🏮🍒💾 Developed by First Star | Sakata SAS
+👓🏮🍒📦 Published by Data East 🇯🇵 // JVC 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Our final game today and it's "Boulder Dash" - a game that has been released on probably every single video game or computer platform that has ever existed - so (of course) it got ported to the FamiCom. 🍇
+
+✅🏮🍊🍓 Released in Japan by Data East, this got a U.S. release in June by JVC Digital Studios - a company probably most well known in the U.S. for their Star Wars console games like "Super Star Wars". 🍇
+
+✅🏮🍊🍓 They seem to be the U.S. and European counterpart of Japan's Victor Interactive Software. 🍇🍌
+
+
+✅🏮🍊🍓 As far as I can tell, the game itself is exactly the same in the U.S. and Japanese versions (aside from the substantially different box art). 🍇
+
+✅🏮🍊🍓 This particular version of "Boulder Dash" has been heavily cutified with its short tubby protagonist and its, sort of, "Super Mario... 3"-ish World Map. 🍇
+
+✅🏮🍊🍓 You can choose the color of your character's uniform, for some reason. 🍇🍌
+
+
+✅🏮🍊🍓 For those of you unfamiliar with "Boulder Dash", here's the deal. 🍇
+
+✅🏮🍊🍓 The story is that your father dies and leaves you a bunch of diamond mines, so you've gotta hop around the world and explore these mines, looking for diamonds. 🍇
+
+✅🏮🍊🍓 There are six worlds - each of which contains four levels. 🍇
+
+✅🏮🍊🍓 The object is simply to collect a certain number of diamonds in each mine, before the time runs out. 🍇🍌
+
+
+✅🏮🍊🍓 Now, "Boulder Dash" exists in some kind of weird dimensional space, uh, sort of like an M. C. Escher world where the perspective is both top-down (like "...Zelda...") and side-view (like "...Mario...") - but at the same time. 🍇
+
+✅🏮🍊🍓 Just as in a top-down game, you can move freely in all four cardinal directions - as long as there's no object blocking your way. 🍇
+
+✅🏮🍊🍓 However, the boulders will also fall downward from the top [of] the screen if there is nothing below them. 🍇
+
+✅🏮🍊🍓 So, "up", in this game, means both: 🍋 'up vertically' - 🍋 and 'Northwards, along the ground'. 🍇
+
+✅🏮🍊🍓 This might make a bit more sense if this were in, like, a three-quarter view or an isometric view - but "Boulder Dash" was created in 1982, so that wasn't really an option. 🍇🍌
+
+
+✅🏮🍊🍓 The first few levels are [pretty] simple and function, sort of, as a training level - teaching you how to understand the game's mechanics and tactics. 🍇
+
+✅🏮🍊🍓 The important thing to know is that unsupported boulders *will* fall and crush you (so, if you dig below a boulder, you'll need to move out of the way [pretty] quickly). 🍇
+
+✅🏮🍊🍓 Stacks of boulders will also topple over, if you dig away the ground to the left or right of them. 🍇
+
+✅🏮🍊🍓 These will, of course, also crush you. 🍇
+
+✅🏮🍊🍓 As you progress, the game adds in a number of different monsters and more diabolical traps. 🍇🍌
+
+
+✅🏮🍊🍓 Now, the roots of "Boulder Dash" ultimately go all the way back to "Dig Dug", I suppose, but its direct inspiration appears to be a 1982 Arcade Game, called "The Pit". 🍇
+
+✅🏮🍊🍓 Most of the basic concepts of "Boulder Dash" are present. 🍇
+
+✅🏮🍊🍓 Dig through the ground, attempting to collect diamonds, while trying to avoid monsters or getting crushed by boulders. 🍇🍌
+
+
+✅🏮🍊🍓 "The Pit" isn't a very good game, but it did inspire a young game designer, named Chris Gray, to create a prototype of a similar digging game. 🍇
+
+✅🏮🍊🍓 Yes *that* Chris Gray - the guy who made that damn helicopter game from a couple episodes ago. 🍇
+
+✅🏮🍊🍓 Gray crossed paths with a guy named Peter Liepa, who ended up apparently completely reworking the game. 🍇
+
+✅🏮🍊🍓 Liepa then shopped it around to potential publishers and Richard M. Spitalny of [First] Star Software came [across] a copy of it and then bought the rights to "Boulder Dash". 🍇
+
+✅🏮🍊🍓 The game was then finished and released for the Atari 400 in 1984 - and then ported to the Commodore 64 and other platforms. 🍇
+
+✅🏮🍊🍓 This, here, is the Arcade version from Data East, but it looks almost identical to the Computer original. 🍇🍌
+
+
+✅🏮🍊🍓 Among other things, the game was noteworthy for your character's impatiently tapping his foot while idle - just like certain other later video game protagonists would do. 🍇
+
+✅🏮🍊🍓 "Boulder Dash" was virtually the killer app for home computers in 1984. 🍇
+
+✅🏮🍊🍓 It was the mid-'80s equivalent to id Software's "DOOM" a decade later. 🍇🍌
+
+
+✅🏮🍊🍓 By 1990, though, it was a bit long in the tooth. 🍇
+
+✅🏮🍊🍓 There had already been four (maybe five?) sequels to the original game, when this came out. 🍇
+
+✅🏮🍊🍓 And, aside from the N.E.S. version, there was also a Game Boy release in 1990. 🍇🍌
+
+
+✅🏮🍊🍓 And "Boulder Dash" products never quite stopped being released. 🍇
+
+✅🏮🍊🍓 Various handheld and cell phone versions of the game have been released recently and it seems kind of like "Pac-Man" - one of those games that will never truly die. 🍇🍌
+
+
+✅🏮🍊🍓 Now, one question, though, you might ask is, "What sort of creature is Rockford?" (and, yes, that's your character's name - Rockford). 🍇
+
+✅🏮🍊🍓 He looks like a normal guy in the N.E.S. and Game Boy "Boulder Dash"s, but on the original Computer games, he's depicted as some sort of tomato-headed creature - which is odd (to say the least). 🍇🍌
+
+
+✅🏮🍊🍓 Now, if you've been watching this footage of "Boulder Dash" and thinking, 🍋 'Wow this looks really easy!', 🍋 well, be aware the difficulty ramps up a *lot*, as you play the game, and you'll soon be experiencing *much* more difficult puzzles and very fast enemies rushing at you all the time. 🍇
+
+✅🏮🍊🍓 You'll need to quickly figure out a plan to trap, kill, or avoid enemies and solve environmental puzzles. 🍇
+
+✅🏮🍊🍓 Levels might begin with an insta-kill if you don't immediately spring into action - the second the level starts. 🍇
+
+✅🏮🍊🍓 The whole thing is kind of cheap and unfair, by today's standards - but, if you do want a brutally cruel Action Puzzle Game, then check this out. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🥇 Episode 57 Wrap Up ✨
+
+
+✅🏮🍊🍓 Alright, another ten games down. 🍇
+
+✅🏮🍊🍓 Maybe a better collection, overall, than last episode? 🍇🍌
+
+
+✅🏮🍊🍓 Best Game this time? 🍇
+
+✅🏮🍊🍓 Uh... Maybe "Don Doko Don" or "Image Fight"? 🍇
+
+✅🏮🍊🍓 Neither of those are exactly ambitious, but they're both pleasant. 🍇🍌
+
+
+✅🏮🍊🍓 Worst Game? 🍇
+
+✅🏮🍊🍓 I'll give it to "Sansara Naga". 🍇
+
+✅🏮🍊🍓 Maybe that's not fair; I mean it might get better, later on (I didn't play very much of it). 🍇
+
+✅🏮🍊🍓 But, honestly, I'm not gonna give this one the benefit of the doubt. 🍇🍌
+
+
+✅🏮🍊🍓 "...Episode 58" will close out the last few Japanese games of March and move on to some Western releases. 🍇
+
+✅🏮🍊🍓 And, let me tell ya, it's gonna be a rough one - some really bottom-of-the-barrel stuff, there. 🍇
+
+✅🏮🍊🍓 Hopefully you can endure. 🍇🍌
+
+
+✅🏮🍊🍓 So, thanks a lot and see ya next time. 🍇🍌
+
+
+
+👓🏮🍊🎇# 📇 Thanks to the Patrons ✨
+
+
+✅🏮🍊Abraham "Peripheral" Drimmer 🍋 Alex D'Arata-Wolfe 🍋 Alex Minor 🍋 Andrew Makula 🍋 Andy Bene 🍋 Ben Schwartz 🍋 Ben Slater 🍋 BerserkerKong02 🍋 Birdy 🍋 Bob Mackey 🍋 Brian Cedrone 🍋 Brian Foote 🍋 Brick Road 🍋 Bryan "Korly" Corley 🍋 Bwo 🍋 Captain Ginyu
+✅🏮🍊Cmweed 🍋 Colby 🍋 Cole Sabin 🍋 Colin Peacock 🍋 Craig Erickson 🍋 Daakmore 🍋 Danny Roever 🍋 Devon Meunier 🍋 Dezm101 🍋 Dustin Cooper 🍋 Flavio Testa 🍋 Fletcher Arnett 🍋 Fourside 🍋 Frankie Coleman 🍋 Fred 🍋 fufflebee
+✅🏮🍊Fuxter 🍋 Gary Galloway 🍋 Geoff Miller 🍋 Guthrie Iddings 🍋 HisameJP 🍋 Hugo Ojeda 🍋 ihavefivehat 🍋 James Skemp 🍋 Jared Breland 🍋 Jay 🍋 Jayson Magana 🍋 Jensma 🍋 Jody Anthony 🍋 Joe P 🍋 Kewl0210 🍋 Likwid
+✅🏮🍊Mathew Winstone 🍋 Matt F 🍋 Matthew Seavey 🍋 Max Pixley Smith 🍋 Mike "Goodly-Mike" F 🍋 Mike B 🍋 MikeyCox 🍋 Miles Mariae 🍋 Mina Cream 🍋 N64th Street 🍋 Natalie 🍋 Nate Lawrence 🍋 Noee 🍋 Oliver Scott 🍋 pcbjunkie 🍋 Peter LaPrade
+✅🏮🍊Phil Falco 🍋 Retro Pals 🍋 Richard Beres 🍋 Richard Layton 🍋 Rob Browning 🍋 Sean697 🍋 Shaxbert 🍋 Tertus 🍋 The Rotary Club of Saladoria 🍋 Tyma Hughes 🍋 Will Minor 🍋 Will Mistretta 🍋 Zveebo
+
+
+
+👓🏮🍊🎇# 🎞️ Episode 57 Credits ✨
+
+🎧🏮🍊♪ "Vitamin C" ♪ by Can (Live in Paris 1973)
+
+
+👓🏮🍊🍓 Thank you for watching 🍋 "Chrontendo 🍋 Episode 57". 🍇🍌
+
+
+👓🏮🍊Opening Music: 🍋 ♪ "UFO" ♪ by ESG 🍋 🍋 Game Info Screen Music: 🍋 ♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise 🍋 🍋 ♪ "3030" ♪ by Deltron 3030 🍋 (Contains samples of ♪ "Introit" ♪ by William Sheller) 🍋 🍋 Credits Music: 🍋 ♪ "Vitamin C" ♪ by Can (Live in Paris 1973) 🍌
+
+
+👓🏮🍊Produced by 🍋 👨🏻‍🏫 Dr. Sparkle✨ 🍋 🍋 Blogspot, YouTube, Patreon, 🍋 Twitter, Tumblr: @Chrontendo 🍌
+
+
+👓🏮🍊🍓 All images and sounds contained in 🍋 this video are copyright their 🍋 respective owners. 🍇🍌
+
+
+👓🏮🍊🍓 Support 'Chrontendo' on Patreon 🍋 patreon.com/chrontendo 🍇
+
+
+
+
+
+
+
+
+
+

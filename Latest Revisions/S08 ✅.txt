@@ -1,0 +1,2858 @@
+🗂️# S08.02.00 ✅[🏮]
+
+
+👓🏮🍊🎇# 🎇 Production Logo ✨
+
+
+👓🏮🍊Dr. Sparkle Presents
+
+
+
+👓🏮🍊🎇# 📽️ Chronsega Title Sequence ✨
+
+🎧🏮🍊♪ "Legend of the Gunstars" ♪ from "Gunstar Heroes"
+
+
+👓🏮🍊"CHRONSEGA 🍋 EPISODE 8"🍌
+
+
+👓🏮🍊Index ☰️, Transcript ⌨️, 🍋 + Captions ⏱ in English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🍋 from Nate Lawrence 🏮🍌
+
+👓🏮🍊Translated from English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🍋 to __________ 🏁 by __________ ⬜🍌
+
+
+
+👓🏮🍊🎇# 🗨️ Introduction to Chronsega Episode 8 ✨
+
+
+✅🏮🍊🍓 Hey, folks, it's Dr. Sparkle here. 🍇
+
+✅🏮🍊🍓 You guys could sit down for just a moment; it's time we had this little talk. 🍇🍌
+
+
+✅🏮🍊🍓 Things are changing for 'Chronsega', starting this episode. 🍇
+
+✅🏮🍊🍓 Now, things were changing for Sega in 1989 as well, and it's time we changed too. 🍇
+
+✅🏮🍊🍓 Namely, it was at this point that Sega moved its focus from the 8-bit Master System to the next generation console, the 16-bit Mega Drive. 🍇🍌
+
+
+✅🏮🍊🍓 Last episode, we saw the final Japanese Master System game "Bomber Raid". 🍇
+
+✅🏮🍊🍓 Sega would continue to release games in the U.S. for about another year, and for a few more years in Europe. 🍇
+
+✅🏮🍊🍓 Oddly, the Master System found its greatest success in Europe around '92 and '93 by riding the coattails of the Mega Drive's success. 🍇🍌
+
+
+✅🏮🍊🍓 But even after this, the system simply refused to die. 🍇
+
+✅🏮🍊🍓 The mighty Master System kept going and releasing games until 1998 in Brazil - the same year that Sega discontinued the Mega Drive and the Saturn in the U.S. to make way for the new Dreamcast. 🍇
+
+✅🏮🍊🍓 That would be like Nintendo killing off the Nintendo Entertainment System right before the GameCube came out. 🍇🍌
+
+
+✅🏮🍊🍓 So, starting now, each 'Chronsega' will have two sections - one for the Mega Drive and one for the Master System. 🍇
+
+✅🏮🍊🍓 "...Episode 8" will cover the Mega Drive up to June 1989, and the, uh, mid-1989 releases for the Master System. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🗨️ Introduction to the Mega Drive ✨
+
+
+✅🏮🍊🍓 Before we get started, let's take a look at Sega's new system. 🍇
+
+✅🏮🍊🍓 By the late-1980s it's clear that the lifespan of 8-bit consoles was limited. 🍇
+
+✅🏮🍊🍓 The P.C. Engine was a quasi-16-bit console and re... -- was released in Japan in 1987 and was [pretty] successful. 🍇
+
+✅🏮🍊🍓 By this point, Sega was already working on these so-called Sega Mark V, based somewhat on Sega's 16-bit Arcade board, the System 16, which debuted in 1986. 🍇
+
+✅🏮🍊🍓 Games like "Shinobi" and "Fantasy Zone" were on the System 16 board. 🍇🍌
+
+
+✅🏮🍊🍓 Both the System 16 and the Mega Drive used a Motorola 68000 and a Zilog Z80 and a Yamaha sound chip. 🍇
+
+✅🏮🍊🍓 Still, by the time the Mega Drive came out the System 16 was far from cutting-edge, compared to Sega's new boards like the Sega X, used for stuff like "AfterBurner" and "Thunder Blade". 🍇
+
+✅🏮🍊🍓 Still, the Mega Drive did blow away both the FamiCom and the Master System in terms of technical specs. 🍇🍌
+
+
+✅🏮🍊🍓 So, let's do a bit [of] comparison, here. 🍇🍌
+
+
+✅🏮🍊🍓 Uh... The Mega Drive's 68000 ran at 6.67 megahertz, whereas the Master System's Z80 ran at 3.57 megahertz. 🍇
+
+✅🏮🍊🍓 Now, the FamiCom had an old chip (a puny 6502), which ran at 1.79 megahertz. 🍇
+
+✅🏮🍊🍓 The P.C. Engine used a special chip, based on the 6502, which could apparently run either 1.79 or 7.16 megahertz. 🍇
+
+✅🏮🍊🍓 And, of course, it had its dual, uh, 16-bit graphical processors. 🍇🍌
+
+
+✅🏮🍊🍓 In terms of onboard memory, the Mega Drive had 64K worth of work RAM and 64K of video RAM, compared to 8 and 16 for the Master System and 2K each for the FamiCom. 🍇
+
+✅🏮🍊🍓 The P.C. Engine had 8K and 64K, respectively. 🍇🍌
+
+
+✅🏮🍊🍓 In terms of color, the FamiCom could show a total of 53 colors, but [only] 25 on-screen at once. 🍇
+
+✅🏮🍊🍓 Whereas the Master System could use 64 colors and 32 at once. 🍇
+
+✅🏮🍊🍓 The Mega Drive upped the ante to, uh, 512 total colors, or [only] 64 at once, but these colors could be darkened or lightened. 🍇
+
+✅🏮🍊🍓 This still pales in comparison to Nintendo's Super FamiCom, uh, which was, more or less, complete when the Mega Drive was released. 🍇
+
+✅🏮🍊🍓 The P.C. Engine could use 512 colors total or a [pretty] impressive 482 at once, blowing away the Mega Drive. 🍇🍌
+
+
+✅🏮🍊🍓 The FamiCom could display 64 sprites on-screen (same as the Master System). 🍇
+
+✅🏮🍊🍓 Uh... The Mega Drive could show 64 to 80, depending on the resolution, and the P.C. Engine could do 64 (though the Mega Drive and the P.C. Engine could use much larger sprites). 🍇🍌
+
+
+✅🏮🍊🍓 The Mega Drive also had higher resolution, and two sound chips, and could use the Z80 as a sound C.P.U.. 🍇
+
+✅🏮🍊🍓 Uh... Once the C.D. add-on was released, the, uh, P.C. Engine had the most powerful sound capabilities. 🍇🍌
+
+
+✅🏮🍊🍓 Of course, these numbers hardly tell the entire story. 🍇
+
+✅🏮🍊🍓 Many FamiCom carts used chips to boost the console's abilities by adding more RAM. 🍇
+
+✅🏮🍊🍓 And later system cards for the P.C. C.D., upped the total RAM to 256 kilobytes. 🍇
+
+✅🏮🍊🍓 And the Supergrafx bumped the stats way up as well. 🍇
+
+✅🏮🍊🍓 And, likewise, the Sega C.D. and Sega 32X added more power to the Mega Drive. 🍇🍌
+
+
+✅🏮🍊🍓 But, more or less, the base stats of the Mega Drive beat everything else on the market except the P.C. Engine in some aspects, such as color and sound. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🗨️ Launching the Mega Drive / Genesis ✨
+
+
+✅🏮🍊🍓 The Mega Drive was released in Japan on October 29th 1988, six days after the Japanese release of "Super Mario Bros. 3". 🍇
+
+✅🏮🍊🍓 Go back to "Chrontendo ... 36" if you wanna see what else was happening for the FamiCom at the time. 🍇
+
+✅🏮🍊🍓 Um... Other games released around that same time period were "8 Eye's" and "...Black Bass II". 🍇🍌
+
+
+✅🏮🍊🍓 Unlike Nintendo and N.E.C., Sega planned to strike North America as soon as possible. 🍇
+
+✅🏮🍊🍓 Sega's founder and then-Sega U.S.A. President, David Rosen, actually contacted Atari about distribution of the Mega Drive in the U.S.. 🍇
+
+✅🏮🍊🍓 This was Jack Tramiel's Atari Corp (the guy behind the Atari 7800 and the Atari S.T. computer), not Atari Games (who owned Tengen). 🍇🍌
+
+
+✅🏮🍊🍓 According to David Sheff, the original release date was planned for January 1989. 🍇
+
+✅🏮🍊🍓 However, Sega ended up releasing the console themselves when the deal with Atari fell through. 🍇
+
+✅🏮🍊🍓 And the name was changed to the Sega Genesis and finally released in September 1989. 🍇
+
+✅🏮🍊🍓 And then in Europe a year later. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🗨️ Back to Late 1988 ✨
+
+
+✅🏮🍊🍓 For the moment, though, we are still in Fall 1988. 🍇
+
+✅🏮🍊🍓 And the Mega Drive has hit shelves with a mere two launch games. 🍇
+
+✅🏮🍊🍓 (Both [of] them are Arcade ports.) 🍇
+
+✅🏮🍊🍓 Sega, uh, seems to be attempting a strategy similar to what they did with the Master System, focusing on ports of Sega's popular Arcade games. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Space Harrier II 🇯🇵 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1988 October 28 🇯🇵 
+👓🏮🍒💾 Developed by Sega 
+👓🏮🍒📦 Published by Sega 🇯🇵 🇺🇸 🍌
+
+
+✅🏮🍊🍓 And here we have the very first Mega Drive game "Space Harrier II". 🍇🍌
+
+
+✅🏮🍊🍓 Notice that we have, sort of, a, uh, control menu here. 🍇
+
+✅🏮🍊🍓 You can do a few things like listen to the sound samples, change the difficulty settings. 🍇
+
+✅🏮🍊🍓 This is the kind of thing we'll be seeing more and more of in the 16-bit era. 🍇
+
+✅🏮🍊🍓 We'll be seeing menus getting more and more elaborate. 🍇🍌
+
+
+✅🏮🍊🍓 Something very important is the Rapid Fire; it's a good idea to turn that on. 🍇
+
+✅🏮🍊🍓 It'll make your life much less miserable, while playing this game. 🍇🍌
+
+
+✅🏮🍊🍓 So, this, of course, the, uh, Fantasy-Land, which, sort of, ties into Sega's other Shooter series, 'Fantasy Zone'. 🍇🍌
+
+
+✅🏮🍊🍓 So, you will, of course, remember the original 1985 Arcade game "Space Harrier" designed by Yu Suzuki. 🍇
+
+✅🏮🍊🍓 It's debatable whether "Space Harrier II" is a real sequel; it's almost more of what we would nowadays call a remix. 🍇🍌
+
+
+✅🏮🍊🍓 When "Space Harrier" first hit the Arcades, it was one [of] the most technologically advanced games out there, what with all the crazy sprite scaling. 🍇
+
+✅🏮🍊🍓 [It was] certainly far beyond what any console could do, at the time. 🍇
+
+✅🏮🍊🍓 We saw the port to the Master System in an earlier episode of 'Chronsega'. 🍇
+
+✅🏮🍊🍓 As you might recall, it was (I mean) technologically impressive for a Master System game, but the game itself was a bit of a mess. 🍇
+
+✅🏮🍊🍓 There was lots of flicker, not a whole lot of animation, as objects came closer towards you they -- the way they grew in size didn't really look that smooth. 🍇🍌
+
+
+✅🏮🍊🍓 Now, obviously, this Mega Drive version looks much, much better. 🍇
+
+✅🏮🍊🍓 I mean, it's not quite as, uh, good-looking as the Arcade game. 🍇
+
+✅🏮🍊🍓 But, compared to the Master System, it looks much cleaner, much more solid, um, the animation is much better. 🍇🍌
+
+
+✅🏮🍊🍓 Now, technically, just like the Master System, the Mega Drive cannot actually handle sprite scaling by the hardware. 🍇
+
+✅🏮🍊🍓 The Arcade games have this built-in, somehow. 🍇
+
+✅🏮🍊🍓 The Mega Drive had to simulate this by using sprites of different sizes. 🍇🍌
+
+
+✅🏮🍊🍓 Now, this guy is obviously a callback to the, uh, first boss in the original "Space Harrier" game. 🍇
+
+✅🏮🍊🍓 He's not a real boss, here; he's more [of], like, a sub-Boss. 🍇
+
+✅🏮🍊🍓 In fact, you don't even have to kill him. 🍇
+
+✅🏮🍊🍓 If you don't kill him quick enough, he'll just run away. 🍇🍌
+
+
+✅🏮🍊🍓 It looks like they used about five or six different sized sprites for his head, for example. 🍇
+
+✅🏮🍊🍓 So, there's quite a bit of variation in size as he moves back and forth across the screen. 🍇
+
+✅🏮🍊🍓 So, it gives much more of, like, a feeling of, uh, 3D than the Master System version did, which I think used, like, maybe three different sprites. 🍇🍌
+
+
+✅🏮🍊🍓 So, here is the first real boss. 🍇
+
+✅🏮🍊🍓 The game always lets you know when a boss is going to appear by throwing in some dramatic lightning flashes. 🍇
+
+✅🏮🍊🍓 And this guy turns out to be a giant flying turtle with three heads. 🍇
+
+✅🏮🍊🍓 In real-life, turtles are not very mobile so I don't know why they picked a turtle for a boss that flies around real fast. 🍇
+
+✅🏮🍊🍓 But, um, just shoot at the heads one-by-one; [it's] [pretty] simple. 🍇🍌
+
+
+✅🏮🍊🍓 And then, from here, you move right on to the next level. 🍇
+
+✅🏮🍊🍓 You know, it's kind of a shame, they put a lot of work into the enemy sprites, but they move around so fast, it's really hard to see 'em. 🍇
+
+✅🏮🍊🍓 The [only] time you can really appreciate them is when you die and everything sort of freezes for a moment. 🍇
+
+✅🏮🍊🍓 Then you actually get a good view of the enemies. 🍇🍌
+
+
+✅🏮🍊🍓 Here's the second boss, here; ya have to shoot at all those things flying around him. 🍇
+
+✅🏮🍊🍓 This guy's actually kinda creepy looking, especially as he gets closer to ya. 🍇🍌
+
+
+✅🏮🍊🍓 Nowadays, when we think of Sega, we often think of stuff like "Sonic the Hedgehog" and, you know, that sorta thing. 🍇
+
+✅🏮🍊🍓 But, at this time, they were mostly known for their Arcade games, which were, like, these loud, flashy, fast-paced Action Games that came in these really fancy cabinets. 🍇
+
+✅🏮🍊🍓 So, it's not surprising that the first few games for the Mega Drive would be ports of their, sort of, high-end Arcade games, because that's what people mostly thought of when they thought of Sega, back in the '80s. 🍇🍌
+
+
+✅🏮🍊🍓 But, as we've seen over and over again, these games were designed to be quarter munchers and that doesn't really translate well into a good console experience. 🍇
+
+✅🏮🍊🍓 And while this version of "Space Harrier II" is fun to play and it's very cool looking, it is [pretty] repetitive; I mean, you're, sort of, shooting things over and over again. 🍇🍌
+
+
+✅🏮🍊🍓 We've moved into a Sci-Fi-themed level - got these robots and these futuristic-looking buildings in the background. 🍇
+
+✅🏮🍊🍓 Nothing is really too detailed in the background (like, these things we're passing - I'm not sure if they're, like, buildings or what exactly they're even supposed to be). 🍇🍌
+
+
+✅🏮🍊🍓 Now, here's something a little different. 🍇
+
+✅🏮🍊🍓 "Space Harrier II" has bonus levels! 🍇
+
+✅🏮🍊🍓 Suddenly ya jump on this little sled thing and, while you're riding it, you're completely invincible. 🍇
+
+✅🏮🍊🍓 Which raises the question, 'Why doesn't he drive this thing around in the entire game?'. 🍇
+
+✅🏮🍊🍓 The object here is simply to rack up points and collect extra lives. 🍇
+
+✅🏮🍊🍓 And you'll need the extra lives 'cause the game does get [pretty] hard, especially towards the end. 🍇🍌
+
+
+✅🏮🍊🍓 Now, I like this boss; he's like a giant Flying Tiger or something like that. 🍇
+
+✅🏮🍊🍓 There's a secret to killing him; at first, you need to aim for the wings. 🍇
+
+✅🏮🍊🍓 Once ya shoot the wings off, he'll hit the ground and then he'll start running back and forth across the screen and then occasionally charging you. 🍇
+
+✅🏮🍊🍓 "Space Harrier II" has 12 levels altogether; it's not really a long game. 🍇
+
+✅🏮🍊🍓 And, just like a lot of early console games, it almost seems, sort of, half-game/half-tech-demo - kinda like something like "F-Zero" on the Super Nintendo. 🍇🍌
+
+
+✅🏮🍊🍓 But really, this is the sort of thing we're gonna be seeing early-on in the Mega Drive's lifespan. 🍇
+
+✅🏮🍊🍓 Eventually, of course, Sega would kinda move on to other types of games, like "Sonic...". 🍇
+
+✅🏮🍊🍓 But, for right now, the Mega Drive seemed to specialize in a sort of fast-paced, uh, but rather simple Action Games. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Super Thunder Blade 🇯🇵 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1988 October 28 🇯🇵 
+👓🏮🍒💾 Developed by Sega 
+👓🏮🍒📦 Published by Sega 🇯🇵 🇺🇸 🍌
+
+
+✅🏮🍊🍓 It's odd just how tinny the music sounds for this game, as compared to "Space Harrier II", which had, sort of, that big booming sound to it. 🍇🍌
+
+
+✅🏮🍊🍓 It's also a [pretty] ugly title screen. 🍇
+
+✅🏮🍊🍓 The image was ripped off from the 1983 movie "Blue Thunder", which was also about a helicopter. 🍇
+
+✅🏮🍊🍓 I call this the, uh, "Apocalypse Now" font. 🍇🍌
+
+
+✅🏮🍊🍓 "Super Thunder Blade" is, of course, the other launch title for the Mega Drive in Japan. 🍇
+
+✅🏮🍊🍓 And, just like "Space Harrier II", it is, sort of, an enhanced version of [a] Sega Arcade game - another one of those, uh, Super Scaler games. 🍇🍌
+
+
+✅🏮🍊🍓 There's a nice little menu in this game; you can control some [of] the options, such as, uh, well the g... c... -- games controls. 🍇
+
+✅🏮🍊🍓 There's 'Normal' and 'Reverse'. 🍇
+
+✅🏮🍊🍓 Normal is where you control like you were holding an actual flight joystick, as in the Arcade version. 🍇
+
+✅🏮🍊🍓 Reverse is when you use the D-Pad and when you press Up, for example, your helicopter moves up, press Down - it moves down, and so on. 🍇
+
+✅🏮🍊🍓 Trying to use the Normal control scheme can can be a bit awkward if you're playing it with a regular gamepad. 🍇🍌
+
+
+✅🏮🍊🍓 We've got a cool little animated intro, here. 🍇
+
+✅🏮🍊🍓 Although I don't know why you'd wanna keep your helicopter in some sort of underground passage like this where ya have to fly through a narrow passage, in order to get it out ([that] seems a little bit dangerous to me). 🍇🍌
+
+
+✅🏮🍊🍓 So, a couple things I'll get off my chest. 🍇
+
+✅🏮🍊🍓 First of all, I really hate this game. 🍇
+
+✅🏮🍊🍓 Well, I don't exactly hate it, but I -- I sort of dislike it. 🍇
+
+✅🏮🍊🍓 It's not really a whole lot of fun to play. 🍇🍌
+
+
+✅🏮🍊🍓 First of all, the main issue is comparing this to the Arcade game. 🍇
+
+✅🏮🍊🍓 The Arcade "Thunder Blade" was one of those big, loud, flashy games that was all about sensory overload, as opposed to, sort of, playing a game. 🍇
+
+✅🏮🍊🍓 Ya sat down, put a quarter in, played for five minutes, and you saw all kinds of cool explosions and rockin' music. 🍇
+
+✅🏮🍊🍓 That doesn't really translate to the home version. 🍇🍌
+
+
+✅🏮🍊🍓 The Arcade version used multiple sprites for each [of] the buildings to create this really impressive-looking 3D effect. 🍇
+
+✅🏮🍊🍓 The Mega Drive, of course, couldn't actually handle sprite scaling internally. 🍇
+
+✅🏮🍊🍓 So, they used just one layer for the buildings, making 'em look extremely flat and wafer-like. 🍇🍌
+
+
+✅🏮🍊🍓 The gameplay is quite similar to that in "Space Harrier". 🍇
+
+✅🏮🍊🍓 Ya sort of move around constantly trying to avoid enemy fire and, you know, try to shoot the things that come at you. 🍇
+
+✅🏮🍊🍓 As has been pointed out, you can avoid almost all enemy fire simply by parking yourself in one [of] the corners and shooting constantly. 🍇
+
+✅🏮🍊🍓 But, of course, that destroys the whole point [of] the game. 🍇🍌
+
+
+✅🏮🍊🍓 So, Sega decided to call this "Super Thunder Blade". 🍇
+
+✅🏮🍊🍓 But it's really a slightly altered version of the Arcade game; it's definitely not a -- a new sequel or anything like that. 🍇
+
+✅🏮🍊🍓 I believe they actually did take a few things out; there's a few things missing that were in the Arcade version. 🍇🍌
+
+
+✅🏮🍊🍓 Of course, it's [pretty] 'super', when compared to the Master System "Thunder Blade". 🍇
+
+✅🏮🍊🍓 As you might remember, when we covered that game, they didn't even try to recreate the 3D effects and simply they turned it down to, like, a top-down Shooter. 🍇🍌
+
+
+✅🏮🍊🍓 This is the first boss - a giant tank. 🍇🍌
+
+
+✅🏮🍊🍓 Much like "Space Harrier", the game is [pretty] repetitive, though they did throw a little bit of variety in, which is, from time to time, you'll have these top-down levels, which don't really function exactly like a regular vertical Shoot-'em-Up, because you're actually shooting things mostly on the ground. 🍇
+
+✅🏮🍊🍓 What's weird here is that you transition directly from the city scenes into a level that takes place above an ocean, despite the fact that you can clearly see buildings in the background. 🍇
+
+✅🏮🍊🍓 Suddenly they disappear and you're above water. 🍇🍌
+
+
+✅🏮🍊🍓 These segments are a little weird, because you can't actually move up and down along the screen; you can [only] move left to right. 🍇
+
+✅🏮🍊🍓 And the way things shoot at you from, you know, the -- the ground, it's often difficult to tell if they're going to hit you or not, or if your fire is going to hit them. 🍇🍌
+
+
+✅🏮🍊🍓 So, once ya fly over the aircraft carrier, it suddenly blows up, you get a little, uh, screen that rewards you some points, and then you're on to the next level, which is, once again, a 3D level. 🍇
+
+✅🏮🍊🍓 So, this is the part where I really start hating this game. 🍇
+
+✅🏮🍊🍓 Ya have to fly between these buttes. 🍇
+
+✅🏮🍊🍓 And it's virtually impossible to get yourself lined up so you pass through safely. 🍇
+
+✅🏮🍊🍓 It seems like you're getting closer and closer, you're trying to maneuver, and then suddenly you hit something. 🍇
+
+✅🏮🍊🍓 And, in case you're wondering, no, you cannot fly around them or over them (for some reason). 🍇
+
+✅🏮🍊🍓 I'm sure with a bit of practice, you could master this, but when you're first picking up the game, these sequences are very, very frustrating. 🍇🍌
+
+
+✅🏮🍊🍓 So, while "Space Harrier II" does a [pretty] good job [of] recreating the "Space Harrier" Arcade game, "Super Thunder Blade" - not so much and it's definitely the inferior game of the two launch titles. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Jūōki 🇯🇵 // Altered Beast 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1988 November 27 🇯🇵 
+👓🏮🍒💾 Developed by Sega 
+👓🏮🍒📦 Published by Sega 🇯🇵 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Alright, it's "Jūōki". 🍇
+
+✅🏮🍊🍓 In modern, uh, gaming naming conventions this would probably be called 'Record of the Beast King', but we know it as "Altered Beast" - such a great name, and the music is so cool. 🍇
+
+✅🏮🍊🍓 In fact, the competing Genesis chronogaming video series, 'Generation 16', uses this as their main title music. 🍇🍌
+
+
+✅🏮🍊🍓 So, uh, Zeus resurrects this guy because his daughter Athena has been kidnapped. 🍇
+
+✅🏮🍊🍓 I mean, really, shouldn't Athena be capable of taking care of herselves? 🍇
+
+✅🏮🍊🍓 I mean, Athena is usually depicted as wearing a battle helmet and carrying a spear - and is frequently associated with warfare. 🍇🍌
+
+
+✅🏮🍊🍓 Maybe Sega was confusing Athena with Zeus' other daughter, Persephone? 🍇
+
+✅🏮🍊🍓 Uh... She actually was kidnapped by Hades, King of the underworld. 🍇🍌
+
+
+✅🏮🍊🍓 Anyway, we all know about "Altered Beast". 🍇
+
+✅🏮🍊🍓 It was originally an Arcade game from 1988. 🍇
+
+✅🏮🍊🍓 It was designed by Makoto Uchida, who is perhaps best well-known for "Golden Axe", and Rieko Kodama, who's known as the main creator of "Phantasy Star" and later games like "Skies of Arcadia" and "7th Dragon". 🍇
+
+✅🏮🍊🍓 It was a [pretty] cool game, uh, and perhaps Sega's first good Beat-'em-Up. 🍇🍌
+
+
+✅🏮🍊🍓 Now, here's something interesting; check out the backgrounds here. 🍇
+
+✅🏮🍊🍓 Okay, now take a look at the Mega Drive version. 🍇
+
+✅🏮🍊🍓 And, hey! They added parallax scrolling! Holy cow! 🍇
+
+✅🏮🍊🍓 We'll actually see the whole, uh, you know, multiple-plane scrolling quite a bit for this console. 🍇🍌
+
+
+✅🏮🍊🍓 Now, probably most [of] you guys know about "Altered Beast". 🍇
+
+✅🏮🍊🍓 Um... We should, because we actually, uh, covered it last episode (last 'Chronsega' that is) in the Master System version. 🍇
+
+✅🏮🍊🍓 Um... "Chronsega ... 7" actually covered games from early 1989. 🍇
+
+✅🏮🍊🍓 So, that version came out after this version. 🍇
+
+✅🏮🍊🍓 And, as you'll recall, the Master System version was [pretty] terrible. 🍇🍌
+
+
+✅🏮🍊🍓 By comparison, the Mega Drive "Altered Beast" is [pretty] good! 🍇
+
+✅🏮🍊🍓 It's not quite pixel perfect, as they say, but compared to "Thunder Blade" it's [pretty] nice. 🍇
+
+✅🏮🍊🍓 I'd place it alongside "R-Type" on the P.C. Engine as one of the better Arcade ports of this era that we've seen so far. 🍇🍌
+
+
+✅🏮🍊🍓 This boss battle is really tough in the Master System version, due to the really jerky controls. 🍇
+
+✅🏮🍊🍓 Here, you can eachily -- easily dodge the falling demon heads, because the movement is much smoother and more precise. 🍇
+
+✅🏮🍊🍓 And there's even some sort of, like, freaky blur effect on this guy when ya hit him. 🍇🍌
+
+
+✅🏮🍊🍓 "Altered Beast" is a mere five levels. 🍇
+
+✅🏮🍊🍓 Each has the same layout; ya need to kill three Silver Wolves in order to fully power up into Beast Form. 🍇
+
+✅🏮🍊🍓 At that point, you're allowed to fight the boss, Neff, who transforms into a different form of monster each level. 🍇
+
+✅🏮🍊🍓 In Level 2, ya turn into Dragon Form. 🍇🍌
+
+
+✅🏮🍊🍓 I'd like to point out: One of the enemies that you see here turns up in "Golden Axe", as well. 🍇
+
+✅🏮🍊🍓 Um... Tho... -- Those weird-looking bird things with the tails that you can ride in "Golden Axe". 🍇
+
+✅🏮🍊🍓 The U.S. manual for "Altered Beast" calls them Chicken Stingers. 🍇🍌
+
+
+✅🏮🍊🍓 Now, when ya turn into your fully powered up, Altered Beast Form, you become more powerful; your Beast Form has special attacks. 🍇
+
+✅🏮🍊🍓 The Dragon can employ some kind of lightning aura attack. 🍇
+
+✅🏮🍊🍓 You can use this to kill the boss very easily. 🍇
+
+✅🏮🍊🍓 Let's take a look. 🍇
+
+✅🏮🍊🍓 Yeah, it really is that easy. 🍇🍌
+
+
+✅🏮🍊🍓 The 3rd Level takes ya deeper into the underworld and you transform into a Bear. 🍇
+
+✅🏮🍊🍓 The funny thing here is the Bear assumes, like, this goofy Kung Fu stance while standing still. 🍇
+
+✅🏮🍊🍓 And he has a bad breath attack and a [pretty] cool spinning attack. 🍇🍌
+
+
+✅🏮🍊🍓 And, once again, there's a super cheap method of killing this boss. 🍇
+
+✅🏮🍊🍓 Ya just sorta jump on him and start doing your -- your spinning attack. 🍇
+
+✅🏮🍊🍓 You don't even take too much damage, here! 🍇
+
+✅🏮🍊🍓 Uh... You think you [only] take about one bar off your Life Meter. 🍇🍌
+
+
+✅🏮🍊🍓 As far as I know, there isn't any way to refill your Health Meter. 🍇
+
+✅🏮🍊🍓 I mean, you do start out with a couple of lives and you can actually find extra lives, but you need to be [pretty] cautious and conserve your Health if you wanna finish the game. 🍇🍌
+
+
+✅🏮🍊🍓 The 4th [Level] takes place in Dis, the city in Hell from Dante's "...Inferno". 🍇
+
+✅🏮🍊🍓 Though it's also an old name for the Roman god of the underworld, a.k.a. Pluto. 🍇
+
+✅🏮🍊🍓 Now, here, ya turn into a Tiger who has a [pretty] cool and powerful attack where ya fly up and then down, destroying everything that ya hit along the way. 🍇🍌
+
+
+✅🏮🍊🍓 Now, this boss is one [of] the trickier ones - uh, the first boss that you can't easily kill using some kind of exploit. 🍇
+
+✅🏮🍊🍓 At least I don't know of an exploit for this boss. 🍇🍌
+
+
+✅🏮🍊🍓 Anyway, the final boss is Neff, himself. 🍇
+
+✅🏮🍊🍓 And again, he can be really easy if you sorta cheat. 🍇
+
+✅🏮🍊🍓 Here I've turned into the Golden Wolf (in theory, the most powerful Form). 🍇🍌
+
+
+✅🏮🍊🍓 Now, the real method for defeating him involves jumping over him whenever he charges you. 🍇
+
+✅🏮🍊🍓 But actually you can just get on all fours and just attack like crazy. 🍇
+
+✅🏮🍊🍓 His punches are too high to hit you. 🍇
+
+✅🏮🍊🍓 I [only] lost about one Life Bar doing this. 🍇
+
+✅🏮🍊🍓 Though, of course, I was playing this on the 'Normal' difficulty, not the 'Hard' difficulty. 🍇🍌
+
+
+✅🏮🍊🍓 Okay, so once you've taken care of Neff, this bird appears and transforms into the girl (or, I guess, rather the goddess, Athena). 🍇
+
+✅🏮🍊🍓 It's not really clear whether you 'win' Athena at the end of the game. 🍇
+
+✅🏮🍊🍓 But there is a little scene of her, sort of, like, hugging him when he's still in Wolf Form (which is kinda weird). 🍇
+
+✅🏮🍊🍓 [It] doesn't really tell ya if ya ever, like, transform back into your Human Form or (since you're dead) if you just die after Zeus un-resurrects you. 🍇🍌
+
+
+✅🏮🍊🍓 Something else that's kinda strange is that Zeus and Athena are the Greek names for these particular gods, but the manual claims that you are a resurrected Roman centurion. 🍇
+
+✅🏮🍊🍓 So, they seem to have gotten their ancient cultures mixed up. 🍇🍌
+
+
+✅🏮🍊🍓 Something else that's [pretty] funny is that, as the credits roll, you can actually attack the names in the credits, as they come down. 🍇🍌
+
+
+✅🏮🍊🍓 Now, as far as I know, "Altered Beast" was a [pretty] big hit in the Arcades. 🍇
+
+✅🏮🍊🍓 I remember seeing it all the time back then. 🍇
+
+✅🏮🍊🍓 Uh... Big enough that when the Genesis was released in the U.S. "Altered Beast" was picked as the pack-in game. 🍇
+
+✅🏮🍊🍓 So, it's the most well-known of all the early Genesis titles (other than maybe "Phantasy Star II", nowadays). 🍇🍌
+
+
+✅🏮🍊🍓 And, sure, "Altered Beast" is not a fantastic game, but, just like "Space Harrier II" and "Thunder Blade", it shows off what the system could do, and declares its blatant technological superiority over Nintendo's FamiCom. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Osomatsu-kun 🇯🇵 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1988 December 24 🇯🇵 
+👓🏮🍒💾 Developed by Sega 
+👓🏮🍒📦 Published by Sega 🇯🇵 🍌
+
+
+✅🏮🍊🍓 It's the fourth and last Mega Drive game of 1988! 🍇
+
+✅🏮🍊🍓 We've had "Space Harrier", "...Thunder Blade", "Altered Beast", and now... "Osomatsu-kun: Hachamecha Gekijou" (sort of the odd man out). 🍇
+
+✅🏮🍊🍓 Okay, what is this? 🍇
+
+✅🏮🍊🍓 Well, you know, in our minds we tend to think of the Genesis as being less burdened with -- with, uh, tons and tons of horrible licensed games based on anime and whatnot, compared to the FamiCom. 🍇
+
+✅🏮🍊🍓 But now we have this. 🍇🍌
+
+
+✅🏮🍊🍓 'Osomatsu-kun' was, at first, a 1960s manga in 'Shonen Jump'. 🍇
+
+✅🏮🍊🍓 It was by one Fujio Akatsuka, who also did the comic, 'Tensai Bakabon'. 🍇
+
+✅🏮🍊🍓 We saw a game based on 'Tensai Bakabon' for the Sega Master System a couple episodes back. 🍇🍌
+
+
+✅🏮🍊🍓 Now, there was an animated version of 'Osomatsu-kun' in the '60s, but then a new animated series was running when this game came out. 🍇
+
+✅🏮🍊🍓 So, that must be the one the game is based on. 🍇🍌
+
+
+✅🏮🍊🍓 It was produced by Studio Pierrot, who Sega seemed to have some kinda relationship with. 🍇
+
+✅🏮🍊🍓 They also did the 'Anmitsu Hime' cartoon that received a Sega Master System, uh, game, which was released in the U.S. as "Alex Kidd in High Tech World". 🍇
+
+✅🏮🍊🍓 And they were even involved with the "Sonic the Hedgehog" movie from the 1990s. 🍇🍌
+
+
+✅🏮🍊🍓 The Mega Drive was capable of multi-plane scrolling (uh, three layers, I believe). 🍇
+
+✅🏮🍊🍓 As we see here, Sega's programmers jumped on that. 🍇
+
+✅🏮🍊🍓 It was sort of an obvious graphical signature that distinguished the Mega Drive from its competitors. 🍇
+
+✅🏮🍊🍓 So, it was sorta like the Mode 7 of the Mega Drive; it was used quite a bit. 🍇🍌
+
+
+✅🏮🍊🍓 Now, you play as Osomatsu who is one of, uh, six brothers; actually the brothers are identical sextuplets. 🍇
+
+✅🏮🍊🍓 Now, in the real world this would have been quite extraordinary, since there are no records of identical sextuplets ever being born. 🍇
+
+✅🏮🍊🍓 In fact, when the manga first appeared, there were no documented cases of sextuplets having survived infancy. 🍇
+
+✅🏮🍊🍓 Hell! The Gosselins became famous by having sextuplets, uh, not that long ago! 🍇🍌
+
+
+✅🏮🍊🍓 The game is a bog-standard side-scrolling Action Game. 🍇
+
+✅🏮🍊🍓 Aside from the source material, there's really not much distinctive about it. 🍇
+
+✅🏮🍊🍓 It reminds me a lot of "Keith Courage..." for the P.C. Engine. 🍇
+
+✅🏮🍊🍓 Basically ya walk forward and shoot stuff (with a bit of platforming thrown in). 🍇🍌
+
+
+✅🏮🍊🍓 One thing that really bugs me is that so many enemies can't be hit while you're standing up. 🍇
+
+✅🏮🍊🍓 You actually have to duck, in order to shoot them. 🍇🍌
+
+
+✅🏮🍊🍓 If nothing else, the various monsters are kind of kooky-lookin'. 🍇
+
+✅🏮🍊🍓 There's flying cats dropping bones on you. 🍇🍌
+
+
+✅🏮🍊🍓 Oh, and look! Here's a Kit Kat bar you can pick up. 🍇🍌
+
+
+✅🏮🍊🍓 This is the first boss - not too interesting. 🍇
+
+✅🏮🍊🍓 You can mick -- pick up some power-ups [to] make the fights easier. 🍇
+
+✅🏮🍊🍓 That's probably a good idea for the later bosses, especially (even though this guy is, uh, [pretty] simple). 🍇🍌
+
+
+✅🏮🍊🍓 The other characters from the series make various appearances in the game. 🍇
+
+✅🏮🍊🍓 Ya often find, like, mutant versions of the characters appearing as enemies. 🍇
+
+✅🏮🍊🍓 Also, there's these traditional-type Japanese creatures that turn up a lot, as we've seen. 🍇🍌
+
+
+✅🏮🍊🍓 You know, I actually sorta wanted to like "Osomatsu-kun". 🍇
+
+✅🏮🍊🍓 It was the first original title for the Mega Drive, [the] first based on a licensed property, and the first side-scrolling Platformer. 🍇
+
+✅🏮🍊🍓 I mean, "Altered Beast" is more like a Beat-'em-Up than a Platformer. 🍇
+
+✅🏮🍊🍓 But the problem is, it's just a little dull and a little lame. 🍇
+
+✅🏮🍊🍓 Compared to something like, say, "Super Mario Bros. 3" (which came out a couple months before this) "Osomatsu-kun" is just... not that impressive. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🗨️ Introduction to 1989 ✨
+
+
+✅🏮🍊🍓 Okay, it's 1989! 🍇
+
+✅🏮🍊🍓 So, we're now gonna get the Mega Drive caught up with the FamiCom and the P.C. Engine. 🍇
+
+✅🏮🍊🍓 We'll be covering through June of '89 today. 🍇🍌
+
+
+✅🏮🍊🍓 1989's a [pretty] big year for Sega, but we'll have more about that in the next episode of 'Chronsega'. 🍇
+
+✅🏮🍊🍓 For the moment, let's note that we have a couple of firsts, here. 🍇
+
+✅🏮🍊🍓 First third-party-developed game, the first third-party-published game, and the first port of an existing Computer game. 🍇🍌
+
+
+✅🏮🍊🍓 With the Master System out [of] the way, Sega could devote all of its energy on the Mega Drive (at least in Japan). 🍇
+
+✅🏮🍊🍓 Thus, they have a reasonably healthy release schedule this year with a total of 22 games released. 🍇
+
+✅🏮🍊🍓 Here are the first five. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Alex Kidd: Tenkuu Majou 🇯🇵 // Alex Kidd in the Enchanted Castle 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1989 February 10 🇯🇵 
+👓🏮🍒💾 Developed by Sega 
+👓🏮🍒📦 Published by Sega 🇯🇵 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Right, so there were no Mega Drive games in January 1989. 🍇
+
+✅🏮🍊🍓 And then, in the second week of February, Sega returns with... a new 'Alex Kidd' game! 🍇🍌
+
+
+✅🏮🍊🍓 Finally, Sega gives us a real 'Alex Kidd' sequel, "Alex Kidd in the Enchanted Castle". 🍇
+
+✅🏮🍊🍓 Hurray! (except for the fact that this game is really not that good). 🍇🍌
+
+
+✅🏮🍊🍓 Once again, this is an Action Platformer - with one added feature, 'Janken' (or 'Rock, Paper, Scissors'). 🍇
+
+✅🏮🍊🍓 And this one has even more 'Janken' than the last one! 🍇
+
+✅🏮🍊🍓 In fact, in order to obtain any items whatsoever, ya need to play 'Janken'. 🍇
+
+✅🏮🍊🍓 You engage in 'Janken' matches, in order to get them. 🍇
+
+✅🏮🍊🍓 If ya lose, you forfeit your money and ya don't get anything. 🍇🍌
+
+
+✅🏮🍊🍓 So, other than that, uh, what else is new? 🍇
+
+✅🏮🍊🍓 Well, a few secret areas have been added. 🍇
+
+✅🏮🍊🍓 Like here, you can drop down this to find some hidden treasure. 🍇
+
+✅🏮🍊🍓 It's like a little vault area, complete with Chinese hopping vampires. 🍇
+
+✅🏮🍊🍓 This part's actually [pretty] cool! 🍇🍌
+
+
+✅🏮🍊🍓 And, once again, Sega puts in multiple planes. 🍇
+
+✅🏮🍊🍓 So, there will often be things like columns and whatnot in the foreground. 🍇🍌
+
+
+✅🏮🍊🍓 Just like "Altered Beast", this game is not too long - [only] 11 levels (fewer than "Alex Kidd in Miracle World"). 🍇
+
+✅🏮🍊🍓 There's a speedrun that exists that (well, it) takes about -- maybe six minutes to get to the final boss. 🍇🍌
+
+
+✅🏮🍊🍓 The structure is [pretty] simple - reach the end of each level. 🍇
+
+✅🏮🍊🍓 Killing monsters and opening treasure chests will get ya money, just like in "Alex Kidd in Miracle World". 🍇
+
+✅🏮🍊🍓 Use that money to go into the shops and engage in 'Janken' matches and hopefully, you know, actually get the item that you're trying to purchase. 🍇🍌
+
+
+✅🏮🍊🍓 Now, the first 'Alex Kidd' game was a reasonably fun "Super Mario Bros."-inspired game, which was somewhat let down with some weird mechanics, like the whole 'Rock, Paper, Scissors' things against the bosses. 🍇
+
+✅🏮🍊🍓 But still, it was definitely one of the better games on the Master System, at that time. 🍇
+
+✅🏮🍊🍓 But Sega never really followed up on it! 🍇
+
+✅🏮🍊🍓 Instead, they ported an earlier, uh, Arcade game to the Master System. 🍇
+
+✅🏮🍊🍓 That was "Alex Kidd: The Lost Stars", which really wasn't that much like, uh, "...Miracle World". 🍇
+
+✅🏮🍊🍓 It was actually a [pretty] different kind of game. 🍇🍌
+
+
+✅🏮🍊🍓 Then they released a really goofy BMX game with Alex on it. 🍇
+
+✅🏮🍊🍓 And, um, then (even worse) they took this terrible Adventure Game, based on an anime character and, in the U.S., changed the sprites and released it as "Alex Kidd in High Tech World". 🍇
+
+✅🏮🍊🍓 And so finally (two years later) they produce a full-fledged sequel for their brand spanking new 16-bit system - and it's a bit of a disappointment! 🍇
+
+✅🏮🍊🍓 For some reason, they took the least-loved part of "...Miracle World" (the 'Janken') and expanded on it. 🍇🍌
+
+
+✅🏮🍊🍓 Also, the controls may irritate you a bit, especially Alex's a stupid jumping kick. 🍇
+
+✅🏮🍊🍓 Ya can't punch in midair - [only] kick. 🍇
+
+✅🏮🍊🍓 And the jump has the unfortunate tendency to destroy platforms that you are trying to jump on, as it's hard to be real precise while jumping. 🍇🍌
+
+
+✅🏮🍊🍓 On the positive side, the Motorcycle and Pedicopter are back. 🍇
+
+✅🏮🍊🍓 Boy! The Pedicopter has a really terrible name, now, that I think about it. 🍇
+
+✅🏮🍊🍓 That name really implies something else. 🍇🍌
+
+
+✅🏮🍊🍓 Some levels have these multiple approaches you can take. 🍇
+
+✅🏮🍊🍓 They aren't quite like branching paths, per se, but you can fly through the air on the 'copter, or travel by foot, or swim in the lower sections. 🍇
+
+✅🏮🍊🍓 And there are lots of chests and ushual... -- useful things, no matter which way you choose to go. 🍇🍌
+
+
+✅🏮🍊🍓 Now, there is one rather strange and notable difference between the U.S. and the Japanese versions. 🍇
+
+✅🏮🍊🍓 In the U.S., when playing the 'Janken' matches and you lose, you get, like, a 'Monty Python'-esque weight dropped on the loser. 🍇
+
+✅🏮🍊🍓 In -- Which even has, like, these gigantic googly eyes, for some reason, and the feet sticking out on the sides. 🍇🍌
+
+
+✅🏮🍊🍓 But in the original Japanese game, the loser is stripped naked and then scurries off the stage in a state of embarrassment. 🍇
+
+✅🏮🍊🍓 Uh... Perhaps public humiliation via nudity was more resonant in Japan? 🍇
+
+✅🏮🍊🍓 Or maybe Sega thought it was a bit too racy for a kids' game? 🍇
+
+✅🏮🍊🍓 One [of] the bosses is the Egyptian Queen and when she loses *her* clothes, the results do look a little bit naughty. 🍇🍌
+
+
+✅🏮🍊🍓 Sadly, for Alex, "...Enchanted Castle" was his last chance to make it big. 🍇
+
+✅🏮🍊🍓 Uh... After this, Sega never made another real 'Alex Kidd' game. 🍇
+
+✅🏮🍊🍓 Though in 1990, they took a Shinobi spin-off game they were developing (which was gonna be called "Shinobi Kid") and replaced the main character's sprite with Alex Kidd. 🍇
+
+✅🏮🍊🍓 The resulting game, "Alex Kidd in Shinobi World" turned out to be better than "...Enchanted Castle". 🍇
+
+✅🏮🍊🍓 And thus Alex was banished to the world of failed game mascots. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Phantasy Star II 🇯🇵 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1989 March 21 🇯🇵 
+👓🏮🍒💾 Developed by Sega 
+👓🏮🍒📦 Published by Sega 🇯🇵 🇺🇸 🍌
+
+
+✅🏮🍊🍓 There's just one March release, but it's a big one. 🍇🍌
+
+
+✅🏮🍊🍓 Okay! So "Phantasy Star II" has some [pretty] great music - and a really cool opening sequence. 🍇
+
+✅🏮🍊🍓 Now, of all the Mega Drive games covered today, there's really [only] one that people still speak about with love in their hearts, and that still has a substantial fan base. 🍇
+
+✅🏮🍊🍓 And, of course, it's this game, "Phantasy Star II". 🍇🍌
+
+
+✅🏮🍊🍓 This makes sense, because the first "Phantasy Star" was certainly the most well-known Master System game. 🍇
+
+✅🏮🍊🍓 And it was really the [only] must-have title for that system. 🍇
+
+✅🏮🍊🍓 Sega must have been planning a sequel for a while, since this came out very early in the Mega Drive's life. 🍇
+
+✅🏮🍊🍓 It's [only] the sixth game released and is far [and] away the biggest and most ambitious of all the early Mega Drive games. 🍇🍌
+
+
+✅🏮🍊🍓 Now, as silly as this seems, I'll point out: This little segment will have some spoilers. 🍇
+
+✅🏮🍊🍓 And there are actually a few surprising things in this game, so if you've been putting off playing this for the last 20 years, be warned. 🍇🍌
+
+
+✅🏮🍊🍓 The intro gives ya a little tour [of] the surface of Mota, the main planet in the game, and sets up a story. 🍇
+
+✅🏮🍊🍓 You also choose your character's name and get another little intro, which starts up with a dream of, um, Alis battling Dark Force (or Dark Falz, as he's also known), the main bad guy from "Phantasy Star (I)". 🍇
+
+✅🏮🍊🍓 So, this takes place many years after the first game, and the desert planet, Motabia, from the original has all been nicely terraformed. 🍇🍌
+
+
+✅🏮🍊🍓 But the weird thing is the weather and environment are controlled by the supercomputer called (I kid you not) Mother Brain. 🍇
+
+✅🏮🍊🍓 And, for some reason, no one knows how Mother Brain works, where it came from, or even where it is. 🍇
+
+✅🏮🍊🍓 Now, if that sounds really weird to you and maybe a little ominous (like maybe Mother Brain is going to cause some problems later, or, uh, maybe even turn evil or something like that) then, 'Congratulations!', you are skilled on picking up very obviously telegraphed plot points. 🍇🍌
+
+
+✅🏮🍊🍓 If you're following the plot here, you'll learn that you are some kind of space cop or special agent or something, working for Mota's government, and your boss wants ya to find out what's causing the biological monsters to be wandering around all over the place. 🍇
+
+✅🏮🍊🍓 So, he sends you to the Biosystems Lab, which is apparently the likely source [of] the monsters. 🍇🍌
+
+
+✅🏮🍊🍓 Now, "Phantasy Star" is a Science Fiction-themed R.P.G. but, like many similar J.R.P.G.s, the handling of the subject matter is more or less, you know, 'elves in space'. 🍇
+
+✅🏮🍊🍓 Speaking of which, Nei is your sexy space elf buddy, who is half-human/half-bio-monster, and she becomes the first-person to join your party. 🍇
+
+✅🏮🍊🍓 But anyway, this is one of those games where there're, like, dragons and swords mixed in with robots and laser guns. 🍇
+
+✅🏮🍊🍓 And people do most [of] their traveling on foot, for some reason. 🍇🍌
+
+
+✅🏮🍊🍓 "Phantasy Star II" is the first 16-bit R.P.G. we've seen (assuming you don't count the TurboGrafx-16 as 16-bit), yet visually it resembles an 8-bit game in a lot of ways. 🍇
+
+✅🏮🍊🍓 This doesn't really look, uh, that different from the first game. 🍇
+
+✅🏮🍊🍓 Yeah, the sprites are bigger and more detailed, the colors are better, but when compared to, like, the later 16-bit R.P.G.s, (you know, sort of, like the -- the 16-bit R.P.G. 'look' that ya think of) it's not visually very impressive. 🍇
+
+✅🏮🍊🍓 Clearly the designers were, uh, really -- they didn't stray too far from the look and feel of the first "Phantasy Star". 🍇🍌
+
+
+✅🏮🍊🍓 In the towns, uh, not much have changed; ya have the same Shops - for Items, Weapons and Armor. 🍇
+
+✅🏮🍊🍓 The funny thing is, you would think that, like, a cutesy little elf girl like Nei would be a magic user and fight with rods or bows and arrows or something. 🍇
+
+✅🏮🍊🍓 But, instead, her class of weapons is metal bars, so she kills in the most brutal fashion imaginable - by beating enemies to death with a steel pipe. 🍇🍌
+
+
+✅🏮🍊🍓 You would also think that laser guns would be a better choice to go monster hunting with. 🍇
+
+✅🏮🍊🍓 I mean, which would you choose: a laser gun or steel pipe? 🍇
+
+✅🏮🍊🍓 But hey, it's a video game... 🍇
+
+✅🏮🍊🍓 Um... Though in the Japanese version, it appears her weapons were more like claws than bars - like Wolverine-style claws that are worn on the hands. 🍇
+
+✅🏮🍊🍓 The translation of this game is a little wonky and, of course, the weapons are never actually physically depicted in the game. 🍇🍌
+
+
+✅🏮🍊🍓 Alright, so let's head out and find that Bio Lab. 🍇
+
+✅🏮🍊🍓 You know, it's a Science Fiction game because it has corridors everywhere. 🍇🍌
+
+
+✅🏮🍊🍓 So, here's what the battles look like. 🍇
+
+✅🏮🍊🍓 Ya have this futuristic-looking grid, both the enemies' and your attacks are animated, and this is, like, sort of, the standard-issue "Dragon Quest"-style turn-based combat. 🍇
+
+✅🏮🍊🍓 Though the interface and the way things are controlled are a little bit different; we'll actually discuss that a bit later. 🍇🍌
+
+
+✅🏮🍊🍓 After winning the battle, you get Experience and Money, just like every other R.P.G.. 🍇
+
+✅🏮🍊🍓 And then ya find a guy, named Darum, blocking the path towards the West. 🍇
+
+✅🏮🍊🍓 So, ya have to head East and then you'll find the first dungeon and the second town. 🍇🍌
+
+
+✅🏮🍊🍓 However, before ya go to the dungeon, you should actually head back to your house and... suddenly someone shows up at your door! 🍇
+
+✅🏮🍊🍓 It's the bizarrely-named Rudolf Steiner (or 'Rudo'). 🍇🍌
+
+
+✅🏮🍊🍓 Now, Rudolf Steiner was, like, a late-19th Century/early-20th Century American who was a major figure in a couple of the many, sort of, mystical, New Agey belief systems that popped up around that time. 🍇
+
+✅🏮🍊🍓 And he's also known for his connection to the Waldorf Schools. 🍇
+
+✅🏮🍊🍓 In the game, he's a monster-killing, uh, Laser-Cannon-toting badass, which makes more sense in the original Japanese version where his name is Rutger. 🍇
+
+✅🏮🍊🍓 As you can see, he looks a bit like the actor, Rutger Hauer. 🍇🍌
+
+
+✅🏮🍊🍓 This is how all the party members are found. 🍇
+
+✅🏮🍊🍓 You're out exploring, you'll hit some sort of invisible trigger, and the next time you return to your house, 'Blam!', someone shows up and announces they want to join your party. 🍇🍌
+
+
+✅🏮🍊🍓 You also manage your party at your house. 🍇
+
+✅🏮🍊🍓 So, if ya wanna switch out a party member, head back to your house. 🍇🍌
+
+
+✅🏮🍊🍓 So, here is the first dungeon. 🍇
+
+✅🏮🍊🍓 Note the blatantly extraneous use of multiple layers. 🍇
+
+✅🏮🍊🍓 All the dungeons have these. 🍇🍌
+
+
+✅🏮🍊🍓 Your first bit of business is to deal with that douchebag who's blocking your path and terrorizing people. 🍇
+
+✅🏮🍊🍓 Ya snoop around the village, find out that "scoundrels" are hanging out nearby. 🍇
+
+✅🏮🍊🍓 So, ya head over to the hideout (uh, this building here) and ya find it overrun with Biomonsters. 🍇🍌
+
+
+✅🏮🍊🍓 It turns out these 'scoundrels' kidnapped the guy's daughter, and he turned to crime to save her life and ransom her - or something like that. 🍇
+
+✅🏮🍊🍓 At the bottom [of] the dungeon, you'll find the daughter and rescue her. 🍇🍌
+
+
+✅🏮🍊🍓 Now, late '80s console R.P.G.s are not real good at storytelling or characterization, and this is no exception. 🍇
+
+✅🏮🍊🍓 Watch what happens. 🍇
+
+✅🏮🍊🍓 When you bring the daughter back, ya get this in-game cutscene. 🍇🍌
+
+
+✅🏮🍊🍓 The daughter was wearing a veil, so her father didn't recognize her. 🍇
+
+✅🏮🍊🍓 I love the way the heroes just stand there silently watching, while all this goes down. 🍇
+
+✅🏮🍊🍓 They don't say, 'Hey, dude, we rescued your daughter!' and, uh, or any attempt to interfere in the fact that he kills her. 🍇🍌
+
+
+✅🏮🍊🍓 So, now we head towards the Computer Lab. 🍇
+
+✅🏮🍊🍓 But first... Hey! It's a new party member! 🍇
+
+✅🏮🍊🍓 This lady is the wimpy character with Healing Magic (the Mage-type character), though Magic is called 'Techniques' in this game). 🍇🍌
+
+
+✅🏮🍊🍓 So, it's time we had this little talk. 🍇
+
+✅🏮🍊🍓 People love "Phantasy Star II" and you'll hear it referred to as one [of] the best 16-bit R.P.G.s, one of the greatest games ever made, that it redefined console R.P.G.s, that it was years ahead of its time, it introduced all this new stuff into the genre, and it was a just plain groundbreaking game. 🍇
+
+✅🏮🍊🍓 In fact, none of that is really true. 🍇
+
+✅🏮🍊🍓 Now, Dr. Sparkle, you say, 'That's what it says on the Internet. The Internet wouldn't lie to me!'. 🍇
+
+✅🏮🍊🍓 Well, in this case, yeah, the Internet does sort of lie. 🍇🍌
+
+
+✅🏮🍊🍓 I mean, "Phantasy Star II" is a fine game in many ways. 🍇
+
+✅🏮🍊🍓 It was a 6 Megabit cartridge; it was actually the biggest game released on cartridge, at this point. 🍇
+
+✅🏮🍊🍓 It had cool graphics and music. 🍇🍌
+
+
+✅🏮🍊🍓 But you -- if you strip away all of that, at its core "Phantasy Star II" is really just "Dragon Quest II". 🍇
+
+✅🏮🍊🍓 I mean, here's the basic game structure. 🍇
+
+✅🏮🍊🍓 Ya start out in a village, someone tells you to do something, ya find some extra party members, enter dungeons, get to the bottom of the dungeon, heal, buy stuff, repeat. 🍇
+
+✅🏮🍊🍓 At one point, ya get a vehicle that allows ya to travel on water. 🍇
+
+✅🏮🍊🍓 Near the end [of] the game, you find, like, a new area, go through some more dungeons, get the special equipment to fight the final boss, ... 🍇🍌
+
+
+✅🏮🍊🍓 Hell! That's actually the structure of "Phantasy Star (I)"! 🍇
+
+✅🏮🍊🍓 But, in, uh, some ways, "Phantasy Star II" is actually kind of a step backwards for the series. 🍇
+
+✅🏮🍊🍓 'Dr. Sparkle! You must be crazy!', you say, 'That's pure nonsense!'. 🍇
+
+✅🏮🍊🍓 Well, no; hear me out. 🍇🍌
+
+
+✅🏮🍊🍓 "Phantasy Star" had a lot [of] wild stuff going on. 🍇
+
+✅🏮🍊🍓 I -- I wouldn't call it 'plot', but you might call it, sort of, like, 'incidents'. 🍇
+
+✅🏮🍊🍓 For example, you recruited a party member by finding a potion to cure him from being turned into stone. 🍇
+
+✅🏮🍊🍓 Ya also have, like, a talking cat for a character. 🍇🍌
+
+
+✅🏮🍊🍓 There were a total of three planets in "Phantasy Star (I)". 🍇
+
+✅🏮🍊🍓 There were en... -- various environmental hazards on the planet - like poisonous swamps, and ya entered a prison, and you were captured and had to [escape]. 🍇
+
+✅🏮🍊🍓 There was a morgue, in which dead bodies were coming back to life, you could talk to dragons; it was full of cool stuff! 🍇🍌
+
+
+✅🏮🍊🍓 Um... "Phantasy Star II" actually has much less content and much less variety of content. 🍇
+
+✅🏮🍊🍓 Let's take a look at the map of Moto. 🍇
+
+✅🏮🍊🍓 Ya see, it's actually quite small. 🍇🍌
+
+
+✅🏮🍊🍓 Um... That city in the middle? 🍇
+
+✅🏮🍊🍓 That's the city where ya started. 🍇🍌
+
+
+✅🏮🍊🍓 In the upper right quadrant, you have the second town and the first dungeon. 🍇
+
+✅🏮🍊🍓 That's how small the game world is. 🍇
+
+✅🏮🍊🍓 In the lower right quadrant, the [only] thing there is one town. 🍇🍌
+
+
+✅🏮🍊🍓 And this map isn't just one small area of the game. 🍇
+
+✅🏮🍊🍓 Most [of] the game takes place here. 🍇🍌
+
+
+✅🏮🍊🍓 Later ya travel onto another planet, Dezo. 🍇
+
+✅🏮🍊🍓 And, uh, there -- there're actually [only] two planets, instead of three, in this game. 🍇
+
+✅🏮🍊🍓 But Dezo is even emptier than Moto! 🍇🍌
+
+
+✅🏮🍊🍓 Yet, "Phantasy Star II" is actually [pretty] long! 🍇
+
+✅🏮🍊🍓 I mean, so... how can this be if the world is so small? 🍇🍌
+
+
+✅🏮🍊🍓 Well, you see how the overworld is divided up into lots of little compartments? 🍇
+
+✅🏮🍊🍓 These compartments are connected at points by these little walkways. 🍇
+
+✅🏮🍊🍓 The result is: To go from Point A to Point B, ya often have to walk a long winding path. 🍇
+
+✅🏮🍊🍓 If you wanna head to the compartment, East of you, you might have to travel down, then over two, then up one, then right one. 🍇
+
+✅🏮🍊🍓 It greatly lengthens the travel time around the overworld. 🍇
+
+✅🏮🍊🍓 And the second world is even emptier and probably a lot harder to navigate. 🍇🍌
+
+
+✅🏮🍊🍓 I have often seen "Phantasy Star II" described as having a character-driven storyline. 🍇
+
+✅🏮🍊🍓 Again, this is a completely inaccurate statement. 🍇
+
+✅🏮🍊🍓 I mean, yeah, there's a nice selection of characters (eight to be precise - four guys and four girls). 🍇
+
+✅🏮🍊🍓 And ya do get to choose which ones you want in your party. 🍇
+
+✅🏮🍊🍓 This is one [of] the few modern touches in the game. 🍇🍌
+
+
+✅🏮🍊🍓 But, outside of the protagonist, um, [only] one has any real personality in the game. 🍇
+
+✅🏮🍊🍓 And what happens is they pop up outside your house, they you -- they give you a short speech, and give their name, describe their skill set, and then they function as a silent generic party number for the entire rest [of] the game. 🍇
+
+✅🏮🍊🍓 I mean, earlier games like Culture Brain's [the] "Magic of Scheherazade" had large casts with individual personalities, and other R.P.G.s, like Capcom's "Destiny of the Emperor" (also from 1989) had many, many, many more party members. 🍇🍌
+
+
+✅🏮🍊🍓 The [only] really interesting character here is Shir who is not very useful in combat, but if you have her in your party you will randomly steal things from Shops that you enter. 🍇
+
+✅🏮🍊🍓 Now, here's a huge tip here, folks. 🍇
+
+✅🏮🍊🍓 If you have Shir enter and exit the big headquarters building, um, eventually she'll steal the Visiphone, which is a device that lets you save your game anywhere you want. 🍇
+
+✅🏮🍊🍓 Having this device will save you a massive amount of grief if ya play this game. 🍇🍌
+
+
+✅🏮🍊🍓 In a lot [of] ways, the first third or so of the game is most interesting. 🍇
+
+✅🏮🍊🍓 Here's the rundown. 🍇
+
+✅🏮🍊🍓 After that guy blocking the passageway blows himself up, you can then reach the Bio Lab. 🍇
+
+✅🏮🍊🍓 At the bottom level, ya get a disk or something like that. 🍇
+
+✅🏮🍊🍓 [It] turns out the problem is a power surge from the Weather Control Center but nobody knows where that is. 🍇
+
+✅🏮🍊🍓 Because the people running Moto are complete idiots. 🍇🍌
+
+
+✅🏮🍊🍓 Then, in one [of] the villages, you meet a guy who says he needs some special ingredients so he can make some chewing gum that lets you breathe underwater. 🍇
+
+✅🏮🍊🍓 In another dungeon, you can find a jet scooter so ya can travel on water. 🍇
+
+✅🏮🍊🍓 Then you go to an island off the main continent, climb up this enormous, frustrating, maze-like mountain, grab this plant, get the gum, and then ya find the underwater Weather Control area, which is marked by a tiny dot in the middle [of] the ocean. 🍇🍌
+
+
+✅🏮🍊🍓 And then, at the bottom level of this dungeon (which looks exactly like all the other dungeons), the most famous part [of] the game happens. 🍇
+
+✅🏮🍊🍓 In fact, it seems like every discussion of "Phantasy Star (II)" [sort] of brings this one part up. 🍇
+
+✅🏮🍊🍓 So, at the bottom of the dungeon, you encounter this lady who calls herself Neifirst. 🍇
+
+✅🏮🍊🍓 Apparently your buddy, Nei, is, like, the good twin of a clone of the evil Neifirst or something like that. 🍇
+
+✅🏮🍊🍓 Neifirst was behind the whole Biomonster business. 🍇🍌
+
+
+✅🏮🍊🍓 Nei gets mad and fights her. 🍇
+
+✅🏮🍊🍓 And, for some reason, the rest [of] the party just stands there and watches and Nei dies. 🍇
+
+✅🏮🍊🍓 Then, after having died, she makes a speech about the dangers of biological experiments or something. 🍇
+
+✅🏮🍊🍓 And then, according to the narration box, she apparently dies a second time. 🍇🍌
+
+
+✅🏮🍊🍓 Then you fight Neifirst. 🍇
+
+✅🏮🍊🍓 This is, by the way, the first boss fight in the game. 🍇
+
+✅🏮🍊🍓 And there will not be another boss fight until the end [of] the game. 🍇
+
+✅🏮🍊🍓 Now, consider, like, how many boss battles there were in the first "Final Fantasy" or "Dragon Quest III". 🍇
+
+✅🏮🍊🍓 But "Phantasy Star" does away with bosses almost entirely. 🍇🍌
+
+
+✅🏮🍊🍓 Now, I'll give Sega credit; I mean, they at least attempted to explain why ya can't revive Nei. 🍇
+
+✅🏮🍊🍓 The cloning center says she's not human, so she can't be brought back to life. 🍇
+
+✅🏮🍊🍓 Though, if she died earlier in the game, she *could* be revived. 🍇
+
+✅🏮🍊🍓 I know, it's -- it's game logic. 🍇
+
+✅🏮🍊🍓 But Sega at least acknowledges the contradiction of permanent death in these games. 🍇🍌
+
+
+✅🏮🍊🍓 So, okay, people play this and they go, 'Oh my god! A major character was killed umpteen years before "Final Fantasy VII"! "Phantasy Star II" is years ahead of its time!'. 🍇
+
+✅🏮🍊🍓 And, I mean, I get it; it's surprising. 🍇
+
+✅🏮🍊🍓 And sure, other games like "Final Fantasy II" had already done permanent deaths of party members (half the cast got slaughtered in that game.) 🍇
+
+✅🏮🍊🍓 Uh... "Ultima V" also did this, I believe. 🍇🍌
+
+
+✅🏮🍊🍓 So, it wasn't entirely new, but still, Nei was a party member from the game's beginning and ya, sort of, thought of her as, like, the second main character. 🍇
+
+✅🏮🍊🍓 So, her getting killed is [pretty] shocking! 🍇
+
+✅🏮🍊🍓 So, congratulations, Sega, you did one very creative and interesting thing in this game. 🍇
+
+✅🏮🍊🍓 You get the 'Chrontendo' stamp of approval for that one thing. 🍇🍌
+
+
+✅🏮🍊🍓 Now, let's move on to the rest [of] the game. 🍇
+
+✅🏮🍊🍓 And here's where "Phantasy Star II" starts falling apart. 🍇🍌
+
+
+✅🏮🍊🍓 So far, the game moved along at a reasonably brisk pace, for a game this old, but you're probably thinking, 'Now, boy! Things are gonna get interesting!'. 🍇
+
+✅🏮🍊🍓 But, from this point onward, the game becomes a total slog. 🍇
+
+✅🏮🍊🍓 From here on out, it's basically just a series of nondescript dungeons. 🍇
+
+✅🏮🍊🍓 So, killing Neifirst somehow caused the Weather System to get all crazy and the planet is now being flooded? 🍇
+
+✅🏮🍊🍓 Also, all the Biomonsters have vanished and have been replaced by security robots. 🍇🍌
+
+
+✅🏮🍊🍓 So, your boss tells ya to open the dams to release the rising water. 🍇
+
+✅🏮🍊🍓 This means going through five dungeons in a row. 🍇
+
+✅🏮🍊🍓 The first dungeon's where ya find the four, uh, keycards. 🍇
+
+✅🏮🍊🍓 Ya then enter the dams, one after the other, and use the keycards. 🍇
+
+✅🏮🍊🍓 The dams are huge maze-like dungeons, and look just like all the other dungeons in the game, right down to the foreground layer of pipes. 🍇🍌
+
+
+✅🏮🍊🍓 One dungeon is four floors, another is five floors; all are very complicated and very hard to find your way around in. 🍇
+
+✅🏮🍊🍓 There's lots of, like, moving down a floor, then moving to the other end of that floor, and then going back up to the previous floor. 🍇
+
+✅🏮🍊🍓 It's really, really easy to get lost. 🍇
+
+✅🏮🍊🍓 And this section is really, really long, and there's really no rewards for the player. 🍇
+
+✅🏮🍊🍓 There's no boss fights, no cutscenes, no plot development. 🍇🍌
+
+
+✅🏮🍊🍓 I mean, there's a few treasure chests, but nothing really special. 🍇
+
+✅🏮🍊🍓 It's just hours of identical-looking dungeon crawling. 🍇
+
+✅🏮🍊🍓 The game gets really boring (in my opinion) at this point. 🍇🍌
+
+
+✅🏮🍊🍓 Now, finally ya reach the bottom of the last dungeon (the last dam) and then ya get another major plot advancement. 🍇
+
+✅🏮🍊🍓 These three undefeatable robots appear and capture you. 🍇🍌
+
+
+✅🏮🍊🍓 So, it looks like, after all this tedium, finally something cool is gonna happen. 🍇
+
+✅🏮🍊🍓 And I suppose it does, very briefly. 🍇🍌
+
+
+✅🏮🍊🍓 So, ya find yourself in space on this satellite and, because you are, like, bound to these energy chains or something, you can't actually fight. 🍇
+
+✅🏮🍊🍓 So, ya have to run from every battle. 🍇🍌
+
+
+✅🏮🍊🍓 Now, ya see that the spaceship is headed for Palm, the main planet from the first game. 🍇
+
+✅🏮🍊🍓 But look at the planets' names on that little map! 🍇
+
+✅🏮🍊🍓 What's with the inconsistency, Sega? 🍇
+
+✅🏮🍊🍓 I guess they had to get shortened, uh, due to the space issues in the dialog boxes. 🍇🍌
+
+
+✅🏮🍊🍓 Now the story starts getting a little confusing. 🍇
+
+✅🏮🍊🍓 You suddenly blackout, and ya have another dream, then wake up and find you were rescued by a space pirate with the very un-space-pirate-y name of Tyler. 🍇
+
+✅🏮🍊🍓 Uh... Don't worry about this guy; he's [only] in this one scene and is of no importance whatsoever. 🍇🍌
+
+
+✅🏮🍊🍓 So, it turns out, the satellite hit the planet of Palma and completely destroyed it. 🍇
+
+✅🏮🍊🍓 I guess this is supposed to be, like, another big shocking moment in the game, though Palma was not even really mentioned in the game until now. 🍇
+
+✅🏮🍊🍓 You'd probably [only] know about it, if you remember it from the first game. 🍇🍌
+
+
+✅🏮🍊🍓 So, ya [return] to your hometown and your boss lets ya borrow the company spaceship to get to Dezo. 🍇
+
+✅🏮🍊🍓 [Of] course the original "Phantasy Star" had a spaceship. 🍇
+
+✅🏮🍊🍓 But here the ship functions like a -- more like a teleporter than a spaceship. 🍇
+
+✅🏮🍊🍓 I mean, you can [only] use it to go back and forth, between two set points. 🍇🍌
+
+
+✅🏮🍊🍓 And again, "Phantasy Star II" lacks, really, any sort of cool transportation. 🍇
+
+✅🏮🍊🍓 Unlike the stuff we've seen in 'Dragon Quest' or 'Final Fantasy' or even "Phantasy Star (I)", ya don't really have to do anything to get this spaceship. 🍇
+
+✅🏮🍊🍓 It just appears at this point in the story. 🍇🍌
+
+
+✅🏮🍊🍓 Like... When you dug up the airship in the first "Final Fantasy", you were like, 'Wow, this is amazing! I can now fly anywhere I want to in the world.'. 🍇
+
+✅🏮🍊🍓 Here, the spaceship is completely uninteresting. 🍇🍌
+
+
+✅🏮🍊🍓 So, Dezo is amazingly even emptier than Palm. 🍇
+
+✅🏮🍊🍓 There's three generic-looking villages, a bunch of mostly similar looking dungeons, and there's one N.P.C. that has any real dialogue; that's it! 🍇🍌
+
+
+✅🏮🍊🍓 To make matters worse, the overworld is divided into separate parts that are all connected by this underground dungeon. 🍇
+
+✅🏮🍊🍓 So, to get to the villages, ya need to, like, exit this dungeon, walk through the village, walk back, reenter that same dungeon, find a different exit, walk to the second village, and so on. 🍇
+
+✅🏮🍊🍓 Now, once you've found all three t... uh -- towns, you can just teleport between them. 🍇
+
+✅🏮🍊🍓 But this whole world layout seems like it's, sort of, like another attempt to pad the game. 🍇🍌
+
+
+✅🏮🍊🍓 You were given vague instructions to find some guy on Dezo. 🍇
+
+✅🏮🍊🍓 Eventually, you'll find this weird temple thing. 🍇
+
+✅🏮🍊🍓 And it turns out that Lutz (a.k.a. Noah, the guy from the first game) is in suspended animation. 🍇🍌
+
+
+✅🏮🍊🍓 And he tells ya [that] you're related to Alis and, just like her, ya [need] to save the world. 🍇
+
+✅🏮🍊🍓 Okay, so you're the Chosen One. 🍇
+
+✅🏮🍊🍓 Great. 🍇🍌
+
+
+✅🏮🍊🍓 But then there's this. 🍇
+
+✅🏮🍊🍓 Lutz says you to find the Nei Equipment. 🍇🍌
+
+
+✅🏮🍊🍓 Wait a second! Nei Equipment!? 🍇
+
+✅🏮🍊🍓 Is that some sort of connection to Nei? 🍇
+
+✅🏮🍊🍓 Well, the game that never actually says. 🍇🍌
+
+
+✅🏮🍊🍓 Of course, a lot of R.P.G.s make ya find the armor of the ancient hero or something before ya can fight the final boss. 🍇
+
+✅🏮🍊🍓 But here are the Nei Equipment is never explained! 🍇🍌
+
+
+✅🏮🍊🍓 In fact, after she dies, Nei is never mentioned again. 🍇
+
+✅🏮🍊🍓 Nor is Neifirst. 🍇
+
+✅🏮🍊🍓 So, I don't know what Neifirst's importance to the plot actually was. 🍇🍌
+
+
+✅🏮🍊🍓 Yet the game brings up the Nei Equipment and gives you no explanation as to what it is, what it's for, why ya really need it, or why it's named after Nei. 🍇
+
+✅🏮🍊🍓 Overall, this seems like a really huge and bizarre plot hole. 🍇
+
+✅🏮🍊🍓 And (guess what) the equipment is scattered through four incredibly huge and complicated dungeons. 🍇
+
+✅🏮🍊🍓 One is 16 floors deep. 🍇
+
+✅🏮🍊🍓 In some ways, "Phantasy Star II" is almost kinda like a throwback to older R.P.G.s like "Wizardry", where mapping and navigating dungeons is the primary focus [of] the game. 🍇🍌
+
+
+✅🏮🍊🍓 This end part [of] the game is also kind of a throwback to the first half [of] the game where ya had to go through those four dams. 🍇
+
+✅🏮🍊🍓 It's basically the four dams revised, [only] with a layer of fog covering everything instead of pipes. 🍇🍌
+
+
+✅🏮🍊🍓 So, real quick, I'll talk about the battle mechanics. 🍇
+
+✅🏮🍊🍓 It's essentially "Dragon Quest II" with an added feature of an Auto Fighting capability. 🍇
+
+✅🏮🍊🍓 Actually, Auto Battle's on by default. 🍇
+
+✅🏮🍊🍓 You just hit the button to fight and everyone will start attacking monsters randomly. 🍇🍌
+
+
+✅🏮🍊🍓 Just like 'Dragon Quest' games, ya can't target a particular monster in a group. 🍇
+
+✅🏮🍊🍓 And you can't really focus on taking out monsters one at a time. 🍇
+
+✅🏮🍊🍓 So, there's very little tactics or strategy involved in -- in battling in this thing. 🍇
+
+✅🏮🍊🍓 And, for characters who dual wield weapons, they will often attack one monster on their first hit, and then a different monster on the second hit. 🍇🍌
+
+
+✅🏮🍊🍓 Most [of] the time, ya just hit the Fight button and the battle plays out by itself and you can get up and grab a soda or something. 🍇
+
+✅🏮🍊🍓 But if you want to issue commands, you hit the Strategy button, and then you can have a character Defend or use an Item or a Magic Spell. 🍇
+
+✅🏮🍊🍓 There're quite a few spells; some are defensive, like healing or increasing defense. 🍇
+
+✅🏮🍊🍓 Most are offensive, like Fire or Wind spells. 🍇🍌
+
+
+✅🏮🍊🍓 The problem is, the names make even less sense than in most R.P.G.s, with names like 'Sak', 'SaShu', 'Zan', 'NaRes', and so on. 🍇
+
+✅🏮🍊🍓 You're gonna need to read the manual to remember what the most, uh, what most [of] the less frequently used spells actually do. 🍇🍌
+
+
+✅🏮🍊🍓 I don't think there are any, sort of, elemental affinities in this game. 🍇
+
+✅🏮🍊🍓 Swords are very effective against Biomonsters, but Robots are relatively strong when it comes to swords, but weak against Laser Blasters. 🍇
+
+✅🏮🍊🍓 But all the different Magic Spells seem [pretty] much interchangeable to me. 🍇🍌
+
+
+✅🏮🍊🍓 Against most enemies, magic is really not that useful. 🍇
+
+✅🏮🍊🍓 It's more useful in the boss fights, but there's [only] three [of] those, in the entire game. 🍇
+
+✅🏮🍊🍓 But mostly you just hit the 'Fight' button and sorta keep an eye on the characters' health; as one's health starts dropping, then stop and then use Magic to heal. 🍇🍌
+
+
+✅🏮🍊🍓 The main character and Kain both have quite a few Magic Spells. 🍇
+
+✅🏮🍊🍓 But the really powerful Magic Spells use so many Magic Points, you can't use 'em very often. 🍇
+
+✅🏮🍊🍓 And it seems like the characters' spells often do (uh, like the cheaper ones - the ones you can actually use on a regular basis) -- often do less damage than your regular attack. 🍇
+
+✅🏮🍊🍓 So, there's often not much point. 🍇
+
+✅🏮🍊🍓 Magic (other than healing) doesn't really play a huge part in this game. 🍇🍌
+
+
+✅🏮🍊🍓 [The] monsters themselves have very few special capabilities, other than basic attacks. 🍇
+
+✅🏮🍊🍓 There's really not much along the lines of status ailments. 🍇🍌
+
+
+✅🏮🍊🍓 Just like the first "Phantasy Star" game, the combat is very, very simple, compared to something like "Final Fantasy". 🍇
+
+✅🏮🍊🍓 Still, the monsters are [pretty] cool looking and everything's nicely animated. 🍇🍌
+
+
+✅🏮🍊🍓 Okay, so once you scour the dungeon to pick up all eight pieces of the Nei Equipment, ya head on back to Lutz. 🍇
+
+✅🏮🍊🍓 And he'll say, 'Great job, guys.', and give you a very vague history lesson that basically says, 'Hey, Mother Brain is maybe not so great. I think there's something fishy going on, but I don't really know what.'. 🍇
+
+✅🏮🍊🍓 Then he gives you the Nei Sword and teleports you to a spaceship, which looks, more or less, like all the other dungeons on Moto. 🍇
+
+✅🏮🍊🍓 Even the walls look like they're made out [of] stone. 🍇🍌
+
+
+✅🏮🍊🍓 Ya walk around 'til you find a treasure chest and then... it's Dark Falz. 🍇
+
+✅🏮🍊🍓 Now, I don't know why Dark Falz is in a box. 🍇
+
+✅🏮🍊🍓 But, hey, it's the game's second boss battle, so be grateful. 🍇🍌
+
+
+✅🏮🍊🍓 Now, Dark Falz or Dark Force looks completely cool. 🍇
+
+✅🏮🍊🍓 He's one of the best-looking bosses we've seen in a video game. 🍇
+
+✅🏮🍊🍓 But this boss also cheats like crazy! 🍇🍌
+
+
+✅🏮🍊🍓 Ya see, every turn he has the option to turn one [of] the party members evil. 🍇
+
+✅🏮🍊🍓 This means that the party member is, like, completely out of commission; they won't attack or obey commands. 🍇
+
+✅🏮🍊🍓 And, unfortunately, he can do this four times in a row if he wants, turning every single party member evil, and thus you can [only] watch helplessly as he kills the entire party. 🍇🍌
+
+
+✅🏮🍊🍓 As far as I could tell, there's no defense against this. 🍇
+
+✅🏮🍊🍓 It works 100% [of] the time and you can't cure it. 🍇
+
+✅🏮🍊🍓 Unless the Nei Sword decides to, uh, randomly flash and cure everyone. 🍇
+
+✅🏮🍊🍓 But that happens (as I mentioned) completely randomly and somewhat rarely. 🍇
+
+✅🏮🍊🍓 So, expect to get killed a few times, while fighting Dark Force. 🍇🍌
+
+
+✅🏮🍊🍓 If you're really lucky, instead of just starting to turn you evil, right off the bat, he'll actually just start attacking you. 🍇
+
+✅🏮🍊🍓 And this'll give you an opportunity to cast a certain spell that will reduce magic damage. 🍇🍌
+
+
+✅🏮🍊🍓 Then you can have your main character cast 'Megid', the most powerful spell in the game. 🍇
+
+✅🏮🍊🍓 This does substantial damage. 🍇
+
+✅🏮🍊🍓 It's the [only] really hard-hitting Magic Spell in the game, but has the unfortunate side effect of damaging your party members, as well. 🍇🍌
+
+
+✅🏮🍊🍓 So, ideally, you can squeeze out a 'Megid' or two before your M.P. runs out, while using Amy to heal, or using the very rare Star Mist items (which heal all the party members but can't be purchased in Shops). 🍇
+
+✅🏮🍊🍓 But this boss battle is mostly a matter of luck. 🍇
+
+✅🏮🍊🍓 It just depends on how many party members Dark Force decides to turn evil and, if he does, whether or not the Nei Sword decides to cure everybody. 🍇🍌
+
+
+✅🏮🍊🍓 So, you defeated Dark Force and then, uh, absolutely nothing happens! 🍇
+
+✅🏮🍊🍓 At this point, you should probably return to Lutz and heal. 🍇🍌
+
+
+✅🏮🍊🍓 By the way, Lutz was also called 'Noah' in the first game and this spaceship is also called Noah. 🍇
+
+✅🏮🍊🍓 So, just like the Nei Equipment, this is not really explained. 🍇🍌
+
+
+✅🏮🍊🍓 So, ya heal, go through the final dungeon again, and then you'll find the third and last boss, which is (naturally) Mother Brain herself. 🍇
+
+✅🏮🍊🍓 Now, I don't know how you fight a computer, other than smashing it. 🍇
+
+✅🏮🍊🍓 But this particular computer looks like a glowing chick with wild hair. 🍇🍌
+
+
+✅🏮🍊🍓 Unlike Dark Force, Mother Brain has no special abilities, so ya can just pound her to death while healing with Amy. 🍇
+
+✅🏮🍊🍓 She's really quite fair and very easy, compared to Dark Force. 🍇🍌
+
+
+✅🏮🍊🍓 By the way, neither boss has any visible Hit Points nor displays any Damage. 🍇
+
+✅🏮🍊🍓 So, ya really have no idea how the battle is progressing or whether the attacks are even, uh, they're even working. 🍇🍌
+
+
+✅🏮🍊🍓 So, you've destroyed the computer system that controlled the weather (which all your fellow citizens and your civilization, sort of, relied on). 🍇
+
+✅🏮🍊🍓 It's not really made clear why you did this - other than 'Mother Brain was evil'. 🍇
+
+✅🏮🍊🍓 Was Mother Brain the one behind, uh, sending the satellite crashing to Palma? 🍇
+
+✅🏮🍊🍓 I really have no idea; the game doesn't exactly say, at this point. 🍇🍌
+
+
+✅🏮🍊🍓 And then you get the surprise ending. 🍇
+
+✅🏮🍊🍓 It turns out the bad guys are... Earthlings. 🍇
+
+✅🏮🍊🍓 After Earth was destroyed, a bunch [of] survivors headed to Algo, decided to sort of take this -- the solar system over, and they built Mother Brain, and then waited for hundreds of years and then destroyed Palm. 🍇
+
+✅🏮🍊🍓 Okay, so their plan doesn't really make any sense, but they suddenly attack the heroes and... it's Game Over! 🍇🍌
+
+
+✅🏮🍊🍓 One [of] the ways that "Phantasy Star II" does stand out among contemporary R.P.G.s is this odd ambiguous ending, in which you get, uh, these, sort of, freeze frames and quotes from all the characters as they prepare to battle the Earthlings. 🍇
+
+✅🏮🍊🍓 And it's not clear whether our heroes are doomed and hopelessly outgunned and outnumbered and it's like a "Butch Cassidy and the Sundance Kid"-style ending (you know, where they decide to go out in a blaze of glory and the last thing we see is their final act of defiance before death). 🍇
+
+✅🏮🍊🍓 Or maybe the implication is that there's, like, uh -- they're a group of heavily-armed seasoned warriors taking on a bunch of old dudes in bathrobes. 🍇
+
+✅🏮🍊🍓 Maybe ya completely slaughter the Earthlings. 🍇🍌
+
+
+✅🏮🍊🍓 As it is, the U.S. version is unclear. 🍇
+
+✅🏮🍊🍓 Paul McClain, writing in a recent article for 'GameSpite', thought the ending was surprising, because it strongly implied that your entire party was killed, at the end. 🍇🍌
+
+
+✅🏮🍊🍓 On the other hand, uh, Zenic Reverie of '...R.P.G. Consoler' took this ending to mean that you slaughtered the final remnants of Earth's population. 🍇
+
+✅🏮🍊🍓 So, it's really not clear; I guess you could take it either way. 🍇🍌
+
+
+✅🏮🍊🍓 Except that the Japanese ending is less mysterious. 🍇
+
+✅🏮🍊🍓 The ending text there clearly states that you triumphed over the Earthlings, but no one knows what happened to the heroes after that. 🍇🍌
+
+
+✅🏮🍊🍓 To sum it up, for a game as highly praised as "Phantasy Star II" is, it's [pretty] disappointing. 🍇
+
+✅🏮🍊🍓 I mean, on the plus side, the graphics were beautiful, compared to earlier 8-bit R.P.G.s. 🍇
+
+✅🏮🍊🍓 Enemies were cool looking, the music by Tokuhiko Uwabo (often called just 'Bo' in game credits) is downright excellent - the best music, by far, in the early days [of] the Mega Drive. 🍇🍌
+
+
+✅🏮🍊🍓 It also has [pretty] good use of cutscenes and, as is often mentioned, the plot (what there is of it) doesn't reveal itself immediately. 🍇
+
+✅🏮🍊🍓 It doesn't start out saying, 'Mother Brain is evil; destroy it.'. 🍇
+
+✅🏮🍊🍓 Instead, we have, 'Oh, there's something wrong; go check out the computer.', and then it kinda goes on from there. 🍇
+
+✅🏮🍊🍓 And, most famously, there is the rather shocking death of Nei, partway through the game. 🍇🍌
+
+
+✅🏮🍊🍓 However, I'd say the negative elements do outweigh the positive. 🍇
+
+✅🏮🍊🍓 Compared to competing titles like "Dragon Quest III" or "Final Fantasy II", this is just so simplified and almost empty. 🍇
+
+✅🏮🍊🍓 I mean, battles are very simple, repetitive, and mostly just involve watching your characters attacking over and over again, while occasionally jumping in [and] using a healing spell. 🍇
+
+✅🏮🍊🍓 The overworld is small and not that interesting. 🍇
+
+✅🏮🍊🍓 The plot doesn't really make much sense. 🍇
+
+✅🏮🍊🍓 There's, uh, [pretty] much no characterization. 🍇
+
+✅🏮🍊🍓 Everyone is completely silent for the entire game. 🍇🍌
+
+
+✅🏮🍊🍓 But the bottom line: "Phantasy Star (II)" just seems, sort of, empty. 🍇
+
+✅🏮🍊🍓 I mean, compare this to (again) similar games like "Dragon Quest III"; there were so many little side stories and things to do. 🍇
+
+✅🏮🍊🍓 There was the Ghost Village, there was the King who wanted pepper to get a ship, uh, demons impersonating kings, you could create your own town and watch it grow, you could switch jobs with a King. 🍇
+
+✅🏮🍊🍓 Uh... There was gambling, there was, like, that ghost ship ya had to find, there were those hidden treasure chests that ya had to find the keys to. 🍇
+
+✅🏮🍊🍓 There was just so much stuff to do! 🍇🍌
+
+
+✅🏮🍊🍓 And "Final Fantasy II" had all these secondary characters and all these plot twists. 🍇
+
+✅🏮🍊🍓 In that game, ya had N.P.C.s who would join your party and then leave and get killed, ya had to board an enemy ship to rescue the Queen, a tornado came along (destroyed a bunch of towns you had previously visited), you obtained an airship, there were Chocobos, ya got swallowed up by a giant sea creature (and there were people living inside), there all these N.P.C.s and subplots. 🍇
+
+✅🏮🍊🍓 "Phantasy Star II" has [pretty] much none of that! 🍇🍌
+
+
+✅🏮🍊🍓 Remember the part in the beginning where that the -- that -- where the guy's daughter was kidnapped and ya had to rescue her? 🍇
+
+✅🏮🍊🍓 That is literally the [only], sort of, side story in the entire game. 🍇
+
+✅🏮🍊🍓 After that, it's strictly: find dungeon, get to the bottom, then leave, then go into the next dungeon, and so on, and so forth. 🍇🍌
+
+
+✅🏮🍊🍓 There were four dungeons in a row, where the object is simply to walk to the bottom [and] insert a keycard in the computer, on the bottom floor. 🍇
+
+✅🏮🍊🍓 The whole s... -- thing is so basic and repetitive! 🍇🍌
+
+
+✅🏮🍊🍓 Aside from the 16-bit graphics and the sound, this seems, in many ways, to be a huge step backwards, in comparison to some [of] the better FamiCom R.P.G.s. 🍇
+
+✅🏮🍊🍓 So, why did this blow everyone's mind back then? 🍇
+
+✅🏮🍊🍓 Remember, Sega released this thing [pretty] quickly on the Genesis! 🍇
+
+✅🏮🍊🍓 It came out in early 1990 - [only] a few months after the U.S. release of the *first* "Dragon Warrior" game on the Nintendo Entertainment System and a few months before the U.S. release of "Final Fantasy (I)"! 🍇
+
+✅🏮🍊🍓 So, U.S. gamers had hardly seen any console air -- R.P.G.s to compare this to. 🍇
+
+✅🏮🍊🍓 No wonder it seemed so groundbreaking! 🍇🍌
+
+
+✅🏮🍊🍓 Now, I know there's people out there who will violently disagree with me on this and that's fine; I'm okay with that. 🍇
+
+✅🏮🍊🍓 Feel free to, uh, voice your displeasure in the comments. 🍇
+
+✅🏮🍊🍓 But there's probably not much you could say that will actually change my mind on this game. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Super League 🇯🇵 // Tommy Lasorda Baseball 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1989 April 22 🇯🇵 
+👓🏮🍒💾 Developed by Sega 
+👓🏮🍒📦 Published by Sega 🇯🇵 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Well, naturally, no new console can go on very long without a Baseball Game. 🍇
+
+✅🏮🍊🍓 And here's the first one out [of] the gate for the Mega Drive, "Super League" - one of two games released in April, both with 'Super' in the title. 🍇
+
+✅🏮🍊🍓 Yeah, before we had "Super Mario World" and all those other "Super..." games for Nintendo's next system, Mega Drive games were often affixing the word onto their titles. 🍇
+
+✅🏮🍊🍓 There was "Super Thunder Blade", "Super League", and "Super Daisenyaku" this episode, and there will be about three more next time. 🍇🍌
+
+
+✅🏮🍊🍓 "Super League", uh, uses no licenses whatsoever from any real sports organizations or individuals - and therefore all the teams have really goofy names. 🍇
+
+✅🏮🍊🍓 These names are based on real Nippon Professional Baseball League teams like the Chunichi Dragons or the Yomiuri Giants, but they just have one letter out [of] place. 🍇🍌
+
+
+✅🏮🍊🍓 Truthfully, I'm getting [pretty] numbed to all the Baseball and Golf Games I've had to endure on the FamiCom, the Master System, and the P.C. Engine, so I can't get too excited about "Super League". 🍇
+
+✅🏮🍊🍓 But, I'll admit, this is a [pretty] slick game! 🍇
+
+✅🏮🍊🍓 The graphics are the best we've seen on just [about] any Baseball Game, so far. 🍇
+
+✅🏮🍊🍓 The perspective is [pretty] well done here. 🍇
+
+✅🏮🍊🍓 And the catcher is transparent so ya can see right through him. 🍇🍌
+
+
+✅🏮🍊🍓 The music sounds good too (though a little weird; [it] doesn't really sound like Baseball music). 🍇🍌
+
+
+✅🏮🍊🍓 And the speech is [pretty] darned lifelike (uh, much better than what we've been hearing on a lot [of] FamiCom Sports Games). 🍇🍌
+
+
+✅🏮🍊🍓 Naturally, Sega released this in the West. 🍇
+
+✅🏮🍊🍓 In Europe, it was still titled "Super League", but for the U.S. the title was changed to "Tommy Lasorda Baseball". 🍇🍌
+
+
+✅🏮🍊🍓 Now, Lasorda was a hot commodity at this moment. 🍇
+
+✅🏮🍊🍓 As the manager of the LA Dodgers, he led that team to win the World Series in 1988. 🍇
+
+✅🏮🍊🍓 His face dominates the Genesis box art, though nowadays, we might think he looks a little like Bill Clinton in this illustration. 🍇🍌
+
+
+✅🏮🍊🍓 By the way, you'll notice that Sega continued to use the grid pattern in the box art for the Genesis, sorta like they did with the Master System. 🍇
+
+✅🏮🍊🍓 Eventually, they would, uh, go with the red bar running along the left-hand side, as their distinctive box cover element. 🍇🍌
+
+
+✅🏮🍊🍓 The whole 'celebrity endorsement' thing seemed to be the crux of Sega's strategy for Sports Games in the U.S.. 🍇
+
+✅🏮🍊🍓 They all had a similar cover style and they had names like "James 'Buster' Douglas' Knockout Boxing". 🍇🍌
+
+
+✅🏮🍊🍓 Sega had also done this on the Master System. 🍇
+
+✅🏮🍊🍓 Ya might remember "Reggie Jackson Baseball". 🍇🍌
+
+
+✅🏮🍊🍓 Just like a lot [of] celebrity Sports Games, all Sega did was throw Lasorda on the box art and the title screen. 🍇
+
+✅🏮🍊🍓 The game itself is the same as "Super League". 🍇🍌
+
+
+✅🏮🍊🍓 It works [pretty] smoothly. 🍇
+
+✅🏮🍊🍓 It's not really that different than all the other Baseball Games we've seen. 🍇
+
+✅🏮🍊🍓 Some people don't like the overhead perspective, but it wasn't too uncommon back then. 🍇🍌
+
+
+✅🏮🍊🍓 So, anyway, now that we've got a Baseball Game on the Mega Drive, I suspect we'll be seeing a Golf Game very soon. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Super Daisenryaku 🇯🇵 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1989 April 29 🇯🇵 
+👓🏮🍒💾 Developed by Systemsoft 
+👓🏮🍒📦 Published by Sega 🇯🇵 🍌
+
+
+✅🏮🍊🍓 [Pretty] impressive title screen, here. 🍇
+
+✅🏮🍊🍓 "Super Daisenryaku" from SystemSoft. 🍇
+
+✅🏮🍊🍓 This is the first Mega Drive release, which is not a Sega original game, though Sega did actually publish "Super Daisenryaku". 🍇🍌
+
+
+✅🏮🍊🍓 Also, while we tend to think of the era as being one of console game exclusives, due to Nintendo's strict licensing rules, 'Daisenryaku' was one [of] the handful of series that didn't own allegiance to any particular console. 🍇
+
+✅🏮🍊🍓 The games appeared on Computers, Nintendo consoles, Sega consoles, on the P.C. Engine. 🍇
+
+✅🏮🍊🍓 It was sorta like Falcom's "Ys" in that sense. 🍇🍌
+
+
+✅🏮🍊🍓 For those [of] you with bad memories, 'Daisenryaku' was (as far as I know) the series that kicked off the whole Military Simulation Game craze in Japan. 🍇
+
+✅🏮🍊🍓 It first appeared on Computers in 1985. 🍇
+
+✅🏮🍊🍓 A FamiCom port came out in 1988 and we covered that in "Chrontendo Episode 35". 🍇🍌
+
+
+✅🏮🍊🍓 "Super Daisenryaku" was a sequel/upgrade to the first game. 🍇
+
+✅🏮🍊🍓 It, once again, appeared on Computers in 1989, as well as on the Mega Drive, which we are seeing here, of course, and then later on the P.C. Engine. 🍇🍌
+
+
+✅🏮🍊🍓 Now, just to porta -- sorta put things in perspective, timewise, "Super Daisenryaku" came out on the Mega Drive [only] six months after the FamiCom version. 🍇🍌
+
+
+✅🏮🍊🍓 I think we all know what this game is about. 🍇
+
+✅🏮🍊🍓 Ya move around on the map, fight enemy units, capture cities, ya have the same different types of terrain as these games always have. 🍇
+
+✅🏮🍊🍓 It's really not that different than "FamiCom Wars". 🍇
+
+✅🏮🍊🍓 When two units collide, ya get these little animated [battle]-like scenes (ya know, just like "FamiCom Wars" or "Military Madness"). 🍇🍌
+
+
+✅🏮🍊🍓 Though I think that "Super Daisenryaku"'s aimed at an older audience. 🍇
+
+✅🏮🍊🍓 There's quite a bit of kanji (made possible by the Mega Drive's high resolution graphics). 🍇🍌
+
+
+✅🏮🍊🍓 And [it] also seems somewhat aimed at military geeks. 🍇
+
+✅🏮🍊🍓 All the units are real, and I assume are... somewhat based on the capabilities of their real-life counterparts. 🍇
+
+✅🏮🍊🍓 But, unless you know what all this crap is, it might not really be clear to you whether you're sending, for example, an M901 against an M1A1 is a good idea or not. 🍇🍌
+
+
+✅🏮🍊🍓 Luckily, there's lots of stats listed. 🍇
+
+✅🏮🍊🍓 But the game is gonna be a bit rough going for non-Japanese-speakers or people who don't know a -- know a lot about military hardware. 🍇🍌
+
+
+✅🏮🍊🍓 So, how does this rate against similar games? 🍇
+
+✅🏮🍊🍓 Well, you know my feelings about "Military Madness"! 🍇🍌
+
+
+✅🏮🍊🍓 So, how does this compare to the FamiCom "Daisenryaku" game? 🍇
+
+✅🏮🍊🍓 Well, it's certainly nicer looking! 🍇
+
+✅🏮🍊🍓 But, more importantly, the map is divided into actual hexagons instead of squares. 🍇
+
+✅🏮🍊🍓 The FamiCom kinda had to compromise, in that department. 🍇🍌
+
+
+✅🏮🍊🍓 Other than that, it doesn't really seem any different than all the other 8-bit Strategy Games we've been seeing. 🍇
+
+✅🏮🍊🍓 There was some exclusive content, here. 🍇
+
+✅🏮🍊🍓 There were maps and units based on stuff from Sega games, but it really doesn't seem to have t... -- have much of a following in Japan today, as far as I can tell. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Thunder Force II 🇯🇵 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1989 June 15 🇯🇵 
+👓🏮🍒💾 Developed by Techno Soft 
+👓🏮🍒📦 Published by Techno Soft 🇯🇵 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Oh, Lord! What a way to close out the first half [of] this episode! 🍇🍌
+
+
+✅🏮🍊🍓 "Thunder Force II". 🍇
+
+✅🏮🍊🍓 Now, the odd thing about "Thunder Force II" is that this is the first third-party Mega Drive game. 🍇
+
+✅🏮🍊🍓 It was published (and probably developed) by Techno Soft (though in the U.S. it was published by Sega). 🍇🍌
+
+
+✅🏮🍊🍓 "This is Exceliza." 🍇
+🏮🍋🍓 "Roger! Good Luck." 🍇
+
+✅🏮🍊🍓 I have no idea what he is saying - other than 'Good Luck'. 🍇🍌
+
+
+✅🏮🍊🍓 So, "Thunder Force II" is a Shoot-'em-Up - though a very unusual one. 🍇
+
+✅🏮🍊🍓 It has this crazy top-down scheme, where ya can move your ship around in all four cardinal directions and the four diagonal directions. 🍇🍌
+
+
+✅🏮🍊🍓 Well, this is the first part [of] the game. 🍇
+
+✅🏮🍊🍓 The object is to destroy each [of] those little bases by shooting out the middle (um, I don't know what you'd call it.) turret(?) port(?) - some'm like that. 🍇🍌
+
+
+✅🏮🍊🍓 After you do this, you're rewarded with a couple power-ups, meaning new weapons. 🍇
+
+✅🏮🍊🍓 Ya see them up there in the, uh, top left corner. 🍇🍌
+
+
+✅🏮🍊🍓 And, well, there's also that. 🍇
+
+✅🏮🍊🍓 Your movement is constrained by these moving walls. 🍇
+
+✅🏮🍊🍓 [You need] to move around, looking for the place where ya can break through to find the next little base. 🍇
+
+✅🏮🍊🍓 Okay, this is it here. 🍇🍌
+
+
+✅🏮🍊🍓 Now, obviously you're thinking, 'Where is "Thunder Force (I)"?'. 🍇
+
+✅🏮🍊🍓 Unless you're a fan of old Japanese computers, you've probably never seen the first "Thunder Force" game. 🍇
+
+✅🏮🍊🍓 It was from 1983 on the frickin' Sharp X1 computer - a real antique. 🍇
+
+✅🏮🍊🍓 Later, it received releases on more well-known computers, like the P.C.-88 'n' ...98. 🍇🍌
+
+
+✅🏮🍊🍓 It's very clearly inspired by "Xevious" and really not that exciting. 🍇
+
+✅🏮🍊🍓 "Thunder Force II" began on the Sharp [X]68000 computer in 1988. 🍇
+
+✅🏮🍊🍓 It introduced horizontal scrolling elements in the game and was quite a bit more interesting than the first one. 🍇🍌
+
+
+✅🏮🍊🍓 Techno Soft, the creators of the 'Thunder Force' games released, uh, quite a few Computer games back then. 🍇
+
+✅🏮🍊🍓 They eventually moved on to consoles. 🍇
+
+✅🏮🍊🍓 Other than "Thunder Force", probably the most well-known is the 'Herzog' series. 🍇
+
+✅🏮🍊🍓 We'll be seeing "Herzog Zwei" for, uh, 'Chronsega' before too long. 🍇🍌
+
+
+✅🏮🍊🍓 Now, I don't really like "Thunder Force II"; in fact, I, sort of, detest it. 🍇
+
+✅🏮🍊🍓 Really, it's wh... -- these top-down sections that are so annoying to me. 🍇
+
+✅🏮🍊🍓 Ya have to ar... -- wander around, all over the planet's surface, looking for these little bases, while enemies constantly spawn out of thin air. 🍇🍌
+
+
+✅🏮🍊🍓 And, all around you, enemy shots are just, sort of, floating around in the air. 🍇
+
+✅🏮🍊🍓 In most Shooters, once a shot passes your ship, ya don't have to worry about it. 🍇
+
+✅🏮🍊🍓 Here, projectiles can sorta tag along behind you or right next to you; they all move at the same speed as your ship. 🍇🍌
+
+
+✅🏮🍊🍓 So, once ya destroy the requisite number of bases, you move on to a horizontal section. 🍇
+
+✅🏮🍊🍓 Now, I suppose you are supposed to have entered into some sort of underground base below the planet's surface. 🍇
+
+✅🏮🍊🍓 These parts are a bit more palatable and act like a much lamer version of "Gradius" or "R-Type". 🍇🍌
+
+
+✅🏮🍊🍓 Now, here, you're constantly picking up new weapons, some of which are [pretty] darn cool. 🍇
+
+✅🏮🍊🍓 The game uses multi-plane scrolling, which looks nice, but there's really nothing too impressive going on here visually, from what I've seen. 🍇
+
+✅🏮🍊🍓 The later bosses are bigger and badder looking. 🍇
+
+✅🏮🍊🍓 Uh... This guy is clearly "Gradius"-inspired, though. 🍇🍌
+
+
+✅🏮🍊🍓 Once ya defeat the boss, you then head to a new top-down area, then a horizontal area, and so on. 🍇
+
+✅🏮🍊🍓 The game ends on a top-down area, which is kinda disappointing. 🍇🍌
+
+
+✅🏮🍊🍓 "Thunder Force II" does have a few things going for it. 🍇
+
+✅🏮🍊🍓 Other than "R-Type" on the P.C. Engine, it's probably about the best-looking Shoot-'em-Up we've seen for a console so far. 🍇
+
+✅🏮🍊🍓 The music is [pretty] darn good. 🍇
+
+✅🏮🍊🍓 The weapons are cool - sorta like those in a Compile game. 🍇
+
+✅🏮🍊🍓 Yet, something about the game just makes me hate it. 🍇
+
+✅🏮🍊🍓 I guess it's those awful top-down sections. 🍇🍌
+
+
+✅🏮🍊🍓 Though the horizontal sections do have their moments - like these parts where ya speed up really fast and go through these narrow gaps. 🍇
+
+✅🏮🍊🍓 The game goes this more than once. 🍇🍌
+
+
+✅🏮🍊🍓 And also the name is, sort of, confusingly similar to "Thunder Blade". 🍇
+
+✅🏮🍊🍓 Techno Soft would actually go on to later release a few sequels. 🍇
+
+✅🏮🍊🍓 "Thunder Force III" was a bit more traditional and ended up being a much more popular game. 🍇
+
+✅🏮🍊🍓 This led to an Arcade game, a Super FamiCom game, then there was a "Thunder Force IV" for the Mega Drive. 🍇
+
+✅🏮🍊🍓 Both "Thunder Force III" and "...IV" are a lot better looking than this game. 🍇🍌
+
+
+✅🏮🍊🍓 The series had become [pretty] popular by then and eventually "Thunder Force" met a death on the PlayStation 2 with "Thunder Force VI". 🍇🍌
+
+
+
+👓🏮🍊🎇# 🗨️ Introduction to Summer 1989 ✨
+
+
+✅🏮🍊🍓 We'll now move on to the second part of this episode covering the Master System. 🍇
+
+✅🏮🍊🍓 Though the Mega Drive is not quite caught up with the Master System yet. 🍇🍌
+
+
+✅🏮🍊🍓 All of these games are U.S., European, or Brazilian releases, so we don't really have the exact release dates. 🍇
+
+✅🏮🍊🍓 But based on information found in some, uh, contemporary game magazines, it seems these titles came out in the Summer (or maybe even early Fall) of 1989. 🍇🍌
+
+
+✅🏮🍊🍓 So, let's take a look. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Casino Games 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1989 Summer 🇺🇸 
+👓🏮🍒💾 Developed by Compile 
+👓🏮🍒📦 Published by Sega 🇺🇸 🍌
+
+
+✅🏮🍊🍓 We'll start the Master System section off with "Casino Games" - another Gambling Simulation Game. 🍇
+
+✅🏮🍊🍓 We see the Vegas Strip, I suppose, with such places as 'NON', 'BOW WOW', and 'CASINO'. 🍇🍌
+
+
+✅🏮🍊🍓 Now "Casino Games" is obviously a very classy game. 🍇
+
+✅🏮🍊🍓 So, you are referred to as 'Mr.' or 'Ms.'. 🍇
+
+✅🏮🍊🍓 Sorry, traditionalists, if you're a female, you're stuck with 'Ms.'. 🍇
+
+✅🏮🍊🍓 So, I'm Mr. Dr. S, here. 🍇🍌
+
+
+✅🏮🍊🍓 By 'account', they mean a password. 🍇
+
+✅🏮🍊🍓 For a new game, ya start off with $500 and hit the tables. 🍇
+
+✅🏮🍊🍓 There are four gambling games: Slots, Poker, Blackjack, and (an unusual choice) Baccarat. 🍇🍌
+
+
+✅🏮🍊🍓 The Poker and Blackjack work just about exactly as you think they would. 🍇
+
+✅🏮🍊🍓 Ya have different opponents of varying skill. 🍇
+
+✅🏮🍊🍓 The objective is simply to beat your opponents and make a lot [of] money. 🍇
+
+✅🏮🍊🍓 There is an ending, apparently - obtainable once you obtain a certain amount [of] cash. 🍇🍌
+
+
+✅🏮🍊🍓 This might remind you a bit of "Family Games" (a.k.a. "Parlour Games"), which we saw earlier for the same console. 🍇
+
+✅🏮🍊🍓 Both were developed by Compile, who did a bit of work for the Master System back then. 🍇
+
+✅🏮🍊🍓 Uh... "Golvellius" and "Power Strike" being their most well-known titles for the console. 🍇🍌
+
+
+✅🏮🍊🍓 Now, obviously all these games have Poker and Blackjack, but the odd ball game here is Baccarat. 🍇
+
+✅🏮🍊🍓 Does anyone actually play this game? (I mean, outside of James Bond)? 🍇
+
+✅🏮🍊🍓 And even then, in the new "Casino Royale" movie, they changed the game from Baccarat to Poker. 🍇🍌
+
+
+✅🏮🍊🍓 This is not actually the version of Baccarat you think of Bond playing. 🍇
+
+✅🏮🍊🍓 That's the French version. 🍇
+
+✅🏮🍊🍓 This is the much more common variation, played in most other countries. 🍇
+
+✅🏮🍊🍓 It's actually 100% luck. 🍇
+
+✅🏮🍊🍓 The dealer just hands out cards, and there's no decision making whatsoever. 🍇
+
+✅🏮🍊🍓 Despite this, Baccarat is apparently considered, sort of, a high roller game in most casinos, with big shots gamblers making huge bets on a game of pure chance - kinda like, uh, Roulette. 🍇🍌
+
+
+✅🏮🍊🍓 "Casino Games", also has a Slot Machine game (not much to see here). 🍇🍌
+
+
+✅🏮🍊🍓 And then, here's kind of a strange one - uh, Pinball! 🍇
+
+✅🏮🍊🍓 And this is just for fun; ya can't win or lose money. 🍇
+
+✅🏮🍊🍓 And even though the Pinball here isn't really that exciting (it's not exactly "Alien Crush" or anything like that) the graphics are good, uh, and the music is decent. 🍇🍌
+
+
+✅🏮🍊🍓 I guess you really can't complain too much about "Casino Games". 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 King's Quest: Quest for the Crown 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1989 Summer 🇺🇸 
+👓🏮🍒💾 Developed by Sierra | Microsmiths 
+👓🏮🍒📦 Published by Parker Brothers 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Wow! So, uh, this is unexpected - "King's Quest" on the Sega Master System? 🍇
+
+✅🏮🍊🍓 Published by Parker Brothers? 🍇🍌
+
+
+✅🏮🍊🍓 I hope ya liked that music, because this is [pretty] much the [only] music in the entire game; it plays out in almost complete silence. 🍇
+
+✅🏮🍊🍓 Obviously, this has been given a bit of a graphical overhaul from the original, but let's see how faithful it is to the original, in *spirit*, when it comes to constantly killing you. 🍇
+
+✅🏮🍊🍓 Yep! Ya die when trying to cross the bridge; Roberta Williams would be pleased. 🍇🍌
+
+
+✅🏮🍊🍓 So, just walking up to the bridge and pressing Left will not get you across. 🍇
+
+✅🏮🍊🍓 Ya need to use the Up button to make sure your feet are actually touching the bridge at all times, because the bridge has an arch to it. 🍇
+
+✅🏮🍊🍓 "King's Quest", uh, has a rather, uh, problematic implementation of a three dimensional world onto a two dimensional format. 🍇
+
+✅🏮🍊🍓 And this can make certain parts a little difficult. 🍇🍌
+
+
+✅🏮🍊🍓 Now, this is, [of] course, the very first Graphic Adventure Game from Sierra On-Line. 🍇
+
+✅🏮🍊🍓 Hell! This [pretty] much started the whole Graphical Adventure genre, period! 🍇
+
+✅🏮🍊🍓 Originally it came out in 1984 on the IBM PCjr. 🍇
+
+✅🏮🍊🍓 Though Sierra themselves once gave the date as being 1983. 🍇🍌
+
+
+✅🏮🍊🍓 "King's Quest" was ported to other systems and became an enormously popular and important game. 🍇
+
+✅🏮🍊🍓 And, uh, for more info and historical context, I would actually check out the "History of Adventure Games" section in "Chrontendo Episode 31". 🍇🍌
+
+
+✅🏮🍊🍓 I love this part. 🍇
+
+✅🏮🍊🍓 You look at the King and you see, "nothing special". 🍇
+
+✅🏮🍊🍓 Ooh! Ice, burn! 🍇
+
+✅🏮🍊🍓 I assume that this was unintentional humor. 🍇
+
+✅🏮🍊🍓 Whenever you're looking at something that can't be picked up or interacted with or moved or something like that, or isn't a quest item, it'll tell you that you're looking at 'nothing special'. 🍇🍌
+
+
+✅🏮🍊🍓 The object [of] the game is to find some magical doohickeys that went missing or something. 🍇
+
+✅🏮🍊🍓 Fantasy land kingdoms always have to have some sort of magical doohickey. 🍇
+
+✅🏮🍊🍓 And ya go about your quest by walking around, looking under rocks, up trees, picking up various objects of no obvious use (at least, they don't seem to have much use when you first find 'em). 🍇🍌
+
+
+✅🏮🍊🍓 Ya need to watch out, uh, not [only] for obvious enemies, but also, like, holes or any sorts of bodies of water (that sort [of] thing) because you die very easily. 🍇
+
+✅🏮🍊🍓 And you will need to use the various objects that you pick up, um, in order to, sort of, overcome certain obstacles or solve certain puzzles (usually in very non-obvious fashions). 🍇🍌
+
+
+✅🏮🍊🍓 You also struggle against "King's Quest"['s] very weird fussy logic. 🍇
+
+✅🏮🍊🍓 Like here, you're, uh -- you're stuck in the well and can't move. 🍇
+
+✅🏮🍊🍓 This looks bad, right? 🍇
+
+✅🏮🍊🍓 Are you gonna [drown]? 🍇
+
+✅🏮🍊🍓 Whadda ya do? 🍇🍌
+
+
+✅🏮🍊🍓 Well, you can't do anything until you go to the menu and use the 'Swim' command. 🍇
+
+✅🏮🍊🍓 Yes, you have to specifically issue a command to swim when you're in the water. 🍇🍌
+
+
+✅🏮🍊🍓 Okay, so here's a dragon guarding something. 🍇
+
+✅🏮🍊🍓 Uh... He's not that dangerous and you're supposed to throw a bucket of water at him. 🍇
+
+✅🏮🍊🍓 But this [only] works if you've filled the bucket with the water, while swimming around. 🍇🍌
+
+
+✅🏮🍊🍓 But the bucket was with you in the water. 🍇
+
+✅🏮🍊🍓 I mean, you're carrying the bucket, right? 🍇
+
+✅🏮🍊🍓 So, wouldn't the bucket get filled up by itself, since it's underwater? 🍇
+
+✅🏮🍊🍓 I mean, were you carrying the bucket in some sort of waterproof bag or something? 🍇🍌
+
+
+✅🏮🍊🍓 These are the kind of, like, weird [illogical] things that these Sierra games have that can sometimes make the puzzles a bit difficult to figure out. 🍇
+
+✅🏮🍊🍓 Far and away the worst in "King's Quest" is the, uh, guessing the name of Rumpelstiltskin, but that's obviously something we're not going to cover here. 🍇🍌
+
+
+✅🏮🍊🍓 One thing that does make this easier than the old version was that it's ditched the Computer version's text parser. 🍇
+
+✅🏮🍊🍓 Um... In the old one, ya actually had to type in commands word-by-word, letter-by-letter. 🍇
+
+✅🏮🍊🍓 Here, all the possible commands are already in a menu (sorta kinda resembles, like, uh, "Maniac Mansion" a bit). 🍇🍌
+
+
+✅🏮🍊🍓 And, of course, the question is, 'Did the Master System really need a port a five year old Computer game?'. 🍇
+
+✅🏮🍊🍓 I mean, there were already four 'King's Quest' games out, by the time this came out, and the fifth would appear in 1990. 🍇🍌
+
+
+✅🏮🍊🍓 It does seem, sort of, like, an odd choice by Parker Brothers, at first. 🍇
+
+✅🏮🍊🍓 But when ya think about it, their other two Master System games were "...Carmen San Diego" and "Montezuma's Revenge". 🍇
+
+✅🏮🍊🍓 Those were both parts of older Computer games. 🍇🍌
+
+
+✅🏮🍊🍓 "King's Quest" was the last Parker Brothers game for the system and the last third-party-published game in the United States. 🍇
+
+✅🏮🍊🍓 Though, aside from, uh, the three Parkers Brothers games, we [only] had two Activision games, so clearly, third-Party games were not one [of] the Master System's strengths in the U.S.. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 OutRun 3-D 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1989 Summer 🇺🇸 
+👓🏮🍒💾 Developed by Sega 
+👓🏮🍒📦 Published by Sega 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Mid-1989 was sorta a weird time for the Master System. 🍇
+
+✅🏮🍊🍓 It was dead in Japan, though Sega was still developing and releasing games for the U.S. and European market on a [pretty] sporadic basis. 🍇🍌
+
+
+✅🏮🍊🍓 Here's one oddball game that supposedly came out in Europe [only], "OutRun" 3D. 🍇
+
+✅🏮🍊🍓 I'm not 100% sure about that. 🍇
+
+✅🏮🍊🍓 It was definitely being sold in the U.S., as seen in magazine advertisements at the time. 🍇
+
+✅🏮🍊🍓 I suppose it could have been imported. 🍇
+
+✅🏮🍊🍓 Documentation of the Master System releases were [pretty] sketchy back then. 🍇🍌
+
+
+✅🏮🍊🍓 Anyway, this is (more or less) a 3D remake of "OutRun". 🍇
+
+✅🏮🍊🍓 The Master System "OutRun" came out, back in Spring of 1987 and was covered in "Chronsega ... 3". 🍇
+
+✅🏮🍊🍓 Like most other 3D Master System games, you can choose either 3D or 2D visuals. 🍇🍌
+
+
+✅🏮🍊🍓 So, you'd think that if you turned off the 3D visuals, you would just be basically playing the old Master System "OutRun". Right? 🍇
+
+✅🏮🍊🍓 Well, interestingly, no; Sega reworked the whole thing. 🍇
+
+✅🏮🍊🍓 There were new music tracks added and there're a few stages [that have] been altered a bit. 🍇🍌
+
+
+✅🏮🍊🍓 But the sad thing is, this is actually worse than the first Master System "OutRun" game. 🍇
+
+✅🏮🍊🍓 Let's compare. 🍇
+
+✅🏮🍊🍓 Here's the 1987 game. 🍇
+
+✅🏮🍊🍓 It looks, more or less, the same but feels much faster. 🍇
+
+✅🏮🍊🍓 And the controls somehow work a little better. 🍇🍌
+
+
+✅🏮🍊🍓 I don't really understand what happened. 🍇
+
+✅🏮🍊🍓 I mean, the old "OutRun" was not fantastic, but this one is much worse! 🍇
+
+✅🏮🍊🍓 Maybe it has something to do with the 3D conversion? 🍇
+
+✅🏮🍊🍓 I'm not sure. 🍇🍌
+
+
+✅🏮🍊🍓 Here's one [of] the areas that was added on to "OutRun 3D". 🍇
+
+✅🏮🍊🍓 It looks cool; I'll give it that. 🍇🍌
+
+
+✅🏮🍊🍓 But look at this, though, as we exit the tunnel. 🍇
+
+✅🏮🍊🍓 Ouch! That was ugly. 🍇
+
+✅🏮🍊🍓 And what just happened to the sky, here? 🍇🍌
+
+
+✅🏮🍊🍓 It's a bit of a shame. 🍇
+
+✅🏮🍊🍓 I mean, I love the Arcade "OutRun", but we just can't seem to get a decent version on the Master System. 🍇
+
+✅🏮🍊🍓 This one looks okay, but the whole thing just feels sluggish and hard to control. 🍇
+
+✅🏮🍊🍓 [I'm] not really sure what happened, but... oh well. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Basketball Nightmare 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1989 Summer 🇺🇸 
+👓🏮🍒💾 Developed by Sega 
+👓🏮🍒📦 Published by Sega 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Ah! Here's an odd one (just the way we like 'em). 🍇
+
+✅🏮🍊🍓 "Basketball Nightmare" - another game supposedly released [only] in Europe, which is odd since Basketball is more popular in the U.S., right? 🍇🍌
+
+
+✅🏮🍊🍓 There's a few different modes here. 🍇🍌
+
+
+✅🏮🍊🍓 'Versus Play' works just like any other low-grade Basketball Game. 🍇
+
+✅🏮🍊🍓 Each player chooses a country, then it's, uh, head-to-head play between the two players. 🍇🍌
+
+
+✅🏮🍊🍓 But the interesting part is perhaps the Single Player version. 🍇
+
+✅🏮🍊🍓 Ya see, this is a Horror-themed Basketball Game. 🍇
+
+✅🏮🍊🍓 Each level has you facing off against a team of monsters. 🍇🍌
+
+
+✅🏮🍊🍓 First up is the Lavender Werewolves! 🍇
+
+✅🏮🍊🍓 Now, I guess, on the surface, this seems [pretty] cool. 🍇
+
+✅🏮🍊🍓 But there are some problems. 🍇🍌
+
+
+✅🏮🍊🍓 The gameplay is [pretty] basic. 🍇
+
+✅🏮🍊🍓 Ya just take the ball, run to the other si... -- team's basket, and then shoot! 🍇
+
+✅🏮🍊🍓 90% of the time it goes in - often with a [pretty] cool animated cutscene of a player making a really, uh, cool and physically impossible Slam Dunk. 🍇🍌
+
+
+✅🏮🍊🍓 Alright then! 🍇
+
+✅🏮🍊🍓 So, what's the problem? 🍇
+
+✅🏮🍊🍓 Well, first of all, the gameplay is very basic. 🍇
+
+✅🏮🍊🍓 There seems to be virtually no stealing the ball, blocking shots, or anything like that. 🍇🍌
+
+
+✅🏮🍊🍓 There are fouls, though it's not really clear *how* you foul someone. 🍇
+
+✅🏮🍊🍓 You can move your player right on top of the guy with the ball and most [of] the time nothing happens. 🍇
+
+✅🏮🍊🍓 Every so often, you'll get a Foul called, for no apparent reason. 🍇🍌
+
+
+✅🏮🍊🍓 You can pass the ball, you can switch between players, and that's about it. 🍇
+
+✅🏮🍊🍓 But mostly what happens is you get the ball, score a basket, the other team takes the ball, scores a basket, the ball goes back to you, etc. 🍇🍌
+
+
+✅🏮🍊🍓 S... -- Every once in a while, sometimes'll -- someone will miss a basket or [occasionally] there'll be, like, an interception, but mostly ya just seem to take turns shooting baskets. 🍇
+
+✅🏮🍊🍓 So, the object here is simply to defeat the opposing team, move on to the next, uh, level, and face another team of monsters. 🍇🍌
+
+
+✅🏮🍊🍓 So, the second level has kappas! 🍇
+
+✅🏮🍊🍓 How can kappas even play Basketball? 🍇
+
+✅🏮🍊🍓 They can't even tilt their head too much or the water will fall out [of] the hole in their head. 🍇
+
+✅🏮🍊🍓 Yet, here they are, doing all kinds [of] crazy jumps. 🍇🍌
+
+
+✅🏮🍊🍓 Now, truth be told, there is sort of a game-breaking bug here that allows you to always win against the C.P.U.. 🍇
+
+✅🏮🍊🍓 If you shoot a, uh, three-pointer from the -- the far -- the corner near your basket, it'll almost always go in. 🍇
+
+✅🏮🍊🍓 Thus, you can net three points every turnover to the C.P.U.'s two points. 🍇🍌
+
+
+✅🏮🍊🍓 Now, so many things about "Basketball Nightmare" screams 'quickie shovelware' - like the incredibly repetitive music. 🍇
+
+✅🏮🍊🍓 If it weren't for the somewhat unusual subject matter and the cool Slam Dunk animated scenes, I'd say this would be of very little interest. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Wonder Boy III: The Dragon's Trap 🇺🇸 (Review Begins) ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1989 Summer 🇺🇸 
+👓🏮🍒💾 Developed by Westone 
+👓🏮🍒📦 Published by Sega 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Okay, so the Sega Master System may be in its twilight years in 1989, but that doesn't mean it can't have awesome games! 🍇
+
+✅🏮🍊🍓 And here is the proof, "Wonder Boy III: The Dragon's Trap" - the sequel to "Wonder Boy in Monster Land", which we saw not that long ago in "Chronsega ... 5"! 🍇🍌
+
+
+✅🏮🍊🍓 However, for this video, we are technically playing "Monster World II" (the Japanese version), since it has better music. 🍇
+
+✅🏮🍊🍓 The thing is, "Monster World II" was never actually released in Japan! 🍇
+
+✅🏮🍊🍓 Rather, both versions are on the same cartridge, which auto-detects the region [of] the console and plays the correct version. 🍇
+
+✅🏮🍊🍓 This was obviously a cost-saving measure and seems to indicate that "Monster World II" was scheduled for a Japanese release. 🍇
+
+✅🏮🍊🍓 The Master System was discontinued over there, before it could come out. 🍇🍌
+
+
+✅🏮🍊🍓 When anyone talks about this game, they always bring up the opening sequence and its similarity to "Castlevania: Symphony of the Night". 🍇
+
+✅🏮🍊🍓 At the end of "Wonder Boy in Monster Land" ya have to go through this enormous castle and fight the final boss (a Robot Dragon). 🍇
+
+✅🏮🍊🍓 This game actually starts in that final level, with "Wonder Boy" fully Leveled Up. 🍇
+
+✅🏮🍊🍓 You can see that he has a full Health Bar by looking at those hearts up there. 🍇
+
+✅🏮🍊🍓 Also, his stats are super high and he has the best equipment. 🍇🍌
+
+
+✅🏮🍊🍓 After going through a super short version, um, of the Robot Dragon's castle, you replay the final boss battle of "Monster Land" (more or less). 🍇
+
+✅🏮🍊🍓 Obviously, this is very similar to the start of "...Symphony of the Night", where you begin as Belmont, um, replaying the final battle of "...Rondo of Blood". 🍇🍌
+
+
+✅🏮🍊🍓 One thing I don't like about this game is the controls during the boss battles. 🍇
+
+✅🏮🍊🍓 Every boss requires you to jump and strike him on the nose with your sword. 🍇🍌
+
+
+✅🏮🍊🍓 But the required timing is really strange. 🍇
+
+✅🏮🍊🍓 [Ya need] to hit the attack button almost immediately after jumping, as opposed to doing so near the top of your jump. 🍇
+
+✅🏮🍊🍓 If your timing is off, you'll just slam into the Dragon's face. 🍇
+
+✅🏮🍊🍓 The required timing just feels really weird. 🍇
+
+✅🏮🍊🍓 Ya have to get into the correct rhythm to hit the boss every time. 🍇
+
+✅🏮🍊🍓 But if you miss once, it sort of breaks the pattern and kinda screws you up. 🍇
+
+✅🏮🍊🍓 It's really, sort of, hard to explain. 🍇🍌
+
+
+✅🏮🍊🍓 And you're supposed to avoid the blue flame and collect those coins (which I failed to do). 🍇
+
+✅🏮🍊🍓 Eventually, the blue flame will hit you and then... you have sprung the Dragon's trap! 🍇
+
+✅🏮🍊🍓 You've been turned into a Dragon. 🍇🍌
+
+
+✅🏮🍊🍓 The next step is to escape the castle, which is obviously going to blow up. 🍇
+
+✅🏮🍊🍓 (Or rather, it collapses.) 🍇
+
+✅🏮🍊🍓 Either way, it's definitely a Konami-style destruction of the bad guy's base. 🍇
+
+✅🏮🍊🍓 Now, the game really begins. 🍇🍌
+
+
+✅🏮🍊🍓 Okay, so ya lost all your cool equipment, and you're powered-down to crappy Stats, and have now one heart. 🍇
+
+✅🏮🍊🍓 The village (apparently Wonder Boy's hometown) will function as the hub [of] the game world. 🍇
+
+✅🏮🍊🍓 All the other levels sort of branch out from here. 🍇🍌
+
+
+✅🏮🍊🍓 Of course, in the classic "Metroid" style, all but one of those areas is inaccessible to you, at this point. 🍇
+
+✅🏮🍊🍓 The village has a locked door, a large obstruction, and so on. 🍇
+
+✅🏮🍊🍓 Though, there is an Equipment Shop and a sexy Nurse who will heal you. 🍇🍌
+
+
+✅🏮🍊🍓 If ya look around, you'll find that the [only] way you can go is down this well. 🍇
+
+✅🏮🍊🍓 Uh... This is kinda like some of the later 'Castlevania' games. 🍇
+
+✅🏮🍊🍓 You can travel through the waterway, but there are visible paths that you cannot reach. 🍇
+
+✅🏮🍊🍓 Later, of course, you'll obtain abilities that will allow you to get up into those places. 🍇🍌
+
+
+✅🏮🍊🍓 Once ya get out on the surface, you'll see the typical "Wonder Boy"-style platforms and palm trees, along with old enemies like s...uh, snakes and sand crabs. 🍇
+
+✅🏮🍊🍓 But you will also need to travel along the ocean's floor, at some point. 🍇
+
+✅🏮🍊🍓 Yeah, falling in the water doesn't equal instant death; it just takes you to the Ocean Level. 🍇
+
+✅🏮🍊🍓 The final goal of this ocean crossing is a chest with a key that can [be] used to open the locked door, back in the village. 🍇🍌
+
+
+✅🏮🍊🍓 Now, those of you familiar with the 'Wonder Boy' series will know there is another game called "Wonder Boy III..." completely different than this one. 🍇
+
+✅🏮🍊🍓 That game, "Wonder Boy III: Monster Lair", was released in Arcades in 1989. 🍇🍌
+
+
+👓🏮🍊🎇# 🌠 The History of Wonder Boy ✨
+
+
+✅🏮🍊🍓 Let's do a quick refresher on the insanely convoluted history of 'Wonder Boy'. 🍇
+
+✅🏮🍊🍓 Now, the first game, "Wonder Boy", was an Arcade title developed by Westone and manufactured by Sega! 🍇
+
+✅🏮🍊🍓 It was ported to the Master System by Sega and... Hudson bought the rights, changed the character sprites, and released it for the FamiCom as "Takahashi Meijin no Bōken Jima" (or "Adventure Island", in the U.S.) 🍇
+
+✅🏮🍊🍓 Hudson later made more 'Adventure Island' games, but these are original games that are not based on "Wonder Boy" games. 🍇🍌
+
+
+✅🏮🍊🍓 The sequel, "Wonder Boy in Monster Land", started in Arcades, again was ported to the Master System, and -- but was called "Super Wonder Boy: Monster World" in Japan. 🍇
+
+✅🏮🍊🍓 And that's why this game is called "Monster World II" in the Japanese version. 🍇
+
+✅🏮🍊🍓 "Wonder Boy in Monster Land" was, once again, licensed by Hudson from Westone and released as one [of] the very first P.C. Engine games, but with the characters again changed (this time to use the 'Bikkuriman' characters). 🍇🍌
+
+
+✅🏮🍊🍓 The Arcade "Wonder Boy III..." was eventually ported to the Mega Drive and was licensed by Hudson who (rather uncharacteristically) kept the "Wonder Boy" name, when they put it out on the P.C. Engine. 🍇
+
+✅🏮🍊🍓 They then came to their senses, however, when releasing it for the U.S. and called the TurboGrafx-16 version just "Monster Lair". 🍇🍌
+
+
+✅🏮🍊🍓 The game we are watching today is a Master System original; it's not based on any Arcade game. 🍇
+
+✅🏮🍊🍓 Sega did eventually release it for the Game Gear, under the name "Monster World II". 🍇
+
+✅🏮🍊🍓 Hudson (making up for the fact that they forgot to change the character's name in "Wonder Boy III: Monster Lair") released it as "Dragon's Curse" on the TurboGrafx-16. 🍇
+
+✅🏮🍊🍓 *And* (in one of the weirdest decisions *ever*) it was released in Japan on the P.C. Engine as... "Adventure Island", despite the fact that they already had another game series in the U.S. with that same title. 🍇🍌
+
+
+✅🏮🍊🍓 After this, things sorta settle down. 🍇
+
+✅🏮🍊🍓 The next game was also a console original; "Wonder Boy V: Monster World III" debuted on the Mega Drive and hit the Genesis as "Monster Boy in Monster World" (doing the whole 'Mario Land'/'Mario World' thing). 🍇
+
+✅🏮🍊🍓 Hudson called it "Dynastic Hero" when they did the P.C. Engine version. 🍇
+
+✅🏮🍊🍓 And, yes, Sega also released it, in Europe, on the Master System. 🍇🍌
+
+
+✅🏮🍊🍓 The final game in the series was a Japanese-[only] Mega Drive release, called "Monster World IV". 🍇🍌
+
+
+✅🏮🍊🍓 So, why did Hudson normally change the "Wonder Boy" character to something else? 🍇🍌
+
+
+✅🏮🍊🍓 I always heard that Sega owned the rights to the character, Wonder Boy, and Westone owned the games themselves. 🍇
+
+✅🏮🍊🍓 Thus, Ho... -- Hudson couldn't use the character. 🍇
+
+✅🏮🍊🍓 However, in a recent interview with the designer of most [of] the 'Wonder Boy' games, Ryuichi Nishizawa, on 'Hardcore Gaming 101', it was revealed that Westone did own the copyright to the Wonder Boy character. 🍇
+
+✅🏮🍊🍓 And Sega [only] had a trademark for the name, Wonder Boy. 🍇
+
+✅🏮🍊🍓 So, Hudson didn't really have to keep changing the characters' sprites! 🍇
+
+✅🏮🍊🍓 Who knows why they did? 🍇🍌
+
+
+👓🏮🍊🎇# 🪃 Wonder Boy III: The Dragon's Trap 🇺🇸 (Review Resumes) ✨
+
+
+✅🏮🍊🍓 So, now ya can sorta see the structure [of] the game! 🍇
+
+✅🏮🍊🍓 From the tower, accessed by the locked door, you can now enter a new area. 🍇
+
+✅🏮🍊🍓 Finishing off this area allows you to access a new area, and so on. 🍇🍌
+
+
+✅🏮🍊🍓 Some areas have a boss Dragon; others just have a key or some kind of item. 🍇
+
+✅🏮🍊🍓 Either way, whenever you fight a Dragon or get an item, ya get some new abilities. 🍇🍌
+
+
+✅🏮🍊🍓 Once ya beat the boss, you begin -- become cursed and transform into another form. 🍇
+
+✅🏮🍊🍓 Defeating the second boss turns you into Mouse-Man. 🍇
+
+✅🏮🍊🍓 And he has, actually, a [pretty] cool ability - the ability to walk up certain walls (those ones with the checkerboard patterns). 🍇
+
+✅🏮🍊🍓 The Mouse-Man level actually makes [pretty] good use of the boss' castle. 🍇
+
+✅🏮🍊🍓 Ya need to climb along walls and ceilings to avoid enemies, as well as balls of flame shot by these rather "Castlevania"-like stone heads. 🍇🍌
+
+
+✅🏮🍊🍓 Mouse-Man is also smaller than the other forms, so ya can fit into narrow passages. 🍇
+
+✅🏮🍊🍓 This boss here is a Zombie Dragon ([he's] not that difficult but, as I mentioned earlier, it's all about the timing). 🍇🍌
+
+
+✅🏮🍊🍓 You now transform into Piranha-Man who has the ability to swim in water, as opposed to just walking along the floors of the underwater areas. 🍇🍌
+
+
+✅🏮🍊🍓 Throughout the game, ya kill monsters and collect coins which, aside from the spending at the hospital, you use to buy equipment - namely better swords, shields, and armor. 🍇
+
+✅🏮🍊🍓 For example, the Dragon Armor allows ya to walk in lava, so you *must* buy it to get past this section. 🍇🍌
+
+
+✅🏮🍊🍓 Some areas have transformation rooms where ya can transform into one of your other forms. 🍇
+
+✅🏮🍊🍓 In this place, right here, you need to transform back into Mouse-Man to access a treasure chest, containing a magic sword. 🍇
+
+✅🏮🍊🍓 This allows you to break certain blocks and access new areas. 🍇
+
+✅🏮🍊🍓 And that's [pretty] much how the game goes. 🍇🍌
+
+
+✅🏮🍊🍓 There's a bit more to it, I suppose. 🍇
+
+✅🏮🍊🍓 Ya have, like, a Charisma-type Stat that you raise by getting certain items or special equipment. 🍇
+
+✅🏮🍊🍓 And your charisma has to be high enough to buy certain pieces of equipment from shops. 🍇🍌
+
+
+✅🏮🍊🍓 You also have limited-use Special Weapons - like, for example, an Arrow for shooting straight up in the air at enemies in the sky, or Tornadoes for, uh, killing enemies below you. 🍇
+
+✅🏮🍊🍓 There's also lots of fun stuff like hidden Shops, you can go back into older areas and find previously unaccessible areas for Life Bar extensions, money items, and so on. 🍇🍌
+
+
+✅🏮🍊🍓 The cool thing about this game is [that] it really rewards you for exploration. 🍇
+
+✅🏮🍊🍓 It's the exact opposite of "Wonder Boy in Monster Land", in which you had, like, a timer that was ticking off the entire time. 🍇🍌
+
+
+✅🏮🍊🍓 So, after taking down the Samurai Dragon (who's a royal pain, by the way) ya turn into your final form - the Hawk who can [pretty] much fly anywhere he wants. 🍇
+
+✅🏮🍊🍓 Now, this allows you to access a hidden area, which is actually the Robot Dragon's castle from the game's beginning. 🍇
+
+✅🏮🍊🍓 Here, ya can get the best sword in the game - the Legendary Sword. 🍇🍌
+
+
+✅🏮🍊🍓 And also the best treasure chest in the entire game is hidden here. 🍇
+
+✅🏮🍊🍓 If ya go back into the room where the sword chest was, it's now full of a massive amount of cash and a full Health Refill! 🍇
+
+✅🏮🍊🍓 *And* this chest resets whenever you save and load your saved game. 🍇
+
+✅🏮🍊🍓 Thus, your money problems are [pretty] much solved. 🍇🍌
+
+
+✅🏮🍊🍓 Now, we've seen a few Metroidvania-type games, prior to this. 🍇
+
+✅🏮🍊🍓 But, for me, this is the one that really hits the sweet spot between Action, Exploration, R.P.G. Elements, and just general cool stuff (like finding hidden areas and gaining new powers). 🍇
+
+✅🏮🍊🍓 I'd say it's quite a bit better than, say, "Clash at Demonhead" or, uh, the proto-Metroidvania games like, uh, "Goonies II". 🍇🍌
+
+
+✅🏮🍊🍓 Now, it's not perfect, by any means. 🍇
+
+✅🏮🍊🍓 But I'd say that, um, it's sorta the fullest instance of the genre, so far, and looks forward, in many ways, to games like "Super Metroid", and the later 'Castlevania' games. 🍇
+
+✅🏮🍊🍓 So, really, it's a major accomplishment on Sega's part and it's a real shame its Japanese release never happened. 🍇
+
+✅🏮🍊🍓 It's considered to be -- by many people to be the best game in the 'Wonder Boy' series. 🍇
+
+✅🏮🍊🍓 The sequel, "Wonder Boy in Monster World", ended up being in [pretty] much the same style. 🍇🍌
+
+
+✅🏮🍊🍓 After returning to his home village, no one seems particularly interested to see him, but it does appear that he shacks up with the sexy Nurse. 🍇
+
+✅🏮🍊🍓 I guess that must be his girlfriend. 🍇🍌
+
+
+✅🏮🍊🍓 "Wonder Boy III..." is not perfect, by any means. 🍇
+
+✅🏮🍊🍓 I didn't much care for the boss fights. 🍇
+
+✅🏮🍊🍓 And even though the graphics are really nice, in some ways they actually are a step down from the previous game. 🍇
+
+✅🏮🍊🍓 For example, the boss battles are just set against a pitch-black background. 🍇
+
+✅🏮🍊🍓 When comparing the Robot Dragon fight in this game with that in "Monster Land", you'll see they removed the detailed background from the Robot Dragon's room. 🍇🍌
+
+
+✅🏮🍊🍓 But, overall, it's a huge achievement and "Wonder Boy III..." is practically the "Super Mario Bros. 3" of the Sega Master System. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Cloud Master 🇺🇸 ✨
+
+🎧🏮🍊♪ "Boss Theme" ♪ from "Fantasy Zone"
+
+👓🏮🥭🗓️ Released 1989 Summer 🇺🇸 
+👓🏮🍒💾 Developed by Hot-B | Opera House 
+👓🏮🍒📦 Published by Sega 🇺🇸 🍌
+
+
+✅🏮🍊🍓 Okay, we have one last game today, released sometime in the Summer of 1989, "Cloud Master". 🍇
+
+✅🏮🍊🍓 Again, this was probably designed with Japan in mind because they didn't even bother to create an English title logo for it. 🍇🍌
+
+
+✅🏮🍊🍓 "Cloud Master" (or "Chuka Taisen") is a barely-remembered horizontal Shoot-'em-Up with a Chinese mythological theme. 🍇
+
+✅🏮🍊🍓 As you can see, the backgrounds look sorta like a traditional Chinese painting-style in the, uh, Xieyi landscape style. 🍇
+
+✅🏮🍊🍓 Your character sorta resembles Sun Wukong: Monkey King from "Journey to the West". 🍇
+
+✅🏮🍊🍓 And all the enemies are Chinese-inspired; some are simple things like bowls of rice or soup or something... or, uh, turtles. 🍇
+
+✅🏮🍊🍓 Actually, some of the enemies are -- are [pretty] lame! 🍇🍌
+
+
+✅🏮🍊🍓 Aside from your standard peashooter, you can obtain special weapons. 🍇
+
+✅🏮🍊🍓 This is done by defeating, like, a mid-level boss - the two [of] which typically appear on each level. 🍇
+
+✅🏮🍊🍓 When ya kill these guys, a magical door appears and ya get to pick one special weapon. 🍇
+
+✅🏮🍊🍓 Every time ya do this, it replaces your current special weapon, so... choose carefully. 🍇
+
+✅🏮🍊🍓 You can [only] have one special weapon at a time. 🍇🍌
+
+
+✅🏮🍊🍓 There's functions like bombs, diagonal shots - you know, that sorta thing. 🍇
+
+✅🏮🍊🍓 You can also find power-ups for your regular weapons. 🍇
+
+✅🏮🍊🍓 Here is the, uh, the spreadshot, for example. 🍇🍌
+
+
+✅🏮🍊🍓 As I mentioned, "Chuka Taisen" was originally an Arcade game in 1988, developed by Hot-B (of '...Black Bass' infamy) and published by Taito. 🍇
+
+✅🏮🍊🍓 The game didn't really look all that bad. 🍇
+
+✅🏮🍊🍓 I believe that it ran on "The NewZealand Story" hardware, so the graphics were [pretty] good-lookin'. 🍇
+
+✅🏮🍊🍓 Certainly, the enemies looked much more interesting on the Arcade game. 🍇🍌
+
+
+✅🏮🍊🍓 The Sega Master System version looks [pretty] dull, by comparison, as is to be expected. 🍇🍌
+
+
+✅🏮🍊🍓 Here's the first boss, a Phoenix. 🍇
+
+✅🏮🍊🍓 He does nothing too unexpected. 🍇
+
+✅🏮🍊🍓 You just avoid his feathers and shoot him in the face. 🍇🍌
+
+
+✅🏮🍊🍓 After defeating him, you get this little cutscene. 🍇
+
+✅🏮🍊🍓 There're two versions on the same cart - the Japanese text version and the one with English text. 🍇
+
+✅🏮🍊🍓 So, this certainly indicates that there was a Japanese release planned, created, put on a cart, and then cancelled when Sega dropped support for the console in the home country, just like "Wonder Boy III...". 🍇🍌
+
+
+✅🏮🍊🍓 "Chuka Taisen"'s not a bad game - just a little tired and uninspired. 🍇
+
+✅🏮🍊🍓 None of the enemies are that exciting. 🍇
+
+✅🏮🍊🍓 The Action is [pretty] darn repetitive. 🍇🍌
+
+
+✅🏮🍊🍓 The backgrounds and settings are really about the [only] interesting thing. 🍇
+
+✅🏮🍊🍓 I mean, some of the bosses are [pretty] big and -- and look good. 🍇
+
+✅🏮🍊🍓 So, overall, it's a [pretty] typical horizontal Shoot-'em-Up - nothing too special. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🥇 Episode 8 Wrap Up ✨
+
+
+✅🏮🍊🍓 Alright, there we go. 🍇🍌
+
+
+✅🏮🍊🍓 And now, as is the tradition, I'll proclaim a Top Game for this episode. 🍇
+
+✅🏮🍊🍓 And, "Phantasy Star II" fans, you have my apologies, but I'm giving it to "Wonder Boy III: The Dragon's Trap". 🍇
+
+✅🏮🍊🍓 Even though it's on the humble Master System, this game is just super radical, and absolutely one of the best Master System games ever. 🍇🍌
+
+
+✅🏮🍊🍓 As for the Worst Game, sometimes in 'Chronsega' I have a hard time awarding the 'Worst Game' designation, simply because (since all the games are developed by Sega) we usually see a certain baseline competence. 🍇
+
+✅🏮🍊🍓 Still, today, I'll say "OutRun 3D", since it actually seems worse than the original "OutRun" on the Master System. 🍇🍌
+
+
+✅🏮🍊🍓 But also, I'll say the most disappointing game is "Alex Kidd...". 🍇
+
+✅🏮🍊🍓 Sega, for some reason, just could not deliver a really good "Alex Kidd" sequel and they basically dropped the ball with that character. 🍇🍌
+
+
+✅🏮🍊🍓 As for next time, well Master System fans will have [to] be satisfied with a handful of very minor games, as we enter Fall of '89. 🍇
+
+✅🏮🍊🍓 But, in the Mega Drive department, we have two Capcom games (hurray!), a classic Sega Arcade conversion, and a sequel to one of the most hated FamiCom R.P.G.s of all time. 🍇🍌
+
+
+✅🏮🍊🍓 See ya then. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎞️ Episode 8 Credits ✨
+
+🎧🏮🍊♪ "Skylands" ♪ from "Ecco: The Tides of Time"
+
+
+👓🏮🍊🍓 THANK YOU FOR WATCHING 🍋 "CHRONSEGA 🍋 EPISODE EIGHT". 🍇🍌
+
+
+👓🏮🍊PRODUCED BY 🍋 👨🏻‍🏫 Doctor Sparkle ✨ 🍌
+
+
+👓🏮🍊MUSIC 🍋 🍋 OPENING SEQUENCE 🍋 ♪ "GUNSTAR HEROES - TITLE MUSIC" ♪ 🍋 🍋 GAME TITLES/INFO 🍋 ♪ "Fantasy Zone (ARCADE) - FIRST BOSS" ♪ 🍋 🍋 CREDITS 🍋 ♪ "ECCO: THE TIDES OF TIME - SKYLAND" ♪ 🍌
+
+
+👓🏮🍊🍓 All images and sounds 🍋 in this video are copyright 🍋 their respective owners. 🍇🍌
+
+
+👓🏮🍊🍓 Support 'Chrontendo' on Patreon 🍋 patreon.com/Chrontendo 🍇🍌
+
+
+
+
+
+
+
+
+
+

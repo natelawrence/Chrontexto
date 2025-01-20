@@ -1,0 +1,2415 @@
+----------   ----------   ----------   ----------   ----------   ----------   ----------
+Dr. Sparkle's notes: 
+----------   ----------   ----------   ----------   ----------   ----------   ----------
+
+The first of the new, "shorter" Chrontendo episodes is here. 
+Ten games from January and February 1990: 
+0:00:00	Dr. Sparkle Presents
+0:00:06	Chrontendo Title Sequence
+0:00:23	Introduction to Chrontendo Episode 55
+0:01:55	The Chessmaster 🇺🇸
+0:06:38	RoadBlasters 🇺🇸
+0:12:18	Infiltrator 🇺🇸
+0:21:00	Kings of the Beach 🇺🇸
+0:24:58	Cadillac 🇯🇵
+0:28:18	Super Contra 🇯🇵 // Super C 🇺🇸 // Probotector II: Return of the Evil Forces 🇪🇺
+0:37:07	Nobunaga no Yabou: Sengoku Gunyuuden 🇯🇵 // Nobunaga's Ambition II 🇺🇸
+0:42:55	Mottomo Abunai Deka 🇯🇵
+0:49:06	Dragon Quest IV 🇯🇵 // Dragon Warrior IV 🇺🇸
+1:38:55	Arctic: Active Rail Playing Game 🇯🇵
+1:44:55	Episode 55 Wrap Up
+1:46:04	Thanks to the Patrons
+1:46:15	Episode 55 Credits
+
+There are three real stinkers here, including the infamous Helicopter Sim/'Metal Gear'-clone, "Infiltrator", and the insanely annoying Puzzle Game "Arctic". 
+Also the "Dragon Warrior IV" section takes up almost half of the running time, so my apologies if you don't like JRPGs.
+
+Errata: 
+Late in editing I realized I mispronounced Randy Stoklos' name [0:21:43, 0:21:50 vs. 0:22:14] and inexplicably referred to DQ IV's Ragnar as 'Raglan' at one point. [1:19:29] Also the Dragon Killer sword was incorrectly called 'Zombie Killer'.
+
+
+----------   ----------   ----------   ----------   ----------   ----------   ----------
+.nl Notes
+----------   ----------   ----------   ----------   ----------   ----------   ----------
+
+0:02:34	♪ Take Five ♪ (Thanks to Zack Schilling)
+See:	Take Five - The Dave Brubeck Quartet
+Audio:	https://www.youtube.com/watch?v=vmDDOFXSgAs
+Video:	https://www.youtube.com/watch?v=PHdU5sHigYQ&t=3s
+
+0:02:34	"I'm pretty sure that this is the first Hi Tech Expressions [game] we've encountered in Chrontendo."
+Chrontendo Episode 41 (nearly 9 years ago - plenty of time to forget) covered their "Sesame Street 123". 
+https://www.youtube.com/watch?v=PHjJ2YprOXE&t=34m42s
+
+0:11:00	"There's definitely a strong, 'Are we the baddies?' moment here"
+See:	Mitchell and Webb, "Are We The Baddies?"	https://www.youtube.com/watch?v=hn1VxaMEjRU
+
+0:25:40	♪ Invention No. 15 (BWV 786) ♪
+Audio:	https://www.youtube.com/watch?v=40BMZjyWeKE
+
+0:25:57	♪ Two-Part Invention in E-Flat Major (BWV 776) ♪ (Thanks to William Gibbons)
+Audio:	https://www.youtube.com/watch?v=j8D9L7dfuLE
+
+0:26:56	♪ Gymnopédie No. 1 (Lent et douloureux) ♪
+Audio:	https://www.youtube.com/watch?v=2WfaotSK3mI
+
+0:21:50	"Randy Stoklos and Sinjin Smith - who were the reigning 'Kings of the Beach', at this time."
+See:	AVP Volleyball 1991 Seal Beach Double Final	https://www.youtube.com/watch?v=8F0XDpe30hw
+
+0:29:09	"Should I point out that Bill's last name is Ko? 'Bill Ko'?" 
+See:	Sergeant Bilko:	https://en.wikipedia.org/wiki/The_Phil_Silvers_Show
+
+0:46:18	"...years ago I'd made a video about the worst games for the FamiCom and Nintendo for the first few years [of] the system..."
+See:	"10 Worst NES/Famicom Games 1983-1987": 
+Part 1:	https://www.youtube.com/watch?v=L6iwQRIKB7U
+Part 2:	https://www.youtube.com/watch?v=GhG5BRyGtSA
+
+----------   ----------   ----------   ----------   ----------   ----------   ----------
+
+0:03:55 "The Chessmaster 2000"    DOS 1986
+
+0:04:52 "Back to the Future"
+
+0:05:33 "The Chessmaster 3000"	DOS	1991
+
+0:08:04 "RoadBlasters"    Arcade  1987
+
+0:11:18 '80s RoadBlasters Toy Commercial    https://www.youtube.com/watch?v=4FabrJwPcDA
+
+0:11:43 "Wreck-It Ralph"
+
+0:17:10 "Infiltrator" DOS 1986
+
+0:17:26 "Wayne's World" SNES 1993
+
+0:17:48 "Infiltrator II: The Next Day" DOS 1987
+
+0:29:41 "Super Contra" Arcade 1988
+
+0:42:05 "Nobunaga's Ambition II" DOS 1989
+
+0:45:32	'Motto Abunai Deka'	(Unknown Episode)
+
+0:49:34 - 0:50:09	♪ Dragon Quest IV: Overture	♪
+
+0:50:09 - 0:50:20	♪ Dragon Quest IV: Interlude	♪
+
+0:50:29 - 0:50:40	♪ Dragon Quest IV: Menuet	♪
+
+0:50:40 - 0:51:10	♪ Dragon Quest IV: Overture	♪
+
+0:51:10 - 0:51:25	♪ Dragon Quest IV: Interlude	♪
+
+0:51:38 - 0:52:42	♪ Dragon Quest IV: Menuet	♪
+
+0:54:04 - 0:54:07	♪ Dragon Quest IV: Chapter 1 Overworld	♪
+
+0:54:07 - 0:54:18	♪ Dragon Quest IV: Battle for the Glory	♪
+
+0:54:20 - 0:54:25	♪ Dragon Quest IV: Chapter 1 Overworld	♪
+
+0:54:25 - 0:54:36	♪ Dragon Quest IV: Menuet	♪
+
+0:54:36 - 0:55:44	♪ Dragon Quest IV: In A Town	♪
+
+0:55:44 - 0:55:47	♪ Dragon Quest IV: Chapter 1 Overworld	♪
+
+0:55:47 - 0:56:05	♪ Dragon Quest IV: Frightening Dungeon	♪
+
+0:56:05 - 0:56:11	♪ Dragon Quest IV: A Friend Joins	♪
+
+0:56:11 - 0:56:31	♪ Dragon Quest IV: Battle for the Glory	♪
+
+0:56:31 - 0:56:41	♪ Dragon Quest IV: Cursed Towers	♪
+
+0:56:31 - 0:56:58	♪ Dragon Quest IV: Battle for the Glory	♪
+
+0:56:58 - 0:57:13	♪ Dragon Quest IV: Cursed Towers	♪
+
+0:57:13 - 0:57:35	♪ Dragon Quest IV: Menuet	♪
+
+0:57:35 - 0:57:38	♪ Dragon Quest IV: Level Up	♪
+
+0:57:38 - 0:57:40	♪ Dragon Quest IV: Menuet	♪
+
+0:57:43 - 0:57:48	♪ Dragon Quest IV: End of Chapter 1	♪
+
+0:57:59 - 0:58:39	♪ Dragon Quest IV: Menuet	♪
+
+0:58:45 - 0:58:48	♪ Dragon Quest IV: A Friend Joins	♪
+
+0:58:48 - 0:58:54	♪ Dragon Quest IV: Chapter 2 Overworld	♪
+
+0:58:54 - 0:59:00	♪ Dragon Quest IV: Menuet	♪
+
+0:59:00 - 0:59:02	♪ Dragon Quest IV: Chapter 2 Overworld	♪
+
+0:59:02 - 0:59:21	♪ Dragon Quest IV: Battle for the Glory	♪
+
+0:59:21 - 0:59:30	♪ Dragon Quest IV: Menuet	♪
+
+0:59:30 - 0:59:36	♪ Dragon Quest IV: In A Town	♪
+
+0:59:36 - 1:00:04	♪ Dragon Quest IV: Menuet	♪
+
+1:00:04 - 1:00:08	♪ Dragon Quest IV: Colosseum Back Stage	♪
+
+1:00:08 - 1:00:25	♪ Dragon Quest IV: Colosseum Tournament	♪
+
+1:00:25 - 1:00:39	♪ Dragon Quest IV: Battle for the Glory	♪
+
+1:00:39 - 1:00:40	♪ Dragon Quest IV: Battle Victory	♪
+
+1:00:40 - 1:00:45	♪ Dragon Quest IV: Colosseum Tournament	♪
+
+1:00:45 - 1:00:00	♪ Dragon Quest IV: Battle for the Glory	♪
+
+1:01:00 - 1:01:01	♪ Dragon Quest IV: Battle Victory	♪
+
+1:01:01 - 1:01:27	♪ Dragon Quest IV: Battle for the Glory	♪
+
+1:01:27 - 1:01:46	♪ Dragon Quest IV: Colosseum Tournament	♪
+
+1:01:46 - 1:01:48	♪ Dragon Quest IV: Menuet	♪
+
+1:02:16 - 1:02:25	♪ Dragon Quest IV: End of Chapter 2	♪
+
+1:02:35 - 1:04:16	♪ Dragon Quest IV: In A Town	♪
+
+1:04:16 - 1:04:17	♪ Dragon Quest IV: Chapter 3 Overworld	♪
+
+1:04:16 - 1:04:17	♪ Dragon Quest IV: Battle for the Glory	♪
+
+1:04:30 - 1:04:31	♪ Dragon Quest IV: Battle Victory	♪
+
+1:04:31 - 1:04:36	♪ Dragon Quest IV: Chapter 3 Overworld	♪
+
+1:04:36 - 1:04:49	♪ Dragon Quest IV: Frightening Dungeon	♪
+
+1:04:49 - 1:05:18	♪ Dragon Quest IV: Menuet	♪
+
+1:05:18 - 1:05:21	♪ Dragon Quest IV: Level Up	♪
+
+1:05:22 - 1:05:53	♪ Dragon Quest IV: Menuet	♪
+
+1:05:53 - 1:05:56	♪ Dragon Quest IV: Battle for the Glory	♪
+
+1:05:56 - 1:05:57	♪ Dragon Quest IV: Battle Victory	♪
+
+1:05:57 - 1:06:36	♪ Dragon Quest IV: Chapter 3 Overworld	♪
+
+1:06:36 - 1:06:47	♪ Dragon Quest IV: Menuet	♪
+
+1:06:47 - 1:07:01	♪ Dragon Quest IV: Frightening Dungeon	♪
+
+1:07:01 - 1:07:38	♪ Dragon Quest IV: Endor Casino	♪
+
+1:07:38 - 1:07:46	♪ Dragon Quest IV: Frightening Dungeon	♪
+
+1:07:46 - 1:07:52	♪ Dragon Quest IV: Chapter 3 Overworld	♪
+
+1:07:54 - 1:07:59	♪ Dragon Quest IV: Chapter 3 Ends	♪
+
+1:08:12 - 1:08:27	♪ Dragon Quest IV: Gypsy's Dance	♪
+
+1:08:27 - 1:08:58	♪ Dragon Quest IV: In A Town	♪
+
+1:08:58 - 1:09:01	♪ Dragon Quest IV: Sleep Well	♪
+
+1:09:01 - 1:09:22	♪ Dragon Quest IV: In A Town	♪
+
+1:09:22 - 1:09:37	♪ Dragon Quest IV: Mysterious Shrine(?)	♪
+
+1:09:37 - 1:09:42	♪ Dragon Quest IV: Frightening Dungeon	♪
+
+1:09:42 - 1:09:57	♪ Dragon Quest IV: Battle for the Glory	♪
+
+1:09:57 - 1:10:25	♪ Dragon Quest IV: Menuet	♪
+
+
+
+
+
+0:52:57	Concept Art: Ragnar
+
+0:58:32	Image: "Maclachlan"	https://en.wikipedia.org/wiki/Clan_Maclachlan#/media/File:Maclachlan_(R._R._McIan).jpg
+
+0:58:37	Concept Art: Alena
+
+0:58:58	Concept Art: Cristo
+
+0:59:02	Concept Art: Brey
+
+1:03:23	Concept Art: Taloon
+
+1:08:49	Concept Art: Mara
+
+1:08:53	Concept Art: Nara
+
+1:12:12	Image: "The World of Dragon Warrior IV"
+
+1:20:24	Dragon Quest IV	Sony PlayStation	2001
+
+1:21:02	Dragon Quest IV: Chapters of the Chosen	Nintendo DS	2007
+
+1:22:38	Image: "The World of Dragon Warrior IV"
+
+1:28:48	Concept Art: Necrosaro
+
+1:40:10	Image: Box Cover: HR2: Let's Make A Taller Building Than Anyone Does!
+
+1:42:57	Arctic	MSX	1987
+
+----------   ----------   ----------   ----------   ----------   ----------   ----------
+
+🗂️# N55.03.00 ✅
+
+
+👓🏮🍊🎇# 🎇 Production Logo ✨
+
+
+👓🏮🍊Dr. Sparkle Presents
+
+
+
+👓🏮🍊🎇# 📽️ Chrontendo Title Sequence ✨
+
+🎧🏮🍊♪ "UFO" ♪ by ESG
+
+
+👓🏮🍊"Chrontendo 🍋 EPISODE 55"🍌
+
+
+👓🏮🍊Index ☰️, Transcript ⌨️, 🍋 + Captions ⏱ in English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🍋 from Nate Lawrence 🏮🍌
+
+👓🏮🍊Translated from English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🍋 to __________ 🏁 by __________ ⬜🍌
+
+
+
+👓🏮🍊🎇# 🗨️ Introduction to Chrontendo Episode 55 ✨
+
+
+✅🏮🍊🍓 Hey, everyone, 🍋 welcome to the first slightly 🍊 slimmed-down episode 🍋 of 'Chrontendo' (a mere 10 games) 🍊 though we do have a 🍋 very long game this time 🍊 so this is still a 🍋 [pretty] beefy episode. 🍇
+
+✅🏮🍊🍓 We're going to finish off January 1990 🍋 with a few games not released in Japan. 🍇
+
+✅🏮🍊🍓 And then we'll take a [pretty] 🍋 huge bite out of February. 🍇🍌
+
+
+✅🏮🍊🍓 And we've got two very good titles 🍊 and also a few of the worst 🍋 games I've seen in a while. 🍇
+
+✅🏮🍊🍓 Our buddies, Micronics, make 🍋 a big comeback this episode 🍊 and I'm quite happy about that. 🍇🍌
+
+
+✅🏮🍊🍓 Once again, I will plug 🍋 the Chrontendo Patreon. 🍇
+
+✅🏮🍊🍓 And, once again, 🍊 let me thank everyone out 🍋 there for their support. 🍇
+
+✅🏮🍊🍓 I'm definitely planning on 🍋 making some improvements 🍊 to a few things about 'Chrontendo'. 🍇🍌
+
+
+✅🏮🍊🍓 But, right now, 🍋 I have a little announcement. 🍇
+
+✅🏮🍊🍓 When I first decided to do this Patreon, 🍋 I didn't want to put any pressure 🍊 on people to become patrons 🍋 or feel any sort of obligation. 🍇
+
+✅🏮🍊🍓 A lot of folks set goals (like 🍊 'If I get to x number of dollars, 🍋 I'll do this.'). 🍇
+
+✅🏮🍊🍓 So, while I didn't really 🍋 announce anything, 🍊 I did come up with 🍋 a couple of things 🍊 I thought people would enjoy 🍋 and said to myself, 🍊 'If the Patreon reaches a 🍋 certain number of dollars, 🍊 I'll do them as a... 🍋 a bonus for everyone.'. 🍇🍌
+
+
+✅🏮🍊🍓 The Patreon certainly 🍋 exceeded my expectations 🍊 and blew past the goalposts 🍋 that I had mentally set. 🍇
+
+✅🏮🍊🍓 So I'm now committed to doing 🍋 a few extra things for everyone. 🍇
+
+✅🏮🍊🍓 Once I get started on the first one, 🍋 I'll release some more details. 🍇🍌
+
+
+✅🏮🍊🍓 But for right now, though, 🍋 let's get going on Episode 55. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 The Chessmaster 🇺🇸 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 January [?] 🇺🇸
+👓🏮🍒💾 Developed by Software Toolworks
+👓🏮🍒📦 Published by Hi Tech Expressions 🇺🇸🍌
+
+
+🎧🏮🍊♪ Take Five ♪ 🍋 (8-Bit arrangement playing)
+
+
+✅🏮🍊🍓 Okay, kids, break out the champagne; 🍊 it's finally here 🍋 - the game you've been waiting for: 🍊 "The ChessMaster" 🍋 from Hi Tech Expressions. 🍇
+
+✅🏮🍊🍓 I'm [pretty] sure this is the first 🍋 Hi Tech Expressions [game] 🍋 we've encountered in 'Chrontendo'. 🍇
+
+✅🏮🍊🍓 There will be a few more 🍊 (like, uh, the, uh, the 🍋 N.E.S. "Barbie" game) 🍊 but they were mostly a 🍋 producer of computer games. 🍇🍌
+
+
+✅🏮🍊🍓 So I'm thinking that "The ChessMaster" 🍋 is, like, the first normal Chess game we've had 🍊 (I mean other than "Archon" 🍋 or... or that sorta thing). 🍇
+
+✅🏮🍊🍓 I mean, we've had so many 🍋 Igo games and Mahjong games, 🍊 I can't believe there 🍋 hasn't been a Chess game 🍊 - but maybe you guys will 🍋 remember if I'm correct or not. 🍇🍌
+
+
+✅🏮🍊🍓 I'll give "...ChessMaster" this: 🍋 it has a nice interface. 🍇
+
+✅🏮🍊🍓 You move pieces around by 🍋 clicking once to pick up the piece 🍊 and then a second 🍋 time to put them down. 🍇🍌
+
+
+✅🏮🍊🍓 On the screen, it shows a history of 🍋 recent moves up in the upper left; 🍊 there's hints in the upper right, as 🍋 well as captured pieces on the right. 🍇
+
+✅🏮🍊🍓 It's completely clear of logos, 🍋 ornate borders, or extraneous text 🍊 (the kind of stuff that you often see 🍋 on ports of computer games). 🍇🍌
+
+
+✅🏮🍊🍓 Also, this thing has a lot of options! 🍇
+
+✅🏮🍊🍓 You can change the 🍋 Difficulty, screen setup, 🍊 turn Hints on and off - 🍋 all kinds of customizations - 🍊 (I mean the kind of thing you'd 🍋 expect to see in a computer game 🍊 but that we don't normally see 🍋 in games originally developed 🍋 for an 8-bit console). 🍇🍌
+
+
+✅🏮🍊🍓 So, as you have probably figured out, 🍋 this is a port of a computer game 🍊 - originally released in 1986 🍋 as "The ChessMaster 2000". 🍇
+
+✅🏮🍊🍓 I'm not sure if this has 🍋 mouse support or not. 🍇
+
+✅🏮🍊🍓 It appears that you have to 🍋 type in with a keyboard 🍊 which piece you want to move and then 🍋 which square you want to move it to. 🍇
+
+✅🏮🍊🍓 This was developed 🍋 by Software Toolworks 🍊 (who ya might know from 🍋 their educational Mario games, 🍊 such as "Mario is Missing"). 🍇🍌
+
+
+✅🏮🍊🍓 The 'ChessMaster' series 🍋 kept going until 2007 🍊 and the box art always had this, like, 🍋 wizardy-lookin' dude on the cover. 🍇
+
+✅🏮🍊🍓 Incidentally, the actual guy 🍋 used for the box art 🍊 was an actor 🍋 named William Hare. 🍇
+
+✅🏮🍊🍓 He had a long career, 🍋 going back to the '50s, 🍊 and was mostly a TV actor 🍋 (appearing in countless 🍋 series in the '70s like 🍊 '...Streets of San Francisco' 🍋 or 'Starsky and Hutch'). 🍇
+
+✅🏮🍊🍓 He was sorta [typecast] as old 🍋 coots and grandfathers and such. 🍇
+
+✅🏮🍊🍓 He had some small roles in a few 🍋 somewhat well-known feature films 🍊 like "Enter the Ninja" and 🍋 "Silent Night, Deadly Night". 🍇
+
+✅🏮🍊🍓 But I'm gonna guess most 🍋 people will remember him 🍊 as Old Man Peabody 🍋 in 'Back to the Future' 🍊 (the guy who sees Marty 🍋 emerge from the DeLorean 🍋 and assumes he's an alien). 🍇🍌
+
+
+✅🏮🍊🍓 'ChessMaster' was, at the time, 🍋 the best-selling chess game series, 🍊 with millions of copies 🍋 sold by the 2000s. 🍇
+
+✅🏮🍊🍓 It's a [pretty] sophisticated program 🍊 and even beat 🍋 Grandmaster Larry Christiansen 🍊 in a four-game match. 🍇🍌
+
+
+✅🏮🍊🍓 Now, I wasn't quite sure 🍋 what to do, this video, 🍊 since I'm certainly not 🍋 capable of judging, like, 🍋 "...ChessMaster"'s playing skills. 🍇
+
+✅🏮🍊🍓 So I thought, 🍋 'What will happen if I make 🍋 "...ChessMaster" battle itself?' 🍊 (specifically have the Nintendo 🍋 "...ChessMaster" go up against 🍊 "...ChessMaster 3000" - 🍋 the [1991] computer version). 🍇
+
+✅🏮🍊🍓 So I fired up both, with the, uh, 🍋 N.E.S. playing Black and the 🍋 PC game playing White. 🍇
+
+✅🏮🍊🍓 I figured the PC game would have 🍋 more processing power at its disposal, 🍊 so I cranked up the skill level of Black 🍋 on the N.E.S. version by a few levels. 🍇🍌
+
+
+✅🏮🍊🍓 The PC game seemed to do 🍋 [pretty] well from the get-go, 🍊 taking out two Knights relatively quickly - 🍋 though it eventually lost both of its Bishops. 🍇
+
+✅🏮🍊🍓 Eventually, though, 🍋 it became quite clear 🍊 that White 🍋 (the computer version) 🍊 was dominating - 🍋 forcing Black's King to run, 🍊 and finally trapping it 🍋 between two Rooks. 🍇
+
+✅🏮🍊🍓 So, in this case, 🍋 the PC "...ChessMaster" 🍊 handily defeated 🍋 the N.E.S. "...ChessMaster". 🍇
+
+✅🏮🍊🍓 Maybe someday the Super Nintendo 🍋 "...ChessMaster" will do better. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 RoadBlasters 🇺🇸 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 January [?] 🇺🇸
+👓🏮🍒💾 Developed by Atari Games | Beam Software
+👓🏮🍒📦 Published by Mindscape 🇺🇸🍌
+
+
+✅🏮🍊🍓 Oh man, 🍋 that beautiful Mindscape logo! 🍇
+
+✅🏮🍊🍓 And you gotta love that font; 🍊 look at the 'E' character 🍋 used in this font. 🍇
+
+✅🏮🍊🍓 This is apparently 🍋 the work of Beam Software. 🍇🍌
+
+
+✅🏮🍊🍓 "RoadBlasters" is, sort of, 🍋 an Action Driving Game; 🍊 it's more or less "Spy Hunter" in 3D. 🍇🍌
+
+
+✅🏮🍊🍓 This is sort of a 🍋 Difficulty Setting screen. 🍇
+
+✅🏮🍊🍓 You can choose which area 🍋 you want to start in; 🍊 each consists of several levels. 🍇
+
+✅🏮🍊🍓 The entire game has 12 areas and 🍋 they get more difficult, as you progress. 🍇🍌
+
+
+✅🏮🍊🍓 Obviously this was published by Mindscape, 🍋 which was a [pretty] prominent publisher 🍊 of computer games who were starting to 🍋 get into console games around this time. 🍇
+
+✅🏮🍊🍓 They had already released a few N.E.S. 🍋 ports of Atari arcade games in the late '80s. 🍇
+
+✅🏮🍊🍓 We've already covered several of these 🍊 ("Paperboy", "720°", 🍋 "Indiana Jones and the Temple of Doom"). 🍇🍌
+
+
+✅🏮🍊🍓 They also released quite a few 🍋 console games in the '90s, 🍊 including some of the 🍋 later 'ChessMaster' games. 🍇
+
+✅🏮🍊🍓 They eventually folded and 🍋 now [only] exist in name [only]. 🍇🍌
+
+
+✅🏮🍊🍓 The original arcade game came out in 1987 🍊 and it felt a lot more modern than 🍋 something like "Super Sprint" 🍊 (which we covered last episode). 🍇
+
+✅🏮🍊🍓 It had a [pretty] cool sit-down cabinet 🍋 and some [pretty] rad music. 🍇
+
+✅🏮🍊🍓 It was a relatively-modern, 🍋 hip, reasonably-exciting 🍋 Combat Racing Game. 🍇
+
+✅🏮🍊🍓 So "RoadBlasters" revolves 🍋 around three things: 🍊 shooting Cars, and 🍋 picking up Fuel, and 🍋 racking up a High Score 🍊 (which is actually important; 🍋 I'll explain in just a few minutes). 🍇🍌
+
+
+✅🏮🍊🍓 As you can see, your Fuel 🍋 de... depletes [pretty] quickly 🍊 - and running out of Fuel is 🍋 the [only] thing that kills you; 🍊 you can crash your car 🍋 as much as you want 🍊 - as long as you 🍋 don't run out of Fuel. 🍇
+
+✅🏮🍊🍓 Those green globe things 🍋 that are just lying in the road 🍊 - that's actually Fuel. 🍇
+
+✅🏮🍊🍓 Your car burns Fuel super quick, 🍊 so you always need to be 🍋 picking up any Fuel that ya find. 🍇
+
+✅🏮🍊🍓 And sometimes cars will 🍋 drop Fuel when ya shoot them, 🍋 so shooting Cars is good. 🍇🍌
+
+
+✅🏮🍊🍓 Now, here's the tricky part; 🍋 you get Points for shooting Cars. 🍇
+
+✅🏮🍊🍓 Big whoop, right? 🍇
+
+✅🏮🍊🍓 Who cares about points 🍋 in an N.E.S. game? 🍇
+
+✅🏮🍊🍓 But, in "RoadBlasters", 🍋 Points will get ya Fuel. 🍇🍌
+
+
+✅🏮🍊🍓 You see that Multiplier box in the corner? 🍇
+
+✅🏮🍊🍓 Every time you blow up a Car, 🍋 it goes up by one 🍊 (with 10 being the maximum). 🍇
+
+✅🏮🍊🍓 So, shooting a standard enemy Car 🍋 while you have a Multiplier of 10 🍊 will get you 500 Points 🍋 instead of the normal 50 Points. 🍇
+
+✅🏮🍊🍓 But, every time you fire and 🍋 miss a Car, it goes down by one. 🍇🍌
+
+
+✅🏮🍊🍓 At the end of each level, 🍋 your score is tallied 🍊 and this determines how much Fuel 🍋 you'll get in the reserve tank. 🍇
+
+✅🏮🍊🍓 So, ideally, you wanna have 🍋 the score Multiplier at 10, 🍊 in order to get the maximum amount 🍋 of Fuel at the end of each level. 🍇
+
+✅🏮🍊🍓 As long as you have Fuel, 🍋 you can keep playing. 🍇🍌
+
+
+✅🏮🍊🍓 Now, to further complicate things, 🍊 you will occasionally get 🍋 special weapon drops. 🍇
+
+✅🏮🍊🍓 These are superior 🍋 to your regular guns, 🍊 but they have no impact 🍋 on the score Multiplier. 🍇
+
+✅🏮🍊🍓 So, typically, 🍋 you want to use them 🍊 after you've already got 🍋 the Multiplier up to 10. 🍇🍌
+
+
+✅🏮🍊🍓 The manual doesn't really 🍋 fill you in, 🍊 as to what's going on, 🍋 in terms of a plot. 🍇
+
+✅🏮🍊🍓 It just says "RoadBlasters" 🍋 takes place in the future 🍊 where "survival is the [only] law". 🍇🍌
+
+
+✅🏮🍊🍓 So you, sort of, assume this takes place 🍋 in some kind of post-apocalyptic world. 🍇
+
+✅🏮🍊🍓 It must be, like, some kind of 🍋 "...Road Warrior"-style situation. 🍇
+
+✅🏮🍊🍓 You're battling a gang of psychopaths 🍋 who travel the freeway, 🍋 stealing gasoline or something. 🍇🍌
+
+
+✅🏮🍊🍓 You know, but... eventually it strikes you 🍊 'None of the other cars on the road 🍋 appear to have any weapons.'. 🍇
+
+✅🏮🍊🍓 And none of the other cars 🍋 really attack you in any way; 🍊 they're just driving down the road. 🍇
+
+✅🏮🍊🍓 You're the one who has a 🍋 machine gun mounted to his car 🍊 and who's doing all 🍋 the shooting. 🍇🍌
+
+
+✅🏮🍊🍓 There's definitely a strong, 🍋 'Are We The Baddies?' moment here 🍊 as you realize that 🍊 you're the psychopath 🍋 tearing down the highway, 🍊 murdering everyone 🍋 you come [across]. 🍇
+
+✅🏮🍊🍓 It's basically the, uh, N.E.S. version 🍋 of "Spec Ops: The Line". 🍇🍌
+
+
+✅🏮🍊🍓 Now "RoadBlasters" appears to be 🍋 some sort of cross-promotional deal 🍋 between Matchbox and Atari. 🍇
+
+✅🏮🍊🍓 There was an entire line of 🍋 "RoadBlasters" toy cars 🍊 released by Matchbox in 1987. 🍇
+
+✅🏮🍊🍓 As far as I can tell, 🍋 this wasn't a huge success 🍊 and the, uh, toy line 🍋 was discontinued in '88. 🍇
+
+✅🏮🍊🍓 So, by the time this N.E.S. port came out, 🍋 you couldn't buy the toys anymore. 🍇🍌
+
+
+✅🏮🍊🍓 "We won!" 🍇
+
+✅🏮🍊🍓 ♪ "RoadBlasters: Power That Rules The Road!" ♪ 🍇
+
+✅🏮🍋🍓 "RoadBlasters vehicles with snap-on..." 🍇🍌
+
+
+✅🏮🍊🍓 One odd little footnote: 🍊 "RoadBlasters" makes an appearance 🍋 in the 2012 Disney movie, 🍋 "Wreck-It Ralph" 🍊 (as a, uh, flashy new game 🍋 that steals the spotlight from 🍋 the older arcade racing game). 🍇🍌
+
+
+✅🏮🍊🍓 So, for a port of an Arcade Racing Game, 🍋 it's reasonably engaging. 🍇
+
+✅🏮🍊🍓 There's a little bit of strategy involved; 🍋 it's more than just driving, 🍊 so really not a bad way to 🍋 waste 20 minutes or so. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Infiltrator 🇺🇸 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 January [?] 🇺🇸
+👓🏮🍒💾 Developed by Chris Gray
+👓🏮🍒📦 Published by Mindscape 🇺🇸🍌
+
+
+✅🏮🍊🍓 Oh boy! "Infiltrator" - 🍊 one of the most infamous 🍋 N.E.S. games of the early '90s, 🍊 published by Mindscape 🍊 and perhaps a little less 🍋 user-friendly than "ChessMaster". 🍇
+
+🎧🏮🍊♪ "Infiltrator" Theme ♪
+
+
+✅🏮🍊🍓 Is this the 'Mission: Impossible' theme 🍋 but using video game sound effects)? 🍇
+
+✅🏮🍊🍓 Boy! This is just... awful! 🍇🍌
+
+
+✅🏮🍊🍓 So, we start off with this 🍋 'hilarious' tongue-in-cheek intro. 🍇
+
+✅🏮🍊🍓 So, you are this 🍋 super cool secret agent dude, 🍋 named, uh, Jimbo McGibbitz 🍊 who accepts a mission to, well, 🍋 'infiltrate' an enemy base. 🍇
+
+✅🏮🍊🍓 And neutralize some poison gas being 🍋 manufactured by the Mad Leader 🍊 (who is directly copied from this 🍋 John Buscema drawing of the Grim Reaper 🍊 from "Issue 79" of 'The Avengers'). 🍇🍌
+
+
+✅🏮🍊🍓 Okay, so "Infiltrator" has 🍋 two distinct parts: 🍊 a Helicopter-Flying Simulator 🍊 and a top-down Action Game 🍋 (that sort of resembles "Metal Gear"). 🍇
+
+✅🏮🍊🍓 Now, if you rented this, 🍋 back in the day, 🍊 and didn't have a manual, 🍋 you were [pretty] much screwed, 🍊 because it is not obvious 🍋 (at all) what to do. 🍇
+
+✅🏮🍊🍓 First of all, 🍊 ya need to hit the Start Button 🍋 to turn on the helicopter. 🍇🍌
+
+
+✅🏮🍊🍓 Now you can start 🍋 using the controls and flying. 🍇
+
+✅🏮🍊🍓 There's a lot [of] stuff 🍋 inside the helicopter cockpit 🍋 and it looks [pretty] imposing 🍊 but we'll very quickly 🍋 explain what it all is and 🍋 how to fly the 'copter. 🍇
+
+✅🏮🍊🍓 Okay, so let's start with 🍋 the gauges and whatnot, 🍋 right in front of you. 🍇🍌
+
+
+✅🏮🍊🍓 Upper left is your Speed; 🍊 next to that is the 🍋 Automated Direction Finder 🍊 (which basically tells ya which 🍋 direction the enemy base is in). 🍇
+
+✅🏮🍊🍓 Then there's the Altimeter; 🍋 below that is the R.P.M. meter. 🍇
+
+✅🏮🍊🍓 The Artificial Horizon shows 🍋 the angle the 'copter is moving 🍋 in, relative to the horizon, 🍊 and then the Compass shows you 🍋 which direction you're flying in 🍊 (not to be confused with the 🍋 Automatic Direction Finder). 🍇
+
+✅🏮🍊🍓 To the right, there is a 🍋 Fuel gauge, obviously. 🍇🍌
+
+
+✅🏮🍊🍓 Up above it, are warning lights; 🍊 they will light up if there's a problem 🍋 for various parts of the 'copter. 🍇
+
+✅🏮🍊🍓 From left to right 🍋 there's: Engine, 🍊 Battery 🍋 (which can overheat), 🍊 Oil 🍋 (which can also overheat), 🍊 Fuel 🍋 (which can run out,) 🍊 Altitude 🍋 (meaning that you're flying too 🍋 low and you're gonna crash), 🍊 and R.P.M. 🍋 (which also means 🍋 you might crash). 🍇
+
+✅🏮🍊🍓 On either side of the warning lights, 🍋 we have warning gauges 🍋 for the Battery and the Oil. 🍇🍌
+
+
+✅🏮🍊🍓 Now, on either side of 🍋 the dials and gauges, 🍊 we have, like, a control panel 🍋 with lots of buttons. 🍇
+
+✅🏮🍊🍓 You use the Select Button 🍋 to scroll through them 🍊 and the A Button to 🍋 select the actual button. 🍇🍌
+
+✅🏮🍊🍓 On the left we have: 🍋 Missiles, Guns, Chaff 🍊 (which shoots out little metal strips to 🍋 confuse enemy radar-based missiles), 🍊 then Flares (which confuse 🍋 heat-seeking missiles). 🍇
+
+✅🏮🍊🍓 On the right, there's: 🍊 Radio (which allows you 🍋 to use the radio - Duh!), 🍊 Status (which takes you 🍋 to the Status screen), 🍊 Turbo (which makes 🍋 your 'copter go faster, 🍊 but causes the Battery to overheat 🍋 and the Oil to overheat), 🍊 and, finally, Whisper, 🍋 which is kind of like Stealth mode - 🍊 you use this when landing the helicopter 🍋 so you don't get caught by the enemies 🍊 (and this also causes the Oil to overheat). 🍇
+
+✅🏮🍊🍓 There's also some flashing lights 🍋 on either side; 🍊 I have no idea if those mean anything. 🍇🍌
+
+
+✅🏮🍊🍓 Now that everything is completely 🍋 clear, you can fly the 'copter 🍊 but in order to find the enemy base 🍊 you need to set up the 🍋 Automated Direction Finder 🍊 which (as a reminder) 🍋 is the top middle dial thing. 🍇
+
+✅🏮🍊🍓 So you go into the Status screen, 🍋 and find the A.D.F. number, 🍊 then you exit the Status screen, 🍋 go to the Radio screen, 🍋 and select the A.D.F., 🍊 and then use the D-Pad to enter in the 🍋 A.D.F. number from the Status screen. 🍇
+
+✅🏮🍊🍓 Hopefully you are all following along. 🍇🍌
+
+
+✅🏮🍊🍓 Now you're ready to fly, 🍊 but watch out for enemy aircraft, 🍋 who can communicate via the radio. 🍇
+
+✅🏮🍊🍓 They will send you an ID number, 🍊 which will identify them 🍋 either as friend or enemy, 🍊 and then you signal back to them 🍋 with the correct code phrase 🍋 so they won't attack you. 🍇🍌
+
+
+✅🏮🍊🍓 Now, how do you know 🍋 which code numbers are for enemies 🍋 and which are for the good guys? 🍇
+
+✅🏮🍊🍓 Simple: you don't! 🍇
+
+✅🏮🍋🍓 The game doesn't tell you. 🍇🍌
+
+
+✅🏮🍊🍓 Regardless of whether or not 🍋 they think you're a friend or a foe, 🍊 you will definitely get 🍋 attacked, at some point, 🍊 by enemies who are 🍋 really hard to hit; 🍊 and you will probably get shot 🍋 down and get a Game Over. 🍇
+
+✅🏮🍊🍓 Okay, so now that we've tried that, 🍋 let's go on to something else. 🍇🍌
+
+
+✅🏮🍊🍓 Luckily, the developers knew that 🍋 the helicopter section is impossible 🍊 so you can just skip it and 🍋 go straight to the enemy base. 🍇
+
+✅🏮🍊🍓 So, this is like the bargain basement 🍋 "Metal Gear" part [of] the game. 🍇
+
+✅🏮🍊🍓 You land near the enemy base 🍋 (which is a three-by-three 🍋 grid of screens) 🍊 and wander around the various buildings, 🍋 looking for the items you need 🍋 to complete the objective. 🍇🍌
+
+
+✅🏮🍊🍓 Now, since this is a Mindscape game, 🍊 it's no surprise that this was 🍋 a port of a computer game. 🍇
+
+✅🏮🍊🍓 The original "Infiltrator" 🍋 was released in 1986 for 🍊 DOS and the Commodore 64 🍋 and apparently sold quite well. 🍇
+
+✅🏮🍊🍓 "The Game That Rocked America..." 🍋 as it was advertised overseas, 🍊 and it was designed by Chris Gray, 🍊 who had previously worked on the 🍋 popular computer game "Boulder Dash". 🍇🍌
+
+
+✅🏮🍊🍓 After "Infiltrator", Gray worked 🍋 on a lot [of] console games 🍋 you've probably heard of 🍊 like "Captain Planet" for the N.E.S., 🍋 uh, "B.O.B.", "Wayne's World" 🍋 and "Ren and Stimpy... Veediots!". 🍇
+
+✅🏮🍊🍓 For a time, his company, 🍋 Gray Matter Incorporated, 🍊 was the largest video game 🍋 developer in Canada. 🍇🍌
+
+
+✅🏮🍊🍓 Incidentally, this game 🍋 is not actually a port of 🍊 the 1986 "Infiltrator" 🍋 computer game; 🍊 it is, in fact, a port of the sequel 🍋 - "Infiltrator II" from 1987. 🍇
+
+✅🏮🍊🍓 These games were not actually 🍋 very well-received by critics. 🍇
+
+✅🏮🍊🍓 Uh... 'Computer Gaming World' 🍋 gave "Infiltrator II" 🍊 zero out of four stars 🍋 in his review. 🍇
+
+✅🏮🍊🍓 But it did apparently sell well enough 🍋 to end up on the N.E.S. 🍇🍌
+
+
+✅🏮🍊🍓 People obviously compare this 🍋 to "Metal Gear", of course, 🍊 though the original "Infiltrator" game 🍋 came out one year before "Metal Gear". 🍇
+
+✅🏮🍊🍓 The basic concept of Stealth Games 🍋 wasn't exactly new, back then. 🍇
+
+✅🏮🍊🍓 I mean, the original 🍋 "Castle Wolfenstein" 🍋 was released in 1981 🍊 and stealth isn't really much 🍋 of an option in "Infiltrator". 🍇🍌
+
+
+✅🏮🍊🍓 While you're in the buildings, 🍋 you can't exactly hide; 🍊 enemies will easily spot you, 🍋 since all the rooms are 🍋 just empty rectangles. 🍇
+
+✅🏮🍊🍓 You'll be asked for your papers 🍊 (which you need to select 🍋 from the Items menu) 🍊 and then Use the papers 🍋 on the guard. 🍇
+
+✅🏮🍊🍓 The guard will sometimes 🍋 accept the papers 🍊 and sometimes 🍋 recognize them as fake. 🍇
+
+✅🏮🍊🍓 When this happens, you need to 🍋 quickly go back into your Item menu, 🍊 select the Sleeping Gas, 🍋 and then Use it on the guard. 🍇🍌
+
+
+✅🏮🍊🍓 This is [pretty] tiresome - 🍋 but luckily there is a janitor uniform 🍊 tucked away in a closet 🍋 somewhere on the base. 🍇
+
+✅🏮🍊🍓 If you find in... that and put it on, 🍋 the guards will mostly ignore you. 🍇
+
+✅🏮🍊🍓 And that's ([pretty] much) 🍋 the entire game. 🍇🍌
+
+
+✅🏮🍊🍓 Now, you can't kill guards; 🍋 you have no real weapons or gizmos, 🍋 other than the Mine Detector. 🍇
+
+✅🏮🍊🍓 Unlike "Metal Gear", 🍊 (with its sizable collection of 🍋 weapons, items, and equipment) 🍊 you have [only] a few usable items 🍋 in the game and it's very repetitive. 🍇
+
+✅🏮🍊🍓 There's no Boss battles 🍋 or anything like that. 🍇
+
+✅🏮🍊🍓 You beat each level by 🍋 finding some special item 🍊 (like Poison Gas Neutralizer) 🍊 and then using this item 🍋 somewhere else in the level 🍊 (such as adding it to the Poison Gas Vat). 🍇🍌
+
+
+✅🏮🍊🍓 There are three separate missions 🍊 and each of them looks 🍋 more or less the same - 🍊 just different building layouts. 🍇
+
+✅🏮🍊🍓 The game is on a timer and there 🍋 are multiple buildings to explore. 🍇🍌
+
+
+✅🏮🍊🍓 So how you would play this game 🍋 would be to wander around the level 🍊 and die when the timer runs out. 🍇
+
+✅🏮🍊🍓 Then you restart and try again, 🍊 until you've explored enough that you 🍋 know where the important items are, 🍊 so that you can just go 🍋 directly to them 🍊 and beat the level 🍋 before the timer runs out. 🍇
+
+✅🏮🍊🍓 So it's very much a 🍋 trial-and-error game. 🍇🍌
+
+
+✅🏮🍊🍓 And, of course, a lot of 🍋 games from this era 🍋 are trial-and-error 🍊 but "Infiltrator" is just 🍋 tiresome and boring. 🍇
+
+✅🏮🍊🍓 It's just moving through 🍋 a series of identical rooms, 🍊 and opening filing cabinets, 🍊 until you just happen to 🍋 find a particular item 🍊 that will allow you to 🍋 complete the level. 🍇
+
+✅🏮🍊🍓 It's dull and repetitive; 🍋 there are no surprises, 🍊 no cool Boss fights 🍋 against helicopters, nothing. 🍇🍌
+
+
+✅🏮🍊🍓 It's just an extremely frustrating 🍋 Helicopter Simulation Game 🍊 tacked on to a 🍋 low-grade Stealth Game. 🍇🍌
+
+
+✅🏮🍊🍓 The cart is very common and super cheap. 🍇
+
+✅🏮🍊🍓 No one likes this game; 🍋 and I feel bad for the kids 🍊 who paid 40 bucks for it 🍋 (or whatever), back in 1990. 🍇🍌
+
+
+✅🏮🍊🍓 I mean, good luck playing this today 🍋 without an online guide or a walkthrough. 🍇
+
+✅🏮🍊🍓 It's a bad game 🍋 and not even really, like, 🍊 in an interesting way - 🍋 just sort of a boring way. 🍇
+
+✅🏮🍊🍓 I'm actually kind of mad 🍋 that I had to spend any time 🍋 actually playing this thing. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Kings of the Beach 🇺🇸 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 January [?] 🇺🇸
+👓🏮🍒💾 Developed by EA | Konami
+👓🏮🍒📦 Published by Ultra Games 🇺🇸🍌
+
+
+✅🏮🍊🍓 We've got two Konami games today 🍊 and this one is definitely 🍋 the lesser of the two. 🍇
+
+✅🏮🍊🍓 "Kings of the Beach" is actually 🍋 published by Ultra Games 🍊 and this is, of course, 🍋 a U.S.-[only] release. 🍇
+
+✅🏮🍊🍓 So this is (clearly) 🍋 a Beach Volleyball game - 🍊 the third Volleyball game 🍋 for this system, I think. 🍇🍌
+
+
+✅🏮🍊🍓 And, like many 🍋 U.S.-developed Sports Games, 🍊 this is based around 🍋 real-life sports figures 🍊 - namely Randy Stoklos 🍋 and Sinjin Smith 🍊 - who were the reigning 🍋 'Kings of the Beach', 🍋 at this time. 🍇
+
+✅🏮🍊🍓 The Stoklos | Smith team was 🍋 [pretty] much dominating the sport, 🍋 at the time this came out, 🍊 winning the first four F.I.V.B. 🍋 Beach Volleyball World Series 🍋 (from 1989 to 1992). 🍇
+
+✅🏮🍊🍓 And they apparently still today 🍋 hold the record 🍊 for the most professional 🍋 Volleyball wins at 114. 🍇🍌
+
+
+✅🏮🍊 ANNOUNCER 1: 🍋🍓 "It's the Miller Lite Grand Prix 🍋 winners for 1991: 🍊 Smith and Stoklos!" 🍇
+
+✅🏮🍊 ANNOUNCER 2: 🍋🍓 "The slump is over; 🍋 that's the performance [of] the year. 🍇
+
+✅🏮🍊🍓 Played so poorly in the game to 15..." 🍇🍌
+
+✅🏮🍊RANDY STOKLOS: 🍋🍓 Woohoo-hoo! 🍇🍌
+
+
+✅🏮🍊🍓 And this game was 🍋 originally developed by E.A. 🍊 and it's the second E.A. game 🍋 that Konami published for the N.E.S. 🍊 - the first being "Skate or Die". 🍇
+
+✅🏮🍊🍓 In fact, both games have, sort of, a 🍋 similar hub section at the beginning. 🍇
+
+✅🏮🍊🍓 Here you can start a New Game or 🍋 enter a Password for an existing game. 🍇🍌
+
+
+✅🏮🍊🍓 You select the various 🍋 Options in this menu. 🍇
+
+✅🏮🍊🍓 Up to four people can play at once. 🍇
+
+✅🏮🍊🍓 And there's also a very hard-to-read 🍋 copyright notice on this screen, 🍋 for some reason. 🍇🍌
+
+
+✅🏮🍊🍓 And then there're also these areas 🍊 where you can practice Bumps 🍋 and Spikes and whatnot. 🍇
+
+✅🏮🍊🍓 Now, when you're ready to 🍋 actually play a game, 🍊 you can do a one-off Match 🍋 or a full Tournament. 🍇
+
+✅🏮🍊🍓 The Tournament consists of five games 🍋 - each in a different locale: 🍊 San Diego, Chicago, Waikiki, 🍋 Rio, and somewhere in Australia. 🍇🍌
+
+
+✅🏮🍊🍓 This is actually very faithful 🍋 to the original PC version, 🍊 except for one thing 🍋 - the music. 🍇
+
+✅🏮🍊🍓 Damn! This is a banger! 🍇
+
+✅🏮🍋🍓 This music is by Ron Hubbard. 🍇🍌
+
+
+✅🏮🍊🍓 The somewhat higher resolution 🍋 on the DOS version 🍊 makes it a bit more 🍋 pleasant to look at. 🍇
+
+✅🏮🍊🍓 And here's one funny thing; 🍋 the players can dispute a ref's call 🍋 and argue with him 🍊 (sometimes earning you a 🍋 yellow card, if you make him mad). 🍇
+
+✅🏮🍊🍓 The N.E.S. game clearly has these 🍋 softer and more muted colors - 🍊 but, you know, other than that, 🍋 the games are quite similar. 🍇🍌
+
+
+✅🏮🍊🍓 You have a variety of realistic 🍋 moves you can pull off 🍋 (spikes, blocks, et cetera). 🍇
+
+✅🏮🍊🍓 I didn't really get the hang of 🍋 the controls while playing this 🍊 but I... I guess the game 🍋 seems [pretty] good(?). 🍇
+
+✅🏮🍊🍓 I like all the little touches like 🍋 the character animations 🍊 (like kicking the sand when you get 🍋 mad and... and that sort of thing). 🍇
+
+✅🏮🍊🍓 Each locale has its own background; 🍋 here is Waikiki, for example. 🍇🍌
+
+
+✅🏮🍊🍓 In terms of N.E.S. Volleyball games, 🍊 I don't think this has ever 🍋 reached the level of popularity 🍊 as Nintendo's own "Volleyball" 🍋 game or "Super Spike V-Ball". 🍇
+
+✅🏮🍊🍓 I mean, there's nothing really 🍋 wrong with "Kings of the Beach"; 🍊 it's [pretty] slick and it has a 🍋 decent amount of personality. 🍇
+
+✅🏮🍊🍓 But there's [only] room for so many 🍋 Volleyball games in people's hearts 🍊 and I think "Super Spike V-Ball" 🍋 is the one that people actually 🍋 remember and still like today. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Cadillac 🇯🇵 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 February 02 🇯🇵
+👓🏮🍒💾 Developed by Hect Development Division
+👓🏮🍒📦 Published by Hector 🇯🇵🍌
+
+
+✅🏮🍊🍓 February 1990 is here and 🍋 we're gonna blow through 🍊 almost the entire 🍋 month this episode. 🍇
+
+✅🏮🍊🍓 This is one of those games 🍊 that I had absolutely 🍋 no idea what it was 🍋 until I started playing it. 🍇
+
+✅🏮🍊🍓 "Cadillac" from Hector. 🍇🍌
+
+
+✅🏮🍊🍓 Now the name 'Cadillac' doesn't really 🍋 imply any particular type of game 🍊 (like a Racing Game, maybe? 🍋 I don't know). 🍇
+
+✅🏮🍊🍓 But, it turns out, this is "Tetris" 🍋 - but with playing cards. 🍇
+
+🎧🏮🍊♪ Invention No. 15 (BWV 786) ♪ 🍋 (8-Bit arrangement playing)
+
+✅🏮🍊🍓 Now there is an actual 🍋 card game called "Cadillac" 🍊 (it's more commonly called "Thirty-one"). 🍇
+
+✅🏮🍊🍓 But there is no connection whatsoever 🍋 between that game and this video game. 🍇🍌
+
+
+✅🏮🍊🍓 I guess that kid is you? 🍇
+
+✅🏮🍊🍓 You seem to be a little bit young 🍋 to be gambling but... 🍇🍌
+
+
+🎧🏮🍊♪ Two-Part Invention in E-Flat Major (BWV 776) ♪ 🍋 (8-Bit arrangement playing)
+
+
+✅🏮🍊🍓 So this is how the game is played: 🍋 you have a deck of 52 cards. 🍇
+
+✅🏮🍊🍓 One card at a time is dealt 🍊 and it falls towards 🍋 the bottom of the screen 🍋 (just like in "Tetris"). 🍇
+
+✅🏮🍊🍓 The D-Pad will 🍋 move the card horizontally, 🍋 from column to column. 🍇
+
+✅🏮🍊🍓 You can also use 🍋 Up or Down on the D-Pad 🍊 to speed up or slow down the 🍋 rate at which the card is falling. 🍇🍌
+
+
+✅🏮🍊🍓 In "Tetris", of course, 🍋 you need to fill in a horizontal row, 🍋 in order to make that row disappear. 🍇
+
+✅🏮🍊🍓 In "Cadillac" you need to 🍋 line up at least three cards 🍊 into some sort of order 🍋 (typically a Straight or a Flush). 🍇
+
+✅🏮🍊🍓 This can be done either 🍋 horizontally or vertically. 🍇
+
+✅🏮🍊🍓 And, once you have three-in-a-row, 🍋 those cards will disappear. 🍇🍌
+
+
+✅🏮🍊🍓 You also get money for 🍋 each hand you clear. 🍇
+
+✅🏮🍊🍓 The ultimate goal of each round is 🍋 to have no cards left on the screen, 🍋 once the entire deck has been played. 🍇
+
+✅🏮🍊🍓 In practice, this is very difficult 🍋 (if not impossible). 🍇🍌
+
+
+✅🏮🍊🍓 However any cards left 🍋 on the screen will be tallied 🍊 and then deducted from your 🍋 earnings (at $50 per card). 🍇
+
+🎧🏮🍊♪ Gymnopédie No. 1 (Lent et douloureux) ♪ 🍋 (8-Bit arrangement playing)
+
+✅🏮🍊🍓 If your money drops below zero, 🍋 the game is over. 🍇🍌
+
+
+✅🏮🍊🍓 Now there is a sort of 🍋 'risk versus reward' factor at play. 🍇
+
+✅🏮🍊🍓 Flushes (that is three cards of the same [suit]) 🍋 are easy to set up but [only] pay $10. 🍇
+
+✅🏮🍊🍓 A Straight 🍋 (that is, three consecutive cards 🍊 - such as [5], [6], [7]) 🍋 pays $100 🍊 and a Straight Flush 🍋 (say [5], [6], [7] of Diamonds) 🍊 pays $500 🍋 (or 50 times as much as a regular Flush). 🍇🍌
+
+
+✅🏮🍊🍓 So this is a simple, fun, 🍋 easy-to-learn game 🍊 which can be 🍋 a little challenging. 🍇🍌
+
+
+✅🏮🍊🍓 One very strange thing is that 🍋 a decade later (in 1999) 🍊 Hector released an updated 🍋 version of this for the Playstation 🍊 (one in a series of titles they released, 🍋 which were based on gambling games, 🍊 that they released with these, 🍋 like, extremely generic covers). 🍇🍌
+
+✅🏮🍊🍓 I suppose that if "Cadillac" 🍋 warranted a remake, 🍊 then the original must have 🍋 done somewhat okay(?). 🍇🍌
+
+
+✅🏮🍊🍓 My final verdict: 🍊 "Cadillac" is decent but clearly 🍋 encourages underage gambling. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Super Contra 🇯🇵 // Super C 🇺🇸 // Probotector II: Return of the Evil Forces 🇪🇺 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 February 02 🇯🇵 // 1990 April [?] 🇺🇸 // 1992 [?] [?] 🇪🇺
+👓🏮🍒💾 Developed by Konami
+👓🏮🍒📦 Published by Konami 🇯🇵 🇺🇸 🇪🇺🍌
+
+
+✅🏮🍊🍓 Alright, the big Action Game 🍋 this episode: "Super Contra" 🍊 (the sequel to, well... 🍋 just regular "Contra", I guess) 🍊 developed and published by Konami. 🍇🍌
+
+
+✅🏮🍊🍓 Once again, Bill (codename: 'Mad Dog') 🍋 and Lance (codename: '[Scorpion]') 🍊 need to stop an alien 🍋 invasion of some sort 🍊 (well not even quite an invasion 🍋 - more like an infestation). 🍇
+
+✅🏮🍊🍓 The aliens seem 🍋 [pretty] well-established 🍊 and the underground tunnels 🍋 and such are just full of them. 🍇
+
+✅🏮🍊🍓 Should I point out that 🍋 Bill's last name is Ko? 🍊 'Bill Ko'? 🍇🍌
+
+
+✅🏮🍊🍓 "Super Contra" is the first of two 🍋 Run-and-Gun type games, this episode. 🍇
+
+✅🏮🍊🍓 "Super Contra" is really good! 🍇
+
+✅🏮🍊🍓 The other one is... 🍋 well, you'll see. 🍇🍌
+
+
+✅🏮🍊🍓 In the U.S., of course, this was 🍋 released under the name "Super C" 🍊 - to avoid people making any 🍋 connections to the Iran Contra scandal. 🍇
+
+✅🏮🍊🍓 You should recall that the arcade 🍋 "Super C" was released in 1988 🍊 and the scandal was still 🍋 very fresh in people's minds. 🍇🍌
+
+
+✅🏮🍊🍓 "What is this place?" 🍇
+
+✅🏮🍋🍓 "Keep your eyes peeled!" 🍇🍌
+
+
+✅🏮🍊🍓 The arcade game is [pretty] hard; 🍋 it's definitely more of a quarter-muncher 🍊 and while it looks spectacular, 🍋 your character is bigger and feels slower(?), 🍊 power up capsules just seem to 🍋 tear across the screen super fast, 🍋 and they're much harder to shoot. 🍇
+
+✅🏮🍊🍓 It looks sick as hell, though. 🍇🍌
+
+
+✅🏮🍊🍓 By comparison, 🍋 the console version 🍊 makes your sprite 🍋 much more compact and 🍋 much more agile. 🍇
+
+✅🏮🍊🍓 You can jump around and pull off 🍋 air spins like a damn maniac. 🍇
+
+✅🏮🍊🍓 Good luck hitting this guy! 🍇🍌
+
+
+✅🏮🍊🍓 "Super C" comes [pretty] strong, 🍋 right out of the gates. 🍇
+
+✅🏮🍊🍓 After getting dropped off by a helicopter 🍋 ya hit the ground with guns blazing, 🍊 mowing down members of the U.S. military 🍋 who have been brainwashed by aliens. 🍇
+
+✅🏮🍊🍓 I'm sure that's fine and that the 🍋 U.S. Army is okay with that. 🍇
+
+✅🏮🍊🍓 I mean, stealth is not the 🍋 "Contra" boys' modus operandi. 🍇🍌
+
+
+✅🏮🍊🍓 First Boss: a helicopter! 🍇
+
+✅🏮🍊🍓 Shoot out the gun turrets, 🍊 kill all the guys who 🍋 jump out at the back, 🍊 and finally hammer away 🍋 at the weak spot, 🍊 and 'Blam!' he's done. 🍇🍌
+
+
+✅🏮🍊🍓 "Super Contra" disposed of 🍋 the first-person levels 🍊 and instead adds several 🍋 top-down sequences 🍊 (sort of like an 🍋 "Ikari Warriors" vibe here). 🍇🍌
+
+
+✅🏮🍊🍓 If you've played "Contra" before, 🍋 you know there's one rule: 🍊 get the Spread Gun. 🍇
+
+✅🏮🍊🍓 With this bad boy, you become 🍋 an unstoppable wall of death. 🍇
+
+✅🏮🍊🍓 Giant tanks blocking your way? 🍋 No problem. 🍇🍌
+
+
+✅🏮🍊🍓 I also love these giant walls 🍋 with their dramatic foreshortening. 🍇🍌
+
+
+✅🏮🍊🍓 And this is great! 🍇
+
+✅🏮🍋🍓 This giant tank thing with three guns? 🍇
+
+✅🏮🍊🍓 You can just walk up behind it 🍋 and shoot it in the rear end 🍋 and it'll go up in flames, real quick. 🍇🍌
+
+
+✅🏮🍊🍓 Level 3: Tropics of Torture 🍋 is a jungle level 🍊 where tons of enemies are 🍋 coming from all sides, 🍊 and (again) the strategy is: 🍋 just keep moving forward. 🍇
+
+✅🏮🍊🍓 This pop-up missile launcher, 🍋 for example. 🍇
+
+✅🏮🍊🍓 It'll be a real pain if you get caught in 🍋 all the missiles that it rains down on you, 🍊 but with a heavy gun you can 🍋 just bulldoze right through it 🍋 before it even fires anything off. 🍇
+
+✅🏮🍊🍓 And that is a [pretty] good strategy 🍋 for "Super C", in general: 🍊 just keep moving forward, 🍋 don't ever stop shooting, 🍋 and don't slow down 🍊 or all the enemies 🍋 will catch up with you. 🍇🍌
+
+
+✅🏮🍊🍓 The game clearly borrows elements 🍋 from '80s Action-Adventure movies. 🍇
+
+✅🏮🍊🍓 Aside from Lance's 🍋 "Rambo"-esque headband, 🍊 the arcade flyer 🍋 straight-up mentions "Predator" 🍊 and the art is lifted directly 🍋 from the "Rambo" poster. 🍇🍌
+
+
+✅🏮🍊🍓 After the jungle, ya probably have 🍋 the worst section of the game - 🍊 where the ground starts 🍋 collapsing below your feet 🍊 and ya have to keep 🍋 jumping from ledge to ledge 🍋 to avoid falling to your death. 🍇
+
+✅🏮🍊🍓 It's one of those situations where, 🍊 if you aren't right on the edge 🍋 when you jump, 🍊 you won't quite make it 🍋 and you'll fall. 🍇
+
+✅🏮🍊🍓 And this all leads to 🍋 a kind of lame Boss. 🍇🍌
+
+
+✅🏮🍊🍓 A bit later we get this 🍋 cool elevator sequence, 🍊 as enemies sweep down 🍋 and attack you from above. 🍇
+
+✅🏮🍊🍓 "Super C" is [pretty] relentless 🍋 and it can be brutally difficult 🍊 - especially if you're 🍋 stuck with a weak gun. 🍇🍌
+
+
+✅🏮🍊🍓 Now, one of the issues 🍋 people have with "Super C": 🍊 it's one of those examples of a game 🍋 being made more difficult for the U.S. market. 🍇
+
+✅🏮🍊🍓 The Japanese version had 🍋 a secret code for 30 lives 🍊 (it wasn't the well-known Konami code; 🍋 it was a different code) 🍊 but, in the U.S., this code 🍋 [only] gave you 10 lives. 🍇
+
+✅🏮🍊🍓 The Japanese version also has 🍋 a hidden Level Select option 🍊 (which is, again, missing 🍋 from the U.S. release). 🍇🍌
+
+
+✅🏮🍊🍓 The 30-lives cheat was included 🍋 in the European version, 🍋 uh, known as "[Probotector] II". 🍇
+
+✅🏮🍊🍓 Just like the first 'Contra' game, 🍊 this version has everyone 🍋 changed into robots. 🍇🍌
+
+
+✅🏮🍊🍓 One interesting theme that is new to 🍋 "Super C" is the use of inclined surfaces. 🍇
+
+✅🏮🍊🍓 The game starts you 🍋 running up some hills, 🍊 which is sort of unusual 🍋 for an N.E.S. game. 🍇
+
+✅🏮🍊🍓 The same trick appears here, 🍊 as you fight your way through these, 🍋 uh, series of floating islands. 🍇🍌
+
+
+✅🏮🍊🍓 The next Boss is this ugly dude 🍋 who feels like an alien version 🍋 of the first Boss (the helicopter). 🍇
+
+✅🏮🍊🍓 As we enter the home stretch, 🍋 we have another top-down sequence 🍊 - a rather irritating section where 🍋 you just get attacked by all sides, 🍊 from what, I believe, were 🍋 originally supposed to look like 🍋 the facehuggers from "Alien". 🍇
+
+✅🏮🍊🍓 And this guy was originally the 🍋 Final Boss in the arcade game. 🍇🍌
+
+
+✅🏮🍊🍓 The first (and very easy) 🍋 part is a fake out... 🍊 and then the real Boss appears. 🍇
+
+✅🏮🍊🍓 In the arcade game he has, like, 🍋 this alien embryo thing in his brain 🍋 and you need to shoot that 🍊 - but in the console version you 🍋 just need to blast him in the face. 🍇
+
+✅🏮🍊🍓 The game's finale has you just descending 🍋 deeper and deeper into the alien hive 🍋 until you meet the real Final Boss. 🍇🍌
+
+
+✅🏮🍊🍓 Opinions on "Super C", 🍋 both past and present, are mixed; 🍊 'Famista' gave it a mere 25 out of 40. 🍇
+
+✅🏮🍊🍓 Asking around on Twitter, 🍋 a number of folks thought 🍊 it was a bit disappointing 🍋 after the original N.E.S. "Contra". 🍇🍌
+
+
+✅🏮🍊🍓 I personally like it. 🍇
+
+✅🏮🍊🍓 It's so fast-paced, the 🍋 weapons are overpowered, 🍊 you just run around like 🍋 a damn idiot killing stuff; 🍊 you're also just so nimble 🍋 (doing mid-air spins, 🍋 while firing your gun). 🍇
+
+✅🏮🍊🍓 It's the exact opposite of "Batman" 🍋 with your very slow deliberate movement 🍊 and having to constantly 🍋 crouch down to kill smaller enemies 🍊 - something that I personally found 🍋 very annoying about "Batman". 🍇
+
+✅🏮🍊🍓 And it can be quite tough - 🍋 especially some of the 🍋 platforming levels like this 🍊 (where you need to deal with a moving 🍋 ceiling that limits your ability to jump, 🍊 enemies are rushing in behind you, 🍋 and those bubble things 🍋 are closing in on you). 🍇🍌
+
+
+✅🏮🍊🍓 Okay, so here's the Final Boss; 🍊 he's new to the console version and 🍋 would return in later 'Contra' games. 🍇🍌
+
+
+✅🏮🍊🍓 "Super C" must have 🍋 been [pretty] successful 🍊 as Konami continued to pump 🍋 out 'Contra' console games. 🍇
+
+✅🏮🍊🍓 The series eventually switched 🍋 from 2D to 3D in the Playstation era 🍊 and then later went back to its 🍋 2D roots for a handheld game. 🍇
+
+✅🏮🍊🍓 I'd say it's definitely 🍋 the best Action Game 🍊 we've seen for the N.E.S. 🍋 in the last few episodes. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Nobunaga no Yabou: Sengoku Gunyuuden 🇯🇵 // Nobunaga's Ambition II 🇺🇸 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 February 03 🇯🇵 // 1991 April [?] 🇺🇸
+👓🏮🍒💾 Developed by Koei
+👓🏮🍒📦 Published by Koei 🇯🇵 🇺🇸🍌
+
+
+✅🏮🍊🍓 Okay, now on the absolute 🍋 opposite end of the 🍋 spectrum as "Super C", 🍊 it's a big old honkin' 🍋 Historical Simulation Game. 🍇🍌
+
+
+✅🏮🍊🍓 I hope you like warring feudal states 🍋 because it's "Nobunaga no Yabou" 2. 🍇
+
+✅🏮🍊🍓 This is Koei's sequel to 🍋 "Nobunaga no Yabou" 1, 🍋 released for the FamiCom in March 1988. 🍇
+
+✅🏮🍊🍓 So this sequel was 🍋 two years in the making. 🍇🍌
+
+
+✅🏮🍊🍓 Like the first game, 🍋 this is centered around 🍊 the time of Nobunaga Oda 🍋 - a 16th century feudal lord. 🍇🍌
+
+
+✅🏮🍊🍓 Nobunaga lived during 🍋 the Sengoku period of Japan 🍊 (often called the 🍋 Warring States period, in English). 🍇
+
+✅🏮🍊🍓 Basically, he pursued a 🍋 policy of unifying Japan, 🍊 fought and conquered a 🍋 bunch of rival feudal lords, 🍊 got betrayed, and 🍋 had to commit suicide. 🍇
+
+✅🏮🍊🍓 But he's still considered to be 🍋 the guy who [pretty] much 🍋 kick-started Japan's unification. 🍇🍌
+
+
+✅🏮🍊🍓 The first game did 🍋 [pretty] well in the U.S. 🍊 so this sequel got a release 🍋 in the U.S. in April 1991, 🍊 under the name 🍋 "Nobunaga's Ambition II". 🍇
+
+✅🏮🍊🍓 The thing about this game is, 🍋 it's [pretty] slick; 🍊 it expands on the original game a bit. 🍇
+
+✅🏮🍊🍓 And, hey, look, 🍋 it's your boy Takeda Shingen! 🍇
+
+✅🏮🍊🍓 He had his own strategy game 🍋 on the N.E.S. (two actually!) 🍋 published by Hot-B. 🍇🍌
+
+
+✅🏮🍊🍓 There are two scenarios you can play: 🍊 'Warlord Rivalry' 🍋 (which takes place in the 1560s and has a 🍋 bunch of Warlords ruling over small Fiefs); 🍊 the second one is 'Nobunaga's Ambition' 🍋 (which fast-forwards 20 years 🍋 and there are fewer Warlords left). 🍇
+
+✅🏮🍊🍓 The game is [pretty] complicated, 🍋 for [an] N.E.S. game; 🍋 the manual is, like, 80 pages long(?). 🍇
+
+✅🏮🍊🍓 And we have just lots of Menus, 🍋 and Options, and Commands, 🍋 and so on. 🍇🍌
+
+
+✅🏮🍊🍓 The first step is to choose a Warlord 🍋 (or 'Daimyo', as they say). 🍇
+
+✅🏮🍊🍓 In theory, it's easier to choose 🍋 a Fief that isn't surrounded 🍋 by a lot of rival Fiefs. 🍇
+
+✅🏮🍊🍓 That way you're not, you know, 🍋 surrounded on all sides by enemies. 🍇🍌
+
+
+✅🏮🍊🍓 The basic strategy is 🍋 (just like any other "Civ..."-type game): 🍊 improve your Kingdom by 🍋 clearing lands, expanding towns, 🍊 taking anti-flood measures, 🍋 and fortifying your castle. 🍇
+
+✅🏮🍊🍓 This allows you to make more 🍋 money and build bigger armies. 🍇🍌
+
+
+✅🏮🍊🍓 You can also buy or sell food and weapons. 🍇
+
+✅🏮🍊🍓 You can engage in diplomacy 🍋 with the other Daimyos. 🍇
+
+✅🏮🍊🍓 You can send out spies or assassins, 🍊 try to recruit Rounin 🍋 (that is, unemployed Samurais), 🍊 or try to lure Samurais 🍋 away from their Fiefs, 🍊 (and, of course) you train soldiers, 🍋 and also fight wars. 🍇🍌
+
+
+✅🏮🍊🍓 Now, one thing that's 🍋 new to this game 🍊 is the introduction of Samurai as 🍋 the agents which actually perform 🍋 most of the game's actions. 🍇
+
+✅🏮🍊🍓 You, the Daimyo, have 🍋 multiple Samurai at your disposal 🍋 - each with their own stats. 🍇🍌
+
+
+✅🏮🍊🍓 Whenever a Samurai performs an action 🍋 (like training troops or improving the land) 🍊 they use what the 🍋 game calls 'Body Points'. 🍇
+
+✅🏮🍊🍓 That's a [pretty] weird term but 🍋 it's basically just Action Points. 🍇
+
+✅🏮🍊🍓 Performing an Action uses up Points 🍊 and then between turns they 🍋 have some Points [replenished]. 🍇
+
+✅🏮🍊🍓 So, in other words, 🍋 a Samurai has limits 🍊 as to how many tasks they can 🍋 actually perform, during each Turn. 🍇🍌
+
+
+✅🏮🍊🍓 Now, this concept was borrowed 🍋 from an earlier Koei game: 🍋 "Romance of the Three Kingdoms" 🍊 - a game that has Generals 🍋 that are used to carry out your orders. 🍇
+
+✅🏮🍊🍓 Koei must have really liked the concept, 🍊 since they employed it in the 🍋 'Nobunaga' games, starting with this one. 🍇🍌
+
+
+✅🏮🍊🍓 Now, aside from all of that, 🍋 you can (of course) 🍋 fight your rival Daimyos. 🍇
+
+✅🏮🍊🍓 You just move your Army guys 🍋 into a neighboring Fief 🍊 and then, 'Blam!'; 🍊 next thing you know it's time 🍋 for [hex]-based combat. 🍇🍌
+
+
+✅🏮🍊🍓 You have different types of units 🍋 (Horses, Infantry, Riflemen). 🍇
+
+✅🏮🍊🍓 I'm [pretty] outnumbered here and 🍋 this will not turn out well for me. 🍇🍌
+
+
+✅🏮🍊🍓 Now, as you know, 🍊 I'm not really fond of playing these 🍋 complex computer games on the N.E.S. 🍇
+
+✅🏮🍊🍓 I mean, a console like this 🍋 just does not seem like 🍊 the right platform 🍋 for a strategy game. 🍇
+
+✅🏮🍊🍓 Don't get me wrong; 🍊 I like "Civilization" and "Age of Empires" 🍋 and "Warcraft" and all that kinda junk, 🍊 but I think that style of gameplay 🍋 really benefits from having a mouse. 🍇
+
+✅🏮🍊🍓 The N.E.S. just isn't really that good for 🍋 displaying lots of text or detailed maps. 🍇
+
+✅🏮🍊🍓 And remember, "Nobunaga's Ambition" 🍋 started out as a computer game. 🍇🍌
+
+
+✅🏮🍊🍓 In fact, this game was originally released 🍋 for Japanese computers in 1988 🍊 and was even released for 🍋 computers in the U.S. in 1989. 🍇
+
+✅🏮🍊🍓 And this looks [pretty] damn functional; 🍊 you can actually type in 🍋 numbers using your keyboard, 🍊 rather than scrolling through 🍋 menus with a D-Pad. 🍇
+
+✅🏮🍊🍓 I suppose that, 🍋 in later iterations of the series, 🍊 the 'Nobunaga' games became 🍋 a bit more playable on consoles. 🍇🍌
+
+
+✅🏮🍊🍓 It's interesting that we have 🍋 so many ports, this episode, 🍊 of both computer games 🍋 and arcade games 🍋 (seven out of ten!). 🍇
+
+✅🏮🍊🍓 And "Cadillac" is the [only] true 🍋 original game this episode, 🍊 as the other two games are 🍋 a sequel and a TV adaptation. 🍇
+
+✅🏮🍊🍓 And I feel like this almost must be, like, 🍋 a record for an episode of 'Chrontendo'. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Mottomo Abunai Deka 🇯🇵 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 February 06 🇯🇵
+👓🏮🍒💾 Developed by Micronics
+👓🏮🍒📦 Published by Toei 🇯🇵🍌
+
+
+✅🏮🍊🍓 Wow! 🍇
+
+✅🏮🍊🍓 Okay, here's one game 🍋 I was not expecting. 🍇
+
+✅🏮🍊🍓 "Mottomo Abunai Deka" 🍋 published by Toei 🍊 (the gigantic 🍋 animation company) 🍊 and developed 🍋 by Micronics. 🍇🍌
+
+
+✅🏮🍊🍓 And, let me tell you, 🍊 most Micronics games we've been 🍋 seeing lately have been kind of boring. 🍇
+
+✅🏮🍊🍓 There were a couple of ports of 🍋 arcade Shoot-'em-Ups in 1989 🍊 and a generic R.P.G. 🍊 but this is a return to the 🍋 classic Micronics style. 🍇🍌
+
+
+✅🏮🍊🍓 Alright, so there's not much here 🍋 in terms of an intro; 🍊 the game just starts, right 🍋 in the middle of the action. 🍇
+
+✅🏮🍊🍓 Literally one second after 🍋 the game itself loads 🍊 an enemy appears on 🍋 the right side of the screen, 🍋 charging at you. 🍇🍌
+
+
+✅🏮🍊🍓 So, how do you play this game? 🍇
+
+✅🏮🍊🍓 Well, it's simple: 🍊 just run to the right 🍋 and constantly fire your gun 🍊 (and that's [pretty] much it 🍋 for the first level). 🍇
+
+✅🏮🍊🍓 You do have to jump over 🍋 some boxes at one point. 🍇
+
+✅🏮🍊🍓 So, I guess we could say 🍊 when the opportunity arose to 🍋 make an exciting Action Game 🍊 these guys really 🍋 'missed the boat'. 🍇🍌
+
+
+✅🏮🍊🍓 The second level throws in 🍋 a few curve balls; 🍊 there's gunmen firing 🍋 at you from the windows 🍊 and, in theory, you need to 🍋 shoot them while jumping up. 🍇
+
+✅🏮🍊🍓 In practice, they're 🍋 kinda hard to hit 🍊 and, when using the pistol, 🍊 the bullets often fly 🍋 right over their heads - 🍊 not that this really matters, 🍊 since you have a 🍋 [pretty] long life bar 🍊 and health refills 🍋 appear [pretty] frequently. 🍇
+
+✅🏮🍊🍓 Later in the game, you 🍋 have to be a bit more careful. 🍇🍌
+
+
+✅🏮🍊🍓 I love the fact that 🍋 at the end of this level 🍊 these two cops are just, like, 🍋 standing in front of this building 🍊 (apparently unconcerned 🍊 that there's dozens of maniacs 🍋 shooting off guns in the streets). 🍇🍌
+
+
+✅🏮🍊🍓 So you're probably thinking, 🍊 'Yeah, there's got to be some kind 🍋 of story behind this thing.'. 🍇
+
+✅🏮🍊🍓 Well, this is an adaptation of a 🍋 popular Japanese TV cop show. 🍇🍌
+
+
+✅🏮🍊🍓 'Abunai Deka' first ran 🍋 from 1986 to 1987. 🍇
+
+✅🏮🍊🍓 The title translates to roughly 🍋 'Dangerous Detectives'. 🍇
+
+✅🏮🍊🍓 It was about these two 🍋 sharply-dressed police detectives 🍊 and was clearly 🍋 patterned after 'Miami Vice'. 🍇🍌
+
+
+✅🏮🍊🍓 A second series 🍋 'Motto Abunai Deka' 🍊 (or 'More Dangerous Detectives') 🍋 ran from 1988 to '89. 🍇
+
+✅🏮🍊🍓 And this game is technically 🍋 a tie-in to that series 🍊 (despite the game being released 🍊 a few months after 🍋 the show was off the air). 🍇
+
+✅🏮🍊🍓 There were a few movies made 🍋 and an occasional TV revival 🍊 as well as countless 🍋 soundtrack albums, spin-off series, 🍊 and (as far as I can tell) 🍋 just this one video game. 🍇🍌
+
+
+✅🏮🍊🍓 Now, it's kind of funny; 🍋 years ago I'd made a video 🍊 about the worst games for 🍋 the FamiCom and Nintendo 🍊 for the first few 🍋 years [of] the system 🍊 and people sometimes ask me 🍋 if I'm ever gonna 🍊 do a second one 🍋 for more recent years. 🍇
+
+✅🏮🍊🍓 But the thing is, by this point 🍋 in the N.E.S. history ('89 or '90), 🍊 there are boring games, 🍋 there's uninspired games, 🍊 but the system has 🍋 matured enough that 🍊 there is some sort of minimum 🍋 standard that games have to meet. 🍇
+
+✅🏮🍊🍓 And, sure, there are still a few 🍋 things like "Back to the Future" 🍊 but, like, the 'Wild West' era 🍊 (where [pretty] much anything 🍋 could be released) is over. 🍇🍌
+
+
+✅🏮🍊🍓 And then suddenly 🍋 "Mottomo Abunai Deka" 🍊 just comes rising 🍋 out of the swamp 🍊 and it's like we're 🍋 back in 1986 again. 🍇
+
+✅🏮🍊🍓 Seriously, this game is 🍋 like black tar kusoge; 🍊 just inject it 🍋 directly into my veins. 🍇
+
+✅🏮🍊🍓 This is like 🍋 "Super Pitfall"-level kusoge. 🍇🍌
+
+
+✅🏮🍊🍓 Now, as you may have noticed, 🍊 you can pick up little 🍋 uzis and grenades. 🍇
+
+✅🏮🍊🍓 These are alternate weapons 🍋 with limited ammo 🍊 which you can use 🍋 if you feel like it. 🍇🍌
+
+
+✅🏮🍊🍓 And there are Bosses (sort of). 🍇
+
+✅🏮🍊🍓 This guy is just a regular dude 🍊 who can just take 🍋 a lot of bullets. 🍇🍌
+
+✅🏮🍊🍓 And then there's this 🍋 flamethrower dude 🍊 who appears at the 🍋 end of a couple levels. 🍇
+
+✅🏮🍊🍓 And just look at 🍋 the fireball sprites; 🍊 I mean, they... 🍋 they look like hairballs! 🍇🍌
+
+
+✅🏮🍊🍓 This is a short game; 🍊 I looked at a 🍋 complete playthrough 🍊 and, from the very beginning 🍋 to the end of the next-to-last level, 🍊 was about 11 minutes. 🍇
+
+✅🏮🍊🍓 The last level is a little bit 🍋 longer than average 🍊 (maybe five minutes) 🍋 and that's mostly because 🍊 you have to climb 🍋 up and down a lot of stairs 🍊 and your character 🍋 does this very slowly. 🍇🍌
+
+
+✅🏮🍊🍓 Also, for some reason, 🍊 there is a very short 🍋 (but still annoying) driving sequence 🍊 where you have 95 seconds 🍋 to reach your destination. 🍇
+
+✅🏮🍊🍓 If you fail, 🍋 then you get a Game Over. 🍇🍌
+
+
+✅🏮🍊🍓 Alright, so the last level 🍋 is a big room with stairs. 🍇
+
+✅🏮🍊🍓 But the best part 🍋 of this is the music. 🍇🍌
+
+
+✅🏮🍊🍓 And, once again, the Final Boss is 🍋 just this dude standing in his office. 🍇
+
+✅🏮🍊🍓 You need to shoot him in 🍋 the dick a bunch of times. 🍇
+
+✅🏮🍊🍓 I guess there's a reason that so 🍋 many shooter games (like "Contra") 🍊 have these fanciful settings full 🍋 of monsters and robots and stuff 🍊 so that the game's climax 🍋 isn't just shooting some dude 🍊 (wearing an ugly brown suit) 🍋 in the dick. 🍇🍌
+
+
+✅🏮🍊🍓 And that's it! 🍇
+
+✅🏮🍊🍓 The End! 🍇
+
+✅🏮🍋🍓 No moral! 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Dragon Quest IV 🇯🇵 // Dragon Warrior IV 🇺🇸 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭🗓️ Released 1990 February 21 🇯🇵 // 1992 October [?] 🇺🇸
+👓🏮🍒💾 Developed by Chunsoft
+👓🏮🍒📦 Published by Enix 🇯🇵 🇺🇸🍌
+
+
+✅🏮🍊🍓 Okay, folks, the second big game 🍋 this episode and it's a whopper: 🍊 "Dragon Quest IV", 🍋 developed and published by Enix 🍊 and made by [pretty] much the 🍋 regular 'Dragon Quest' team, 🍊 Yuji Horii, Akira Toriyama, 🍋 Koichi Sugiyama, and so on. 🍇🍌
+
+
+✅🏮🍊🍓 I'll just put in a 🍋 random name, here. 🍇
+
+✅🏮🍊🍓 The actual characters in this game 🍋 all have preset names 🍋 that you can't change. 🍇🍌
+
+
+✅🏮🍊🍓 This seems to have had a 🍋 longer development time, 🍋 compared to the earlier games. 🍇
+
+✅🏮🍊🍓 "Dragon Quest III" 🍋 came out in 1988, 🍊 so there was a 2-year gap 🍋 between "...III" and "...IV". 🍇
+
+✅🏮🍊🍓 And "Dragon Warrior IV" 🍋 (the U.S. version) 🍊 didn't get released 🍋 until October 1992 - 🍊 two and a half years after 🍋 the original Japanese release 🍊 (though, of course, "Dragon Quest III" 🍋 didn't hit the U.S. until '91). 🍇🍌
+
+
+✅🏮🍊🍓 Now, unlike "Dragon Quest III", 🍊 there weren't many changes 🍋 made to the U.S. version; 🍊 it's a... a relatively 🍋 straight localization. 🍇🍌
+
+
+✅🏮🍊🍓 1990 was the year of two great 🍋 FamiCom R.P.G.s: "Dragon Quest IV" 🍊 and "Final Fantasy III" 🍋 (which would be released in April). 🍇
+
+✅🏮🍊🍓 Both were groundbreaking R.P.G.s 🍋 in different ways 🍊 and, when comparing the two, 🍋 we can see how the two series 🍊 are sort of branching off in 🍋 two totally different ways. 🍇
+
+✅🏮🍊🍓 Essentially, "Dragon Quest III" 🍋 innovated with narrative 🍊 by using an unusual 🍋 five-part story structure. 🍇
+
+✅🏮🍊🍓 And "Final Fantasy III" innovated 🍋 with game mechanics - 🍊 by creating an extremely flexible 🍋 and customizable job system. 🍇🍌
+
+
+✅🏮🍊🍓 Over the years, the core 🍋 mechanics of 'Dragon Quest' 🍊 don't really change that much, 🍊 though the game will always 🍋 throw a couple curve balls at you. 🍇
+
+✅🏮🍊🍓 But it always feels familiar 🍊 and, today, new 'Dragon Quest' games 🍋 impart a feeling of nostalgia, 🍊 but with 'Final Fantasy' 🍋 everyone gets upset 🍊 because each new 'Final Fantasy' game 🍋 changes the whole thing around. 🍇
+
+✅🏮🍊🍓 If you loved "Final Fantasy VII" 🍊 ya might hate "Final Fantasy VIII" 🍋 or "...XII" or... or "...XIII" - 🍋 or all of them! 🍇🍌
+
+
+✅🏮🍊🍓 So "Dragon Quest IV"'s 🍋 main thing is that, 🍊 rather than being one 🍋 long unbroken narrative, 🍊 (like most J.R.P.G.s of the time) 🍊 it's five separate chapters - 🍋 each with a different protagonist. 🍇
+
+✅🏮🍊🍓 Though, in practicality, 🍋 it feels more like four prologues 🍊 followed by the actual main game). 🍇🍌
+
+
+✅🏮🍊🍓 There are a lot of charming little 🍋 grace notes throughout the game 🍊 - like this old dude waiting outside 🍋 the castle who offers to join you. 🍇
+
+✅🏮🍊🍓 Though he walks so slowly that 🍋 you'll have to stop every few 🍋 steps to wait for him to catch up 🍊 - and, no, you can't actually take him 🍋 along with you on your quest. 🍇
+
+✅🏮🍊🍓 He'll follow you around the town 🍊 but when you exit and 🍋 head out onto the World Map 🍊 he'll automatically disappear 🍋 and return back to his spot, 🍋 outside the castle. 🍇🍌
+
+
+✅🏮🍊🍓 Now, I can't blame people for 🍋 not wanting to play through 🍊 "Dragon Warrior IV", 🍋 in this day and age. 🍇
+
+✅🏮🍊🍓 It is soul-crushingly relentless 🍋 and incredibly long. 🍇
+
+✅🏮🍊🍓 And the inventory system... 🍋 Ooh boy! 🍇
+
+✅🏮🍊🍓 We'll talk about that later. 🍇🍌
+
+
+✅🏮🍊🍓 So, Part 1 has you playing as Ragnar 🍋 - a soldier in the Burland army. 🍇
+
+✅🏮🍊🍓 I assume he's a commander of some sort, 🍊 since he has different armor 🍋 and wears this, uh, plumed helmet. 🍇🍌
+
+
+✅🏮🍊🍓 In town, you will find the normal 🍋 'Dragon Quest' Shops 🍊 (Items, Weapon, and Armor Shops). 🍇
+
+✅🏮🍊🍓 Many of the items and equipment are 🍋 just carried over from the earlier games. 🍇🍌
+
+
+✅🏮🍊🍓 So, your standard 🍋 usable items are all here 🍊 (Medicinal Herbs, Antidote Herbs, 🍋 Full Moon Herbs, Fairy Water, 🍋 Seeds that increase your stats...). 🍇
+
+✅🏮🍊🍓 For armor, we have Leather Armor, 🍋 Half Plate Armor, Full Plate Armor, 🍊 Dragon Mail, Iron Masks, and so on - 🍋 all returning from "Dragon Quest III". 🍇
+
+✅🏮🍊🍓 And returning weapons include the 🍋 Copper Sword, the Poison Needle, 🍊 the Battle Axe, the Broad Sword, 🍋 [Dragon] Killer, Chain Sickle, 🍊 as well as various cursed weapons 🍋 like the Multi-Edge Sword. 🍇🍌
+
+
+✅🏮🍊🍓 So when you walk up to a Shop 🍋 for the first time, 🍊 you'll be familiar with 🍋 most of the stuff on sale. 🍇
+
+✅🏮🍊🍓 "Dragon Quest IV" does replace a lot 🍋 of the higher-end items, however. 🍇
+
+✅🏮🍊🍓 It introduces the powerful 🍋 Metal Babble Sword and Armor 🍊 (though later games would actually 🍋 translate these as 'Liquid Metal' 🍋 items rather than 'Metal Babble'). 🍇🍌
+
+
+✅🏮🍊🍓 So the game starts you out 🍋 in the middle of a crisis; 🍊 children are disappearing 🍋 and it's your job to investigate. 🍇🍌
+
+
+✅🏮🍊🍓 The pattern of the game is [pretty] 🍋 similar to the previous games: 🍊 talk to everyone in town; 🍊 if there's a castle you'll need to 🍋 wander around and find various items, 🍋 hidden in pots and dresser drawers. 🍇
+
+✅🏮🍊🍓 You'll also see these tantalizingly 🍋 out-of-reach treasure chests 🍊 that are visible 🍋 behind locked doors. 🍇
+
+✅🏮🍊🍓 You then go outside, out-of-town, 🍋 walk around in circles to gain a few levels. 🍇🍌
+
+✅🏮🍊🍓 Once you're strong enough to deal 🍋 with the slightly tougher monsters 🍋 between you and the next town, 🍊 you can then head out to that town, 🍋 and then kind of repeat the whole 🍋 process over and over again. 🍇🍌
+
+
+✅🏮🍊🍓 You'll talk to villagers 🍋 who will give you clues, 🍊 as to the location of 🍋 a nearby dungeon. 🍇
+
+✅🏮🍊🍓 There is typically some kind of quest item 🍋 and a Boss at the bottom of each dungeon. 🍇
+
+✅🏮🍊🍓 Then the next area is unlocked 🍋 and you keep going 🍊 (typically alternating between 🍋 town and dungeon). 🍇🍌
+
+
+✅🏮🍊🍓 Each 'Dragon Quest' game, so far, 🍋 has added on a bit more plot 🍋 than the previous one. 🍇
+
+✅🏮🍊🍓 So "Dragon Quest IV" has quite a 🍋 lot of story and a lot of characters 🍊 (much more so than "Dragon Quest III" 🍋 or stuff like "Glory of Hercules"). 🍇🍌
+
+
+✅🏮🍊🍓 So, anyway, 🍋 about those lost kids... 🍇
+
+✅🏮🍊🍓 A missing husband has also been 🍋 reported, back in Burland. 🍇🍌
+
+
+✅🏮🍊🍓 In a nearby town, you'll find 🍋 this mysterious guy in jail, 🍋 who's lost his memory. 🍇
+
+✅🏮🍊🍓 (There's a lot of jail cells in 🍋 this game, for some reason.) 🍇
+
+✅🏮🍊🍓 Now, could this guy be 🍋 the missing husband? 🍇🍌
+
+
+✅🏮🍊🍓 So if you go back to Burland 🍋 and tell the wife, 🍊 she'll follow you to the jail 🍋 and his memory will return. 🍇
+
+✅🏮🍊🍓 For some reason, he knows the 🍋 location of this hidden playground 🍋 that the local kids are talking about. 🍇
+
+✅🏮🍊🍓 Visiting this will lead you into a 🍋 mysterious underground passage 🍋 to a dungeon. 🍇🍌
+
+
+✅🏮🍊🍓 "Dragon Warrior IV" introduced 🍋 several concepts to the series. 🍇
+
+✅🏮🍊🍓 One of them is 🍋 having friendly monsters 🍋 who will fight on your side. 🍇🍌
+
+
+✅🏮🍊🍓 In this dungeon, 🍋 you will encounter Healie, 🍋 who will join your party. 🍇
+
+✅🏮🍊🍓 Now you can't control Healie in battle; 🍋 he's controlled by the A.I. 🍇
+
+✅🏮🍊🍓 But he's vital, since Ragnar 🍋 doesn't know any magic, 🍊 and Healie can (obviously) 🍋 cast a healing spell. 🍇🍌
+
+
+✅🏮🍊🍓 Eventually, you'll find some 🍋 missing kids in a nearby tower 🍊 and face the first Boss 🍋 who is named 'Saro's Shadow'. 🍇
+
+✅🏮🍊🍓 In later translations of the game, 🍋 he's named 'Saro's Pawn', 🍋 which makes a bit more sense. 🍇
+
+✅🏮🍊🍓 Saro will turn out to be, sort of, 🍋 the main bad guy in this. 🍇🍌
+
+
+✅🏮🍊🍓 Now, while he's dying, he says 🍋 something about trying to kill the Hero. 🍇
+
+✅🏮🍊🍓 That is, there is a prophecy of a young 🍋 man who will defeat the forces of evil, 🍊 so monsters are killing children randomly - 🍋 in hopes of accidentally killing the Hero as well. 🍇🍌
+
+
+✅🏮🍊🍓 After ya drop the rescued kids off, 🍋 you return to Burland 🍊 and inform the King that ya wanna 🍋 go on a quest to find this unknown Hero. 🍇
+
+✅🏮🍊🍓 The King then grants you a bunch 🍋 of Experience Points, just like that. 🍇
+
+✅🏮🍊🍓 Kings can do that? 🍇
+
+✅🏮🍊🍓 Maybe, uh, Lord British from 'Ultima' 🍋 sort of set the tradition in this. 🍇🍌
+
+
+✅🏮🍊🍓 And here Chapter 1 ends 🍋 and now Chapter 2 begins. 🍇🍌
+
+
+✅🏮🍊🍓 In Chapter 2, 🍋 you take control of Alena - 🍊 a tomboy princess who 🍋 wants to go adventuring 🍊 but whose father, the King, 🍋 refuses to let her leave the castle. 🍇
+
+✅🏮🍊🍓 You need to spend a bit of time, 🍋 exploring the castle 🍋 and talking to everyone. 🍇
+
+✅🏮🍊🍓 Eventually, you'll be able to 🍋 break a hole in your bedroom wall, 🍊 jump onto the roof, and escape. 🍇🍌
+
+
+✅🏮🍊🍓 Now, I have, sort of, a problem 🍋 with the sprites in this episode; 🍊 the orange pixels below Alena's 🍋 chin looks like a beard to me 🍊 so she makes me think of some, like, 🍋 Highlander warrior dude or something. 🍇
+
+✅🏮🍊🍓 Here's the official character art and... 🍋 Yeah, I don't see the resemblance at all. 🍇🍌
+
+
+✅🏮🍊🍓 Then there's her two loyal 🍋 retainers, Brey and Cristo. 🍇
+
+✅🏮🍊🍓 And when I see Cristo's sprite, 🍋 I can [only] think of him as being, like, 🍊 this redneck dude with a beard 🍋 and kind of unkempt hair, 🍊 wearing a trucker hat and 🍋 a shirt with the sleeves torn off. 🍇
+
+✅🏮🍊🍓 But, no, this is what 🍋 he's supposed to look like. 🍇🍌
+
+
+✅🏮🍊🍓 On the other hand, 🍋 Brey's sprite is [pretty] accurate. 🍇
+
+✅🏮🍊🍓 Both Brey and Cristo 🍋 are magic users, 🍊 so you'll get helpful spells 🍋 for healing, attacking, 🍊 and teleporting back to a 🍋 village that you visited earlier. 🍇
+
+✅🏮🍊🍓 This spell 🍋 ('Return', as the game calls it) 🍊 will be used a lot 🍋 in the last episode. 🍇🍌
+
+
+✅🏮🍊🍓 After screwing around a little 🍋 on the overworld, 🍊 when you come back to the castle 🍋 the King has lost the ability to talk. 🍇
+
+✅🏮🍊🍓 And, of course, there's a guy out there 🍋 somewhere who knows what the cure is. 🍇
+
+✅🏮🍊🍓 Eventually you'll find him 🍋 in a nearby castle. 🍇🍌
+
+
+✅🏮🍊🍓 Once you find the Birdsong Nectar 🍊 and bring it back to 🍋 the King to cure him, 🍊 he gives you permission 🍋 to go out exploring. 🍇
+
+✅🏮🍊🍓 You head out to a nearby castle, Endor, 🍋 where a tournament is being held - 🍊 the winner of which will 🍋 get to marry the princess. 🍇
+
+✅🏮🍊🍓 The princess doesn't wanna marry 🍋 any of the contestants, 🍋 so she wants Alena to win - 🍊 since a female winner [of] the 🍋 tournament would be disqualified 🍋 from marrying the princess. 🍇🍌
+
+
+✅🏮🍊🍓 The arena is, like, a huge 🍋 building behind the castle; 🍊 and you can enter the main door 🍋 and watch the tournament for a bit. 🍇
+
+✅🏮🍊🍓 Eventually you will need to actually 🍋 enter the tournament, as a contestant. 🍇
+
+✅🏮🍊🍓 And, to win, you'll need to 🍋 defeat five opponents - 🍊 and then you must defeat 🍋 the current champion 🍊 (a mysterious and extremely 🍋 powerful dude named Necrosaro). 🍇🍌
+
+
+✅🏮🍊🍓 Now, the first guy is 🍋 this wimp, named Hun. 🍇🍌
+
+
+✅🏮🍊🍓 And the second is this sort of 🍋 anime-lookin' dude called Roric. 🍇
+
+✅🏮🍊🍓 Alena doesn't know magic, 🍋 but, between fights, 🍊 you can use your stock of medicinal 🍋 herbs to refill your Health Points. 🍇🍌
+
+
+✅🏮🍊🍓 Your [third] opponent 🍋 is a sexy witch, 🍊 who can hit you with 🍋 some powerful magic. 🍇🍌
+
+
+✅🏮🍊🍓 And then there's this guy. 🍇
+
+✅🏮🍊🍓 The 'Dragon Quest' games 🍋 reuse sprites a lot 🍊 and this is just the standard sprite 🍋 for the Knight style of enemy, 🍊 which had appeared 🍋 in previous games. 🍇🍌
+
+
+✅🏮🍊🍓 The fifth enemy 🍊 (which is just the standard 🍋 'Dragon Quest' Yeti sprite) 🍊 is incredibly annoying, since he 🍋 creates three identical duplicates 🍊 and they switch places 🍋 after every turn. 🍇
+
+✅🏮🍊🍓 And there's actually no way to 🍋 distinguish the real one from the fakes, 🍊 so you have an exactly 25% chance of 🍋 hitting the real enemy when you attack. 🍇
+
+✅🏮🍊🍓 And this jerk sticks out his tongue 🍋 at you, whenever you miss. 🍇🍌
+
+
+✅🏮🍊🍓 Finally it's time to fight 🍋 the fearsome Necrosaro. 🍇
+
+✅🏮🍊🍓 But he doesn't show up 🍋 and you win by default. 🍇🍌
+
+
+✅🏮🍊🍓 Then things start 🍋 getting a bit weird. 🍇
+
+✅🏮🍊🍓 When you return home, to your castle, 🍊 it's completely empty 🍋 - other than the cat. 🍇
+
+✅🏮🍊🍓 There is really nothing 🍋 to do here in the castle 🍊 so, once you leave, 🍋 the episode ends. 🍇🍌
+
+
+✅🏮🍊🍓 The third episode is probably 🍋 the most interesting, 🍋 at least at a purely formal level, 🍊 as much of your goal involves 🍋 stockpiling money, 🍊 rather than finding quest items 🍋 or defeating monsters. 🍇🍌
+
+
+✅🏮🍊🍓 Talking to this guy will get you 🍋 started on making some cash. 🍇
+
+✅🏮🍊🍓 He wants you to push him 🍋 to the House of Healing. 🍇
+
+✅🏮🍊🍓 That's the building which 🍋 looks like a church, 🍊 where the priest will cure you 🍋 of poison or other ailments. 🍇
+
+✅🏮🍊🍓 Just about every town has one. 🍇🍌
+
+✅🏮🍊🍓 If you're playing on 🍋 the original hardware, 🍊 these are very important 🍋 because this is the [only] place 🍋 you can save your game. 🍇🍌
+
+
+✅🏮🍊🍓 And pushing this guy there can 🍋 actually be a huge pain in the ass. 🍇
+
+✅🏮🍊🍓 Damn it. 🍇
+
+✅🏮🍋🍓 Okay, let's try again. 🍇
+
+✅🏮🍊🍓 Oh, come on! 🍇
+
+✅🏮🍊🍓 Maybe this dude just 🍋 isn't worth the trouble. 🍇🍌
+
+
+✅🏮🍊🍓 Taloon is probably the most popular 🍋 character from "Dragon Quest IV". 🍇
+
+✅🏮🍊🍓 He's appeared in a few 🍋 spin-off games of his own. 🍇
+
+✅🏮🍊🍓 He's a hard-working family man 🍋 who just wants to achieve 🍋 success in his business. 🍇🍌
+
+
+✅🏮🍊🍓 Sounds relatable, but his goal 🍋 is to become the most 🍋 successful arms merchant. 🍇
+
+✅🏮🍊🍓 Yeah, so Taloon [wants to] 🍋 become a war profiteer. Yikes! 🍇🍌
+
+
+✅🏮🍊🍓 Well, Taloon starts out 🍋 working the counter at 🍋 someone else's weapons store. 🍇
+
+✅🏮🍊🍓 And this is how you 🍋 start making money. 🍇
+
+✅🏮🍊🍓 It's incredibly repetitive, 🍋 even by 8-bit J.R.P.G. standards. 🍇🍌
+
+
+✅🏮🍊🍓 You just answer everyone's question 🍋 about whether or not this is a weapon store 🍊 and then sell them 🍋 the weapon they want. 🍇
+
+✅🏮🍊🍓 You do this until the sun 🍋 goes down and the shop closes. 🍇
+
+✅🏮🍊🍓 Your Boss pays you; 🍋 then you go home and sleep. 🍇🍌
+
+
+✅🏮🍊🍓 It's annoying and boring and 🍋 I'm not sure why it's in the game. 🍇
+
+✅🏮🍊🍓 Is this some kind of commentary 🍋 on the drudgery of working retail - 🍊 or some kind of commentary on the 🍋 mindless repetitive nature of J.R.P.G.s? 🍇
+
+✅🏮🍊🍓 Like you're just hitting a button 🍋 over and over again? 🍇🍌
+
+
+✅🏮🍊🍓 Did they legitimately think 🍋 players would enjoy this? 🍇
+
+✅🏮🍊🍓 I'm not really sure. 🍇🍌
+
+
+✅🏮🍊🍓 Once ya have some money 🍋 to buy weapons and armor, 🍋 you can go out and start grinding. 🍇
+
+✅🏮🍊🍓 The nice thing about Taloon 🍋 is that he lives in the town, 🍊 so he can sleep at home 🍋 instead of at the Inn. 🍇
+
+✅🏮🍊🍓 And also his wife packs 🍋 him a lunch every day, 🍊 which will restore Health Points 🍋 when he eats it - 🍊 so he doesn't really have to 🍋 spend money on Inns or Herbs. 🍇🍌
+
+
+✅🏮🍊🍓 Unlike the other characters, 🍋 Taloon doesn't really have any 🍋 companions for his travels. 🍇
+
+✅🏮🍊🍓 He can, however, hire this 🍋 mercenary to accompany him. 🍇🍌
+
+
+✅🏮🍊🍓 Taloon's money-making quest 🍋 begins, in earnest, 🍊 when this rich collector dude in Endor 🍋 wants him to find a rare statue. 🍇
+
+✅🏮🍊🍓 After a quick trip to the local dungeon, 🍊 Taloon sells him the statue for 🍋 a whopping 25,000 Gold pieces. 🍇
+
+✅🏮🍊🍓 This allows him to buy a shop 🍋 from an old dude in town, 🍋 who wants to retire. 🍇🍌
+
+
+✅🏮🍊🍓 Because of the increased number 🍋 of monsters roaming around, 🍊 the King of Endor needs 🍋 more weapons and armor - 🍊 and places an order with Taloon. 🍇
+
+✅🏮🍊🍓 In this rather annoying 🍋 section of the game, 🍊 you'll need to either get 🍋 the necessary Broad Swords 🍊 and Half Plate Armors 🍋 from a nearby dungeon 🍊 (where the monsters 🍋 often drop them) 🍊 or just by fighting monsters 🍋 and getting enough Gold to 🍋 buy this stuff in a nearby town. 🍇🍌
+
+
+✅🏮🍊🍓 And I guess maybe, at some point, 🍊 I should bring up "Dragon Warrior IV"'s 🍋 downright obnoxious inventory system. 🍇
+
+✅🏮🍊🍓 Each character can hold eight items 🍊 (and this includes the armor and 🍋 weapons that you have equipped). 🍇
+
+✅🏮🍊🍓 So the weapon, body armor, 🍋 helmet, and shield is four items. 🍇
+
+✅🏮🍊🍓 There's typically a quest item or 🍋 two which you cannot drop or sell 🍊 (maybe you have a lunch 🍋 or a medicinal herb). 🍇🍌
+
+
+✅🏮🍊🍓 And, after all this, 🍋 you basically got one or 🍋 two inventory slots left, 🍊 so you cannot carry a lot of loot 🍋 out from a dungeon crawl. 🍇
+
+✅🏮🍊🍓 I mean, you can use your 🍋 healing item, then head on out, 🍊 hoping you get a good drop 🍋 along the way; 🍊 and you'll probably carry out two 🍋 good items, dropped by monsters. 🍇
+
+✅🏮🍊🍓 But, yeah, the extremely 🍋 limited inventory space 🍊 is a major source of 🍋 annoyance in this game. 🍇🍌
+
+
+✅🏮🍊🍓 Okay, so, once you've 🍋 finally filled the order, 🍊 the King pays you 🍋 60,000 Gold pieces, 🍊 which will then be needed 🍋 to complete the construction 🍋 of an undersea tunnel 🍊 that will allow people to travel 🍋 from one continent to another. 🍇
+
+✅🏮🍊🍓 Once this is done and 🍋 Taloon enters the tunnel, 🍋 the chapter is over. 🍇🍌
+
+
+✅🏮🍊🍓 But before that, 🍋 we'll point out that in Endor 🍋 there's a Casino that has opened 🍊 (and, yes, "Dragon Quest IV" 🍋 introduces everyone's favorite 🍋 part of the series - gambling). 🍇
+
+✅🏮🍊🍓 Now, you're not exactly 🍋 gambling for money, here. 🍇
+
+✅🏮🍊🍓 I mean, yes, you have to 🍋 spend money to purchase chips 🍊 (or 'coins' as the game 🍋 confusingly calls them). 🍇🍌
+
+
+✅🏮🍊🍓 If you end up winning a lot of chips, 🍋 you can trade them in for rare items. 🍇
+
+✅🏮🍊🍓 Most notable are 🍋 the Meteorite Armband and 🍋 the Metal Babble Shields 🍊 (which are the best 🍋 shields in the game). 🍇
+
+✅🏮🍊🍓 If you're playing on an emulator 🍋 and don't mind a time-saving cheat, 🍊 you can use save states to make 🍋 a bundle of cash very quick 🍊 by playing double-or-nothing poker. 🍇🍌
+
+
+✅🏮🍊🍓 Okay, so once Taloon marches 🍋 into the tunnel, the chapter ends. 🍇🍌
+
+
+✅🏮🍊🍓 And we are now at Chapter 4: 🍋 The Sisters of Monbaraba. 🍇🍌
+
+
+✅🏮🍊🍓 And the thing about this game is: 🍊 if your favorite part of J.R.P.G.s 🍋 are the early parts 🍊 (where you have no good weapons, 🍋 and you have 10 Hit Points, 🍊 and you have to spend an hour 🍋 killing Slimes and Gophers, 🍊 and sleeping in the Inn 🍋 after every few battles) 🍊 then, this is the game for you, 🍋 because you have to do that five times 🍊 - once every time 🍋 a new chapter starts. 🍇🍌
+
+
+✅🏮🍊🍓 Mara and Nara are the two sisters, 🍋 out to avenge the death of their father 🍊 by one of his students 🍋 (a guy named 'Balzack'). 🍇
+
+✅🏮🍊🍓 The Japanese name 🍋 was, like, Baruzakku 🍊 so I assume it's a direct 🍋 reference to the French author 🍊 but it's funny because 🍋 it sounds like 'ball sack'. 🍇🍌
+
+
+✅🏮🍊🍓 Now, one [of] the sisters is this 🍋 sort of Carmen-esque dancer 🍋 that drives men crazy - 🍊 and then there's 🍋 the more serious one, 🍋 who's a fortune teller. 🍇
+
+✅🏮🍊🍓 I always get them 🍋 mixed up, but I think 🍊 the fortune teller is the fighter 🍋 and the dancer is the magic user. 🍇🍌
+
+
+✅🏮🍊🍓 Much of their episode centers 🍋 around mysterious goings-on 🍋 at the castle of [Keeleon]. 🍇
+
+✅🏮🍊🍓 There's a new mysterious King 🍋 that no one has ever seen. 🍇
+
+✅🏮🍊🍓 They learn that the King 🍋 is, in fact, Balzack 🍊 and that his Counsel 🍋 (or the... the second, uh, in command) 🍊 is scared of loud noises 🍋 and once suddenly disappeared 🍋 when some dynamite went off. 🍇🍌
+
+
+✅🏮🍊🍓 So, will you be able to solve 🍋 the mystery of [Keeleon] castle? 🍇
+
+✅🏮🍊🍓 Yes, you need to go to 🍋 this abandoned mine to 🍋 find a barrel of dynamite. 🍇
+
+✅🏮🍊🍓 And, boy, is this town 🍋 messed up and polluted! 🍇
+
+✅🏮🍊🍓 Everyone is either dead or sick. 🍇🍌
+
+
+✅🏮🍊🍓 The sisters' father's 🍋 former apprentice, Orin, 🍊 agrees to help them 🍋 avenge their dead father. 🍇
+
+✅🏮🍊🍓 And he also tells you that your 🍋 dad had discovered the 🍋 "Secret of Evolution" 🍊 and that Balzack killed 🍋 him and stole the secret. 🍇🍌
+
+✅🏮🍊🍓 Orin provides some 🍋 much-needed support, 🍊 since monsters are [pretty] tough, 🍋 at this stage in the game. 🍇🍌
+
+
+✅🏮🍊🍓 The climax of Episode 4 comes 🍋 when the sisters (and Orin) 🍊 sneak into the castle and 🍋 blow up the barrel of dynamite 🍋 near the Counsel's room. 🍇🍌
+
+✅🏮🍊🍓 You then sneakily follow him 🍋 and discover there's a 🍋 hidden door in the hallway 🍊 and you then enter the hidden 🍋 throne room of Balzack. 🍇
+
+✅🏮🍊🍓 Balzack -- bids you to 🍋 marvel at his superior body 🍊 (which might be [pretty] hot 🍋 if you're a furry?). 🍇
+
+✅🏮🍊🍓 Luckily, you earlier found 🍋 the Sphere of Silence which, 🍋 when used in battle, 🍊 will prevent Balzack from casting 🍋 his rather nasty fireball spell. 🍇🍌
+
+
+✅🏮🍊🍓 Once Balzack is history, his 🍋 supervisor, [Keeleon], shows up 🍊 and decides to deal 🍋 with you, personally. 🍇
+
+✅🏮🍊🍓 This is one of those battles 🍋 that you will automatically lose. 🍇
+
+✅🏮🍊🍓 And I suspect if you used 🍋 a cheat code to defeat him, 🍋 it would break the game. 🍇🍌
+
+
+✅🏮🍊🍓 You wake up in jail 🍋 (fully healed, for some reason). 🍇
+
+✅🏮🍊🍓 Luckily, your cellmate 🍋 (some old dude) 🍊 just happens to 🍋 have a boarding pass, 🍊 which will grant you access 🍋 to a ship in a nearby port. 🍇🍌
+
+
+✅🏮🍊🍓 While escaping, Orin bravely 🍋 sacrifices himself for the sisters. 🍇
+
+✅🏮🍊🍓 Goodbye, Orin, 🍋 I'll never forget your bravery. 🍇
+
+✅🏮🍊🍓 The sisters then need to head on to a 🍋 coastal town and hop onto the ship 🍊 (which you can board, because 🍋 you now have the boarding pass). 🍇🍌
+
+
+✅🏮🍊🍓 The most impressive moment 🍋 of this episode is when 🍊 this giant ship starts moving 🍋 and scrolls right off the screen. 🍇
+
+✅🏮🍊🍓 It travels to Endor 🍊 (that was the same city w... 🍋 where, uh, Taloon has his shop). 🍇
+
+✅🏮🍊🍓 And thus, that's the rather 🍋 downed-hearted ending to Episode 4 - 🍊 the darkest episode 🍋 in the game, so far. 🍇🍌
+
+
+✅🏮🍊🍓 And now the fifth and 🍋 final chapter begins. 🍇
+
+✅🏮🍊🍓 One thing about "Dragon Quest IV" 🍋 is that the World Map is huge 🍊 (larger than "Dragon Quest III"). 🍇
+
+✅🏮🍊🍓 It's not easy to 🍋 find your way around; 🍊 however the U.S. release included 🍋 a very useful fold-out map. 🍇
+
+✅🏮🍊🍓 It also had maps of the dungeons 🍋 for the first four chapters 🍊 (which sounds like cheating - 🍋 but wandering around blind 🍋 in this game is [pretty] painful). 🍇🍌
+
+
+✅🏮🍊🍓 So let's take a look, 🍋 so we can see the context 🍊 in which the game, 🍋 so far, has taken place. 🍇
+
+✅🏮🍊🍓 Episode 1 (Ragnar's story) 🍋 takes place in the, sort of, 🍊 Northern European 🍋 part of the world. 🍇🍌
+
+
+✅🏮🍊🍓 Episode 2 (Alena's episode) 🍋 takes place in the far West. 🍇
+
+✅🏮🍊🍓 At the end of her episode, 🍋 she crosses the sea and goes to 🍋 Endor to fight in the tournament. 🍇
+
+✅🏮🍊🍓 Endor is sort o', like, the 🍋 central location in this game. 🍇🍌
+
+
+✅🏮🍊🍓 For Episode 3, Taloon's hometown 🍋 is on the same landmass as Endor 🍋 - but far to the North. 🍇
+
+✅🏮🍊🍓 A mountain range to the East 🍋 prevents him from 🍋 traveling to Ragnar's turf. 🍇
+
+✅🏮🍊🍓 Taloon, of course, 🍋 sets up shop in Endor 🍊 and then builds a tunnel 🍋 which allows travel to the area 🍋 on the East of the mountains. 🍇🍌
+
+
+✅🏮🍊🍓 In Episode 4, Mara and Nara 🍊 come from a town on the 🍋 South end of this continent 🍋 that looks like South America. 🍇
+
+✅🏮🍊🍓 They end up boarding the ship on 🍋 the NorthEast coast 🍋 and sail towards Endor. 🍇
+
+✅🏮🍊🍓 This leaves [pretty] much the entire 🍋 Eastern half of the world unexplored. 🍇
+
+✅🏮🍊🍓 And there's various islands and such 🍋 that you'll encounter later as well. 🍇🍌
+
+
+✅🏮🍊🍓 Episode 5 basically takes up 🍋 the second half [of] the game 🍊 and begins in this tiny little town, 🍋 hidden in a forest. 🍇🍌
+
+
+✅🏮🍊🍓 Uh-oh! Well, I guess I 🍋 should have picked a better name. 🍇
+
+✅🏮🍊🍓 Okay, so we start here 🍋 with our hero, ABC, 🍊 a young man, living a simple 🍋 life in this tiny hamlet when... 🍇🍌
+
+
+✅🏮🍊🍓 So ABC is hidden in a cellar, 🍋 while a terrible battle rages. 🍇
+
+✅🏮🍊🍓 Eventually he emerges 🍋 and discovers the town has 🍋 been completely destroyed 🍊 and all that's left of 🍋 his girlfriend is her hat 🍋 ([pretty] sad, for an N.E.S. game). 🍇🍌
+
+✅🏮🍊🍓 But this is actually [pretty] good 🍋 dramatic storytelling, here. 🍇🍌
+
+
+✅🏮🍊🍓 Other R.P.G.s of this era have 🍋 somewhat involved stories, 🍊 but the way "Dragon Warrior IV", 🍋 kind of, weaves this narrative 🍋 throughout the game 🍊 (revealing the existence of some 🍋 sort of Chosen One 🍋 near the end of the first episode, 🍊 slowly showing the evil 🍋 machinations of the game's villains, 🍊 and in the final episode 🍋 it brings the entire cast together 🍋 and eventually resolves the plot) 🍊 - it's not easy to do this in the 🍋 format of an 8-bit video game. 🍇🍌
+
+
+✅🏮🍊🍓 On the other hand, 🍋 this game is incredibly long 🍊 and the narrative is dropped 🍋 for long periods of time 🍊 while you wander around, 🍋 fighting monsters 🍋 and exploring dungeons. 🍇
+
+✅🏮🍊🍓 And, honestly, after completing this, 🍋 I was [pretty] confused and had to, 🍊 kinda, look up the plot online 🍋 because I couldn't remember 🍋 exactly who Balzack was 🍊 and what his connection 🍋 to Necrosaro was. 🍇
+
+✅🏮🍊🍓 Because, quite frankly, like, less than, 🍋 like, 1% of this game is dialogue, 🍋 in which you are told what's going on 🍊 - and 99% is just 🍋 grinding for Experience 🍊 or just wandering around aimlessly, 🍋 looking for your next objective. 🍇🍌
+
+
+✅🏮🍊🍓 Okay, so after leaving his 🍋 destroyed home village, 🍊 ABC will find a nearby town 🍋 and the tunnel built by Taloon, 🍊 connecting the two 🍋 parts of the world. 🍇
+
+✅🏮🍊🍓 From there, you go to Endor 🍋 where (as you'll recall) 🍋 Mara and Nara escaped to. 🍇
+
+✅🏮🍊🍓 Running into Nara, 🍋 she will tell your fortune 🍊 and realize that you 🍋 are the Chosen Hero 🍊 who will defeat the forces of evil. 🍇🍌
+
+
+✅🏮🍊🍓 Before too long, you'll find this 🍋 guy in the desert who has a wagon. 🍇
+
+✅🏮🍊🍓 You need to find some item 🍋 at the bottom of a dungeon 🍋 to convince him to join your party, 🍊 but, when he does, he 🍋 brings along the wagon. 🍇🍌
+
+
+✅🏮🍊🍓 Alright, so you're thinkin', 🍊 'A wagon! That's useful for carrying 🍋 supplies and equipment and stuff'. 🍇
+
+✅🏮🍊🍓 'Throughout the game we've been 🍋 loaded up with armor, weapons, 🍋 quest items, healing items, 🍊 and our inventory is very limited 🍋 so we can just carry around 🍋 everything in the wagon, right?' 🍇
+
+✅🏮🍊🍓 'That solves all our 🍋 problems with inventory!' 🍇
+
+✅🏮🍊🍓 'Anything we don't want or need 🍋 [at] the moment can just 🍋 be stowed in the wagon.' 🍇🍌
+
+
+✅🏮🍊🍓 Well, it turns out, 🍋 'No; the wagon doesn't do that; 🍊 we can't actually carry 🍋 anything in the wagon.'. 🍇🍌
+
+
+✅🏮🍊🍓 What's the wagon for? 🍇
+
+✅🏮🍊🍓 Well, by the end of the game, your 🍋 party has expanded to eight members 🍊 and the wagon probably is there 🍋 to avoid having to have 🍊 eight sprites on the screen at once, 🍋 while you're walking around in the overworld. 🍇
+
+✅🏮🍊🍓 So you can have four 🍋 active party members 🍊 (that is they... 🍋 they fight in battles) 🍊 and the other four 🍋 hide out in the wagon. 🍇🍌
+
+
+✅🏮🍊🍓 Regardless, the wagon became a staple 🍋 in future 'Dragon Quest' games. 🍇
+
+✅🏮🍊🍓 You can choose your active party 🍋 by using the 'Tactics' menu 🍊 and then selecting what four 🍋 characters you wanna use. 🍇
+
+✅🏮🍊🍓 This can [only] be done 🍋 in the overworld; 🍊 you can't pu..., ah, pull the 🍋 wagon through dungeons, 🍊 so once you enter a dungeon 🍋 you're stuck with those 🍋 same four characters. 🍇🍌
+
+
+✅🏮🍊🍓 Now, another standard 'Dragon Quest' 🍋 feature introduced here is, uh, 🍊 Tiny Medals (or 'Small Medals' 🍋 as "Dragon Warrior IV" calls them). 🍇
+
+✅🏮🍊🍓 And, yes, each medal you find 🍋 takes up one space in your 🍋 already overly-full inventory. 🍇
+
+✅🏮🍊🍓 The real challenge in 🍋 "Dragon Quest IV" 🍊 is not fighting monsters; 🍋 it's managing inventory space. 🍇🍌
+
+
+✅🏮🍊🍓 Luckily, once ya get the boat, 🍋 you can hypothetically go see 🍊 the Tiny Medal King and 🍋 give him your extra Medals. 🍇
+
+✅🏮🍊🍓 But, the part of the map that he lives in 🍋 has some really tough monsters, 🍊 uh, so you are not probably, at this point, 🍋 strong enough to deal with those. 🍇🍌
+
+
+✅🏮🍊🍓 So, going back to the game's plot, 🍋 none of the ships in this town 🍊 can leave the harbor 🍋 because of an evil lighthouse. 🍇
+
+✅🏮🍊🍓 After you enter the dungeon 🍋 and take care of the lighthouse, 🍊 you meet Taloon, who joins your 🍋 party and... he comes with a ship. 🍇
+
+✅🏮🍊🍓 Much like "Dragon Quest III", 🍋 you have forms of sea 🍋 and air transportation. 🍇🍌
+
+
+✅🏮🍊🍓 Next, you'll run into 🍋 Alena, Brey, and Cristo. 🍇
+
+✅🏮🍊🍓 You need to get some special item 🍋 to cure Cristo of some disease. 🍇
+
+✅🏮🍊🍓 Then, once Alena realizes you're 🍋 the... the Chosen Hero guy, 🍋 they join your party. 🍇🍌
+
+
+✅🏮🍊🍓 So, moving right along, 🍋 you end up heading back to [Keeleon] 🍊 (that's the castle where Mara 🍋 and Nara defeated Balzack). 🍇
+
+✅🏮🍊🍓 Turns out [Ragnar] 🍋 (your character from Episode 1) 🍋 is being kept there, as a prisoner. 🍇
+
+✅🏮🍊🍓 So you must, 🍋 once again, fight [Keeleon] 🍊 but, by now, your four-character 🍋 party is [pretty] buff 🍊 and you will totally be 🍋 able to take this guy on. 🍇🍌
+
+
+✅🏮🍊🍓 "Dragon Quest IV" was something 🍋 of a turning point, for the series. 🍇
+
+✅🏮🍊🍓 It introduced a number of elements 🍋 that were reused in later games - 🍊 and "...IV", "...V", and "...VI" are, sort of, 🍋 uh, grouped together as a trilogy. 🍇🍌
+
+
+✅🏮🍊🍓 It's also the first 'Dragon Quest' game 🍋 to sell fewer copies than its predecessor. 🍇
+
+✅🏮🍊🍓 "Dragon Quest V" sold even fewer 🍋 (though, of course, it still sold 🍋 very well, comparatively). 🍇
+
+✅🏮🍊🍓 But it wasn't until the massively 🍋 successful "Dragon Quest VII" in 2000 🍊 that the series was able to beat 🍋 the sales of "Dragon Quest III". 🍇
+
+✅🏮🍊🍓 I assume it was "Dragon Warrior IV"'s 🍋 lowest sales in the United States 🍊 that resulted in Enix not releasing 🍋 either of the 16-bit games here. 🍇🍌
+
+
+✅🏮🍊🍓 Perhaps encouraged by the 🍋 success of "Dragon Quest VII" 🍊 a Playstation remake of 🍋 "Dragon Quest IV" was 🍋 released in 2001, in Japan. 🍇
+
+✅🏮🍊🍓 Various changes were 🍋 made to this version; 🍊 for example there's a prologue, 🍋 taking place in the Hero's village. 🍇
+
+✅🏮🍊🍓 This was added on to 🍋 the game's beginning; 🍊 and an additional episode 🍋 was added on to the end. 🍇🍌
+
+
+✅🏮🍊🍓 Then, in 2007, the Playstation 🍋 version was ported to the [DS] 🍊 and released in North America 🍋 the next year. 🍇
+
+✅🏮🍊🍓 This might be the best way 🍋 to play "Dragon Quest IV". 🍇
+
+✅🏮🍊🍓 The menus and interfaces 🍋 have all been improved 🍊 and in Episode 5 you can 🍋 control all of your party 🍊 members in battle 🍋 (not just the Hero). 🍇
+
+✅🏮🍊🍓 We'll talk a bit more about 🍋 that in a few minutes. 🍇🍌
+
+
+✅🏮🍊🍓 So, once you've gathered up your 🍋 entire eight-member crew, 🍊 your next objective is to obtain 🍋 the [Zenithian] equipment set. 🍇
+
+✅🏮🍊🍓 This requires you to explore 🍋 the rest of the World Map - 🍊 and there's a good eight dungeons 🍋 or so in the rest of the game. 🍇
+
+✅🏮🍊🍓 The entire game has 🍋 around 25 dungeons 🍊 and, if we check our World Map, 🍋 there are a total of 58 locations 🍋 that are noted, so this is a huge game. 🍇🍌
+
+
+✅🏮🍊🍓 If you take a look at 🍋 the map, at this point, 🍊 you'll notice that some 🍋 regions (like Elfville) 🍊 are completely 🍋 surrounded by mountains 🍊 and cannot be reached 🍋 by foot or ship. 🍇
+
+✅🏮🍊🍓 So how're ya gonna get there? 🍋 Hmm... 🍇🍌
+
+
+✅🏮🍊🍓 Now also there are (I think) 🍋 four keys to find in this game(?). 🍇
+
+✅🏮🍊🍓 Each kind opens 🍋 more types of doors. 🍇
+
+✅🏮🍊🍓 The last key we find 🍋 is called the Final Key 🍊 and allows us to 🍋 open the prison doors. 🍇
+
+✅🏮🍊🍓 So you'll need to go back to every 🍋 location that had a prison door 🍋 and grab any goodies found inside. 🍇🍌
+
+
+✅🏮🍊🍓 And inside these treasure chests 🍋 you'll find money and, uh, 🍋 valuable or rare weapons and armor. 🍇
+
+✅🏮🍊🍓 Now, I won't bore you 🍋 with all the specifics of the 🍋 late-game "Dragon Warrior IV", 🍊 so let's discuss the rather 🍋 irritating mechanics of this game. 🍇🍌
+
+
+✅🏮🍊🍓 First of all, the menus. 🍇
+
+✅🏮🍊🍓 Oh, good Lord! 🍇
+
+✅🏮🍋🍓 Chunsoft just loves menus. 🍇🍌
+
+
+✅🏮🍊🍓 Need to open a door? 🍇
+
+✅🏮🍊🍓 Press the Menu button, 🍋 use the D-Pad to select Door, 🍋 and then Open the door. 🍇
+
+✅🏮🍊🍓 Wanna open a chest 🍋 or look inside a drawer or a pot? 🍇
+
+✅🏮🍊🍓 Open the Menu, 🍋 go down to Search, 🍊 then hit the button to check 🍋 if there's an item inside. 🍇🍌
+
+
+✅🏮🍊🍓 This doesn't sound too bad, 🍋 but keep in mind 🍊 there are a countless number of 🍋 drawers, jars, and chests in this game. 🍇
+
+✅🏮🍊🍓 If you're trying to get 🍋 all the Tiny Medals 🍊 and helpful items 🍋 hidden in this game 🍊 then you are gonna be 🍋 spending a lot of time 🍊 navigating this menu 🍋 over and over again. 🍇🍌
+
+
+✅🏮🍊🍓 Inventory management is even worse. 🍇
+
+✅🏮🍊🍓 As I mentioned, 🍋 each character has eight slots - 🍊 of which four will [pretty] much 🍋 always be taken up by their 🍋 equipped weapons and armor. 🍇
+
+✅🏮🍊🍓 If you've given them 🍋 a Meteorite Armband, 🍊 then you [only] have 🍋 three empty slots. 🍇🍌
+
+
+✅🏮🍊🍓 Quest items cannot be dropped 🍋 but they can be stored 🍋 at Taloon's old shop in Endor. 🍇🍌
+
+✅🏮🍊🍓 But, even so, 🍋 at any point in the game 🍊 you'll probably have at least 🍋 a couple undroppable items 🍋 in your inventory. 🍇
+
+✅🏮🍊🍓 So, when going through a dungeon, 🍋 your inventory can get full [pretty] quick - 🍊 so you'll often need to move items 🍋 from character to character 🍊 (especially when the Chosen One 🍋 needs to equip something). 🍇🍌
+
+✅🏮🍊🍓 His inventory is 🍋 almost always full, since 🍊 (unless you move him to 🍋 a lower spot in the lineup) 🍊 any items found will automatically 🍋 go into his inventory - until it fills up). 🍇🍌
+
+
+✅🏮🍊🍓 To move items, you need to 🍋 open the Menu, select Items, 🍊 choose the character who has the 🍋 item that you want to move, 🍊 select the item, select Transfer, 🍋 then select the person 🍋 you wanna transfer it to. 🍇
+
+✅🏮🍊🍓 Performing an action like 🍋 this will close the Menu, 🍊 so if you want to 🍋 then Equip the item or 🍋 transfer another item, 🍊 you will need to reopen the Menu 🍋 and go through the whole 🍋 procedure for every item. 🍇
+
+✅🏮🍊🍓 [Pretty] much everything 🍋 (except for just walking around) 🍋 is done via Menus in this game. 🍇🍌
+
+
+✅🏮🍊🍓 A game that's this long will 🍋 make you despise these Menus. 🍇
+
+✅🏮🍊🍓 You will consider the Menu to be 🍋 your worst enemy in this game. 🍇🍌
+
+
+✅🏮🍊🍓 I mean, let me tell you, 🍋 if you were to play 🍋 "Dragon Warrior IV" 🍊 and then start "Final Fantasy III" 🍋 (that is - the, uh, FamiCom version) 🍊 when you come across 🍋 the first chest in that game 🍊 and you realize you can open it and 🍋 take the item with one button press, 🍊 let me tell you, 🍋 you will be eternally grateful 🍋 to not have to go through 🍊 "Dragon Quest IV" Menu-Hell 🍋 a second time. 🍇🍌
+
+
+✅🏮🍊🍓 One other very bizarre thing 🍋 about "Dragon Warrior IV" 🍋 is the combat in Episode 5. 🍇
+
+✅🏮🍊🍓 I assume this was done to 🍋 make the game go by faster, 🍊 but you [only] control the Hero 🍋 (ABC, here). 🍇
+
+✅🏮🍊🍓 All the other characters 🍋 are controlled by the A.I. 🍇🍌
+
+
+✅🏮🍊🍓 Now, the combat in this game 🍋 is very simple. 🍇
+
+✅🏮🍊🍓 It's basically 🍋 'press the A Button 🍋 over and over again' 🍊 but there are definitely times 🍋 when the A.I. character 🍊 does whatever the hell it wants to 🍊 (including using magic that will 🍋 be ineffective on the enemy). 🍇🍌
+
+
+✅🏮🍊🍓 For example, the Beat and Defeat 🍋 skills are insta-kill spells, 🍊 which means that [pretty] much all 🍋 Bosses are immune to them - 🍊 but your magic-casters 🍋 don't know that. 🍇
+
+✅🏮🍊🍓 Cristo, in particular, loves to 🍋 use Beat over and over again. 🍇
+
+✅🏮🍊🍓 Or he'll use fire attacks 🍋 on fire-based enemies 🍊 (which typically does no damage). 🍇🍌
+
+
+✅🏮🍊🍓 Sometimes characters will 🍋 Defend rather than Attack, 🍋 for no good reason. 🍇
+
+✅🏮🍊🍓 And there are times 🍋 when you really, really wish 🍋 that they would heal the party 🍊 but they just keep using 🍋 worthless spell attacks instead, 🍊 so often it's up to you 🍋 to keep the party healed. 🍇🍌
+
+
+✅🏮🍊🍓 Now, there's, like, 🍋 supposedly this A.I. system 🍊 that allows them to 🍋 learn whether or not 🍊 to use a spell on the enemy 🍋 after trying three times, I think. 🍇
+
+✅🏮🍊🍓 But, regardless, a lot of turns get 🍋 wasted by your A.I.-controlled members. 🍇🍌
+
+
+✅🏮🍊🍓 Another common issue is that when 🍋 you select the Hero's target, 🍊 if he doesn't attack first, 🍋 sometimes an A.I. party member 🍊 will choose to attack the 🍋 Hero's target and kill it 🍊 (which thus wastes 🍋 the Hero's turn). 🍇
+
+✅🏮🍊🍓 Unlike 'Final Fantasy', 🍋 your characters will not 🍊 re-target a different 🍋 enemy, in this situation. 🍇
+
+✅🏮🍊🍓 Now, you can use 🍋 a Game Genie code 🍊 to allow control over all the 🍋 party members in Episode 5 🍊 and this will certainly, at the least, 🍊 lower your blood pressure 🍋 during Boss battles. 🍇🍌
+
+
+✅🏮🍊🍓 Now, on the positive side, 🍋 "Dragon Warrior IV" does have 🍊 a [pretty] sophisticated narrative, 🍋 for an 8-bit R.P.G. 🍇
+
+✅🏮🍊🍓 The fact that you often find 🍋 yourself returning to areas 🍋 you've visited in the... before 🍊 gives the world, sort of, 🍋 a more cohesive feel. 🍇🍌
+
+
+✅🏮🍊🍓 Especially near the end [of] the game, it 🍋 introduces some creative environments 🍊 - such as a dungeon, 🍋 in the form of a giant statue. 🍇
+
+✅🏮🍊🍓 You can go outside in a couple places 🍊 (like here you can 🍋 access the statue's hand). 🍇
+
+✅🏮🍊🍓 You need to make your way 🍋 to the top [of] the statue 🍊 and activate its controls, 🍋 in order to move it. 🍇🍌
+
+
+✅🏮🍊🍓 Huh. 🍇
+
+✅🏮🍊🍓 So is that thing, sticking out of 🍋 the front of the statue, its dick? 🍇🍌
+
+
+✅🏮🍊🍓 Anyway, once you move it, 🍋 you can travel to a previously 🍋 [inaccessible] part of the world. 🍇🍌
+
+
+✅🏮🍊🍓 Another clever moment: 🍊 once you get the 🍋 Staff of Transformation, 🍊 you can change into monsters 🍊 - and you'll need to do this, 🍋 in order to infiltrate this castle 🍊 and attend a meeting of the bad guys, 🍋 including Necrosaro himself. 🍇
+
+✅🏮🍊🍓 I think this might be the first 🍋 point in the game where you 🍋 actually see Necrosaro. 🍇
+
+✅🏮🍊🍓 An ancient evil being, 🍋 named Esturk, has been awoken. 🍇
+
+✅🏮🍊🍓 And, I'll admit, 🍋 I can't really make any sense 🍋 out of Necrosaro's sprite here, 🍊 but according to the 🍋 official art, he looks like this. 🍇
+
+✅🏮🍊🍓 And, naturally, your next move 🍋 is to go out and whack Esturk. 🍇🍌
+
+
+✅🏮🍊🍓 The art by Akira Toriyama is, as usual, 🍋 one [of] the highlights of the game. 🍇
+
+✅🏮🍊🍓 His monster designs often sit on 🍋 the fence between cute and creepy 🍊 and his cartoonish art style 🍋 is well-suited to the 🍋 8-bit graphics of the N.E.S. 🍇🍌
+
+
+✅🏮🍊🍓 Now, this game reuses 🍋 a number of enemies 🍋 from previous games, 🍊 such as the series mascot - 🍋 the humble Blue Slime 🍊 - and its rarely-encountered 🍋 cousin, the Metal Slime, 🍊 which is hard-to-hit, 🍋 almost always runs away, 🍊 but it does drop huge 🍋 amounts of Experience, 🍋 if you successfully kill it. 🍇
+
+✅🏮🍊🍓 A lot of old favorites (such as Trolls, 🍋 Zombies, Toxic Toads) are missing 🍊 but it does introduce some 🍋 important new monsters, 🍋 like the King Slime 🍊 and the Metal King Slime 🍋 (who is tough as hell but drops a 🍋 buttload of Experience Points). 🍇🍌
+
+
+✅🏮🍊🍓 As the game winds up, 🍋 ya find yourself 🍋 with a hot air balloon. 🍇
+
+✅🏮🍊🍓 This allows you to travel to [pretty] much 🍋 every remaining place on the map 🍊 (like Elfville - that elusive spot, 🍋 surrounded by mountains). 🍇🍌
+
+
+✅🏮🍊🍓 You'll find the final piece of [Zenithian] Armor 🍋 here, stuck in this giant tree. 🍇
+
+✅🏮🍊🍓 And, again, look how cool this thing is; 🍊 I mean probably the closest we've 🍋 seen to this level of visual creativity, 🍊 so far, has been maybe the 🍋 'Ganbare Goemon' R.P.G. 🍇🍌
+
+
+✅🏮🍊🍓 Now, once you've got all the 🍋 pieces of the [Zenithian] gear 🍊 (and really all the best 🍋 equipment possible - 🍊 like the Metal Babble Sword, 🍋 a couple Metal Babble Shields, 🍊 and the various weird pieces of 🍋 equipment for the magic casters) 🍊 ...once you have all this stuff then 🍋 you're ready to hit the [Zenithian] tower - 🍊 the game's final destination 🍋 on the World Map. 🍇
+
+✅🏮🍊🍓 And this tower is horribly tricky 🍋 and a confusing mess of stairs, 🍊 doors, elevators, and such 🍋 and I really hate it. 🍇
+
+✅🏮🍊🍓 And all the dungeons 🍋 in the second half [of] the game 🍋 are... are kinda like this. 🍇🍌
+
+
+✅🏮🍊🍓 So you finally ascend 🍋 (literally on a cloud) 🍋 to the flying city of [Zenithia] 🍊 and this place is run by Valkyries; 🍊 and the guy running the show 🍋 is a Dragon, who tells you that 🍋 you're not human, but rather [Zenithian]. 🍇
+
+✅🏮🍊🍓 So, after that's all done, 🍊 you get sent down 🍋 to the Dark World 🍋 for the final showdown. 🍇🍌
+
+
+✅🏮🍊🍓 There's Necrosaro's castle, there, 🍋 but there's a force field surrounding it, 🍊 so ya have to knock out the force 🍋 field by dealing with these 🍊 four minibosses who live in 🍋 each corner of the world. 🍇
+
+✅🏮🍊🍓 A couple are [pretty] simple 🍋 (like, just some [of] the 🍋 tougher overworld enemies); 🍊 others are a bit more Boss-like. 🍇🍌
+
+
+✅🏮🍊🍓 One thing that "Dragon Warrior IV" 🍋 just loves to do, near the end of the game, 🍋 is place damaging tiles everywhere. 🍇
+
+✅🏮🍊🍓 You need to use your StepGuard 🍋 spell a lot in the Dark World. 🍇
+
+✅🏮🍊🍓 That prevents you from taking 🍋 damage when you walk over them. 🍇🍌
+
+
+✅🏮🍊🍓 Now, this bit, right here, 🍋 was probably the 🍊 most surprising moment 🍋 in the game, for me. 🍇
+
+✅🏮🍊🍓 I really can't think of any other 🍋 Japanese FamiCom games, 🍋 off [the] top [of] my head 🍊 that tried to do a..., like, 🍋 a perspective trick like this. 🍇
+
+✅🏮🍊🍓 (I mean there may have been some 🍋 but I... I can't think of one.) 🍇
+
+✅🏮🍊🍓 So, like I said earlier, this game 🍋 can be visually impressive. 🍇🍌
+
+
+✅🏮🍊🍓 So (finally!) the big Boss Necrosaro 🍋 and, uh... 🍇
+
+✅🏮🍊🍓 Hmm... 🍇
+
+✅🏮🍋🍓 That's a rather... 🍇
+
+✅🏮🍊🍓 That's a rather interesting 🍋 choice they made, there. 🍇🍌
+
+
+✅🏮🍊🍓 Anyway, through the discovery 🍋 of the 'Secret of Evolution', 🍊 Necrosaro is able to transform 🍋 into some sort of alternate body. 🍇
+
+✅🏮🍊🍓 He actually has multiple stages 🍊 (something we'll see again later 🍋 in R.P.G.s like "Dragon Quest VI" 🍋 and "Final Fantasy IV"). 🍇🍌
+
+✅🏮🍊🍓 So he has, like, seven or so 🍋 different sprites, as he transforms. 🍇🍌
+
+
+✅🏮🍊🍓 First he loses each of his arms, 🍋 then his head comes off 🍊 (which seems like it 🍋 would finish him off)... 🍊 ...but then a new head sprouts 🍋 out of his stomach(?). 🍇🍌
+
+✅🏮🍊🍓 And he finally grows new arms, 🍋 legs, and, uh, a second head 🍊 for his final form; and, at this point, 🍋 he's actually [pretty] tough. 🍇🍌
+
+
+✅🏮🍊🍓 Your magic user keeps 🍋 casting useless spells 🍊 and you'll spend a lot of time casting 🍋 your most powerful healing spell 🍊 - and occasionally 🍋 reviving a party member. 🍇
+
+✅🏮🍊🍓 Now, Alena is, far and away, 🍋 the most useful fighter in this 🍋 battle for causing damage 🍊 (especially if she's armed 🍋 with the Stiletto Earrings - 🍊 which allow her to 🍋 attack twice in battle). 🍇
+
+✅🏮🍊🍓 She has a very high chance 🍋 of doing a Critical Hit 🍋 (which does way more damage) 🍊 so she is absolutely essential 🍋 for the Final Boss fight. 🍇🍌
+
+
+✅🏮🍊🍓 But for you, the Hero, you [pretty] much 🍋 just need to keep healing 🍊 since Necrosaro 🍋 attacks twice per round 🍊 and uses very powerful magic attacks 🍋 that hit the entire party at once. 🍇
+
+✅🏮🍊🍓 With almost 5,700 Hit Points, 🍋 this guy will take a while to go down. 🍇🍌
+
+
+✅🏮🍊🍓 Now, as is the tradition, 🍋 his death will cause the whole 🍋 secret lair thing to implode. 🍇
+
+✅🏮🍊🍓 But the Dragon King dude 🍋 flies in [at] the last second, 🍋 to rescue you. 🍇
+
+✅🏮🍊🍓 Now, having a huge-ass 🍋 Dragon on your side 🍊 would have made the whole 🍋 Boss fight a lot easier, I assume, 🍊 but I guess this guy 🍋 had other things to do. 🍇🍌
+
+
+✅🏮🍊🍓 So, back in Zenithia, the Dragon 🍋 King says that you can live there, 🍊 but you choose to return 🍋 to Earth with your friends. 🍇
+
+✅🏮🍊🍓 The final challenge is: 🍋 leaving the castle; 🍊 some Valkyries block 🍋 the main staircase, 🍊 so ya have to find a door that 🍋 takes you into the back [of] the castle 🍋 and then out a different door. 🍇
+
+✅🏮🍊🍓 I mean, I can't say that 🍋 I blame ABC for leaving 🍊 because Zenithia appears to be just, 🍋 like, a single castle sitting on a cloud 🍊 - and it doesn't really look 🍋 like a very happening place. 🍇🍌
+
+
+✅🏮🍊🍓 The very long ending cutscene 🍋 has you flying around the world 🍊 to everyone's hometown to be 🍋 reunited with their family and whatnot. 🍇🍌
+
+
+✅🏮🍊🍓 So, is "Dragon Quest IV" worth playing? 🍇
+
+✅🏮🍋🍓 I don't know. 🍇🍌
+
+
+✅🏮🍊🍓 I mean, it's long (really long!) 🍋 and very repetitive 🍋 (even for an 8-bit R.P.G.). 🍇
+
+✅🏮🍊🍓 The constant pattern of 🍋 town, dungeon, town, dungeon 🍋 can get very repetitive very quickly 🍊 (as can the combat, 🍋 especially during the fifth episode 🍊 when everyone but the Hero 🍋 is controlled by the A.I.). 🍇
+
+✅🏮🍊🍓 This, here, robs the combat 🍋 of any sort of sense of strategy, 🍊 as you really can't plan 🍋 a coordinated attack. 🍇🍌
+
+
+✅🏮🍊🍓 Overall, "Dragon Warrior IV" 🍋 is relentlessly grindy 🍋 and overly simplistic. 🍇
+
+✅🏮🍊🍓 That's part of the game's 🍋 appeal, I suppose. 🍇
+
+✅🏮🍊🍓 But, in 2020, it feels like there're just 🍋 better things to do with your time. 🍇🍌
+
+
+✅🏮🍊🍓 I mean, I guess, in a way, 🍋 the reason this part [of] the 🍋 episode is so long 🍊 is because I wanted you guys 🍋 to see "Dragon Quest IV" 🍊 so you wouldn't have 🍋 to play it yourself. 🍇🍌
+
+
+✅🏮🍊🍓 And I played this with a cheat 🍋 that doubled the Experience 🍋 and Gold after each battle 🍊 (and sometimes also enabled 🍋 other cheats to speed things up). 🍇
+
+✅🏮🍊🍓 But, even so, it just felt... endless. 🍇
+
+✅🏮🍊🍓 I can't even imagine playing this 🍋 all the way through, without those cheats. 🍇🍌
+
+
+✅🏮🍊🍓 I mean, there's a lot [of] cool stuff 🍋 in the game but it's all spread out 🍊 between hours of wandering around, 🍋 opening countless drawers, 🍊 and fighting the same battles 🍋 over and over again. 🍇🍌
+
+
+✅🏮🍊🍓 It concludes with the Hero returning 🍋 to his destroyed home village 🍋 and his girlfriend comes back to life(?). 🍇
+
+✅🏮🍊🍓 Then, all your party members appear. 🍇
+
+✅🏮🍊🍓 I don't know; 🍋 I don't know what this means. 🍇🍌
+
+
+✅🏮🍊🍓 So "Dragon Warrior IV": 🍊 a beautifully crafted 🍋 and ambitious J.R.P.G. 🍊 that will absolutely wear you 🍋 down and make you hate it. 🍇
+
+✅🏮🍊🍓 If that's your bag then, 🍋 by all means, go ahead. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🎮 Arctic: Active Rail Playing Game 🇯🇵 ✨
+
+🎧🏮🍊♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise
+
+👓🏮🥭 Released 1990 February 23 🇯🇵
+👓🏮🍒💾 Developed by ArtDink
+👓🏮🍒📦 Published by Pony Canyon 🇯🇵🍌
+
+
+✅🏮🍊🍓 Okay, the last game this episode and... 🍇
+
+✅🏮🍋🍓 Ooh, boy! I was not expecting this. 🍇
+
+✅🏮🍊🍓 I was thinking that "Infiltrator" 🍋 would easily take the prize 🍊 for most annoying 🍋 game of 1990, so far, 🍊 and then "Arctic..." came along. 🍇🍌
+
+
+✅🏮🍊🍓 This looks innocuous; 🍋 it's cute, right? 🍇
+
+✅🏮🍊🍓 'Active Rail Playing'... 🍇
+
+✅🏮🍊🍓 Huh! So it's like a Train 🍋 Simulation Game? 🍇🍌
+
+
+✅🏮🍊🍓 Is 'rail playing' some kind 🍋 of pun on 'role-playing'? 🍇
+
+✅🏮🍊🍓 The answers to these questions are: 🍋 a) 'No.' and 🍋 b) 'I have absolutely no idea.'. 🍇🍌
+
+
+✅🏮🍊🍓 This is published by Pony Canyon 🍋 (the record label) 🍊 and developed by ArtDink 🍋 (one of the very few ArtDink games 🍋 we'll encounter in this series). 🍇
+
+✅🏮🍊🍓 They were mostly a developer 🍋 of computer games like 🍊 "HR2: Let's Make A [Taller] 🍋 Building Than Anyone Does!". 🍇
+
+✅🏮🍊🍓 In the '90s, they'd get 🍋 more exposure in the U.S. 🍊 with their 'A-Train' games 🍋 as well as certain cult favorites 🍊 like "Tactics Ogre..." and 🍋 "No One Can Stop Mr. Domino!". 🍇🍌
+
+
+✅🏮🍊🍓 "Arctic...", on the other hand... 🍇
+
+✅🏮🍊🍓 Ooh, boy! 🍋 This is a piece of work. 🍇🍌
+
+
+✅🏮🍊🍓 The idea, here, is that you 🍋 have these elaborate little tracks, 🍊 there are blue and yellow balls 🍋 (as you can see), 🍊 and there are 🍋 blue and yellow terminals 🍊 (you can see them at the bottom - 🍋 and then there's also 🍋 another two at the top). 🍇
+
+✅🏮🍊🍓 So, the balls are launched 🍋 out [of] the terminals 🍊 at the beginning of each level 🍋 and your goal is to get them 🍋 back into the terminals. 🍇🍌
+
+
+✅🏮🍊🍓 So, what about the white balls? 🍇
+
+✅🏮🍋🍓 They just move around on the tracks. 🍇
+
+✅🏮🍊🍓 They can accidentally 🍋 get stuck in a terminal 🍊 and can collide with another ball, 🍋 causing it to reverse course. 🍇🍌
+
+
+✅🏮🍊🍓 Now, those little green things, 🍋 in the center and the lower-middle 🍋 terminal, are 'bouncers'. 🍇
+
+✅🏮🍊🍓 If a ball hits one, 🍋 it will bounce back again 🍊 (and again cause it 🍋 to reverse direction). 🍇🍌
+
+
+✅🏮🍊🍓 Those little circles with 🍋 the lines - are switches 🍊 and will change the direction 🍋 a ball moves, at an intersection. 🍇
+
+✅🏮🍊🍓 It's sort of like a real-life 🍋 railroad switch (but not really). 🍇🍌
+
+
+✅🏮🍊🍓 It took me a bit of time to 🍋 conceptually understand this 🍊 but when a switch is flipped 🍋 (so that a ball will turn, 🍋 rather than go straight) 🍊 the switch will [only] work, if the ball 🍋 is coming from the right direction. 🍇
+
+✅🏮🍊🍓 Specifically, the ball can [only] turn 🍋 at angles greater than 90°. 🍇🍌
+
+
+✅🏮🍊🍓 You turn the switches by 🍋 using the A and B Buttons. 🍇
+
+✅🏮🍊🍓 One button turns the blue switches and 🍋 one button turns the yellow switches 🍋 (try not to get them mixed up). 🍇🍌
+
+
+✅🏮🍊🍓 So, here's an example 🍋 of how this works: 🍊 a ball is moving down this way 🍋 (towards the blue switch) 🍊 and the angle is 135° 🍊 (so that the ball turns and goes 🍋 up the path to the green bouncer). 🍇
+
+✅🏮🍊🍓 However, if the ball is coming 🍋 from the top of the screen 🍋 (this way) 🍊 the angle is [only] 45° - 🍋 too sharp for the ball to turn, 🍊 so it ignores the switch 🍋 and just goes straight 🍊 (which is obviously 🍋 impossible in a real-life switch 🍋 on an actual railroad track - 🍊 the train would derail because 🍋 a section of the track 🍋 is turned the wrong way). 🍇
+
+✅🏮🍊🍓 So, the upshot is: 🍊 to enter the upper terminals 🍋 you have to come at it from the southeast 🍊 and to enter the lower terminals 🍋 you need to be coming from the northwest. 🍇🍌
+
+
+✅🏮🍊🍓 These levels are more or less circular 🍊 so ya often have to find a way 🍋 to get your ball to reverse direction, 🍊 such as hitting a bouncer 🍋 or colliding with another ball. 🍇
+
+✅🏮🍊🍓 But then you'll typically 🍋 need to flip a few switches 🍊 to make sure that they don't 🍋 just hit the other ball again 🍊 and reverse direction 🍋 a second time. 🍇🍌
+
+
+✅🏮🍊🍓 So, not surprisingly, 🍋 this is a port of a computer game; 🍊 it was released on a few 🍋 different Japanese platforms, 🍋 such as the M.S.X. and FM-7. 🍇
+
+✅🏮🍊🍓 The M.S.X. ROM is dated 1987. 🍇🍌
+
+
+✅🏮🍊🍓 Now, all of this doesn't sound 🍋 that bad, on paper, I guess, 🍊 but then we get to the music 🍊 (which is exactly the opposite of what 🍋 you want to have in a game like this). 🍇
+
+✅🏮🍊🍓 If you are trying to keep track of 🍋 multiple balls, moving quite fast 🍋 (simultaneously) around the track 🍊 with, like, a dozen switches - this 🍋 music is not going to make that easy. 🍇🍌
+
+
+✅🏮🍊🍓 It's like someone standing next to 🍋 you and yelling at you, constantly. 🍇
+
+✅🏮🍊🍓 After playing this 🍋 for around 10 minutes 🍊 (watching those balls just 🍋 go around and around) 🍊 with the music playing, 🍋 I started getting a headache. 🍇
+
+✅🏮🍊🍓 This is one [of] the few games where 🍋 I've had an actual physical reaction to it 🍊 (not just making me 🍋 frustrated but I feel like 🍊 'I gotta stop playing this 🍋 game or I'm gonna get sick.'); 🍊 it's really weird. 🍇🍌
+
+
+✅🏮🍊🍓 Now, you might be wondering, 🍊 'Can you pause the game to, 🍋 sort of, take a look at the track 🍋 and figure out your strategy?'. 🍇
+
+✅🏮🍊🍓 Nope! 🍊 Hitting the Start Button launches 🍋 all the balls out of the terminals 🍊 (which you'll need to do if a ball 🍋 just happens to end up in the 🍋 wrong terminal, by the way). 🍇
+
+✅🏮🍊🍓 And hitting the Select Button 🍋 opens up the Options menu 🍊 (but this resets the level 🍋 so you have to start again). 🍇🍌
+
+
+✅🏮🍊🍓 And, of course, you know, 🍋 you can turn the... the Volume off 🍊 (which I would recommend 🍋 if you're gonna play this) 🍊 but video games really 🍋 shouldn't have music that's this 🍋 non-conducive towards playing the game. 🍇🍌
+
+
+✅🏮🍊🍓 So, anyway, this is a strong contender 🍋 for one of my least-favorite FamiCom games. 🍇
+
+✅🏮🍊🍓 I mean, it's not bad in a funny way; 🍋 it's just bad in an unpleasant way. 🍇🍌
+
+
+
+👓🏮🍊🎇# 🥇 Episode 55 Wrap Up ✨
+
+
+✅🏮🍊🍓 Wow, let me tell you, 🍊 between "Infiltrator" and "Arctic...", 🍋 this episode nearly killed me. 🍇🍌
+
+
+✅🏮🍊🍓 And I am torn 🍋 (torn, I say!) 🍊 when it comes to giving out the 🍋 Best and Worst Game awards, this time. 🍇🍌
+
+
+✅🏮🍊🍓 And I hate to cheat but... Best Game 🍋 goes to "Super C" and "Dragon Quest IV". 🍇
+
+✅🏮🍊🍓 I enjoyed "Super C" a lot more 🍋 than "Dragon Quest..." 🍊 but "Dragon Quest..." was probably 🍋 the 'big game' for the FamiCom in 1990. 🍇
+
+✅🏮🍊🍓 It's loved by millions, so 🍋 (what the hell?) 🍋 it deserves the trophy. 🍇🍌
+
+
+✅🏮🍊🍓 Worst game? 🍇
+
+✅🏮🍊🍓 Again, a tie between "Infiltrator" 🍋 (a game I hated) 🍊 and "Mottomo Abunai Deka" 🍋 (a game I kind of liked). 🍇
+
+✅🏮🍊🍓 I mean, it's just so stupid! 🍇
+
+✅🏮🍊🍓 How can you not love 🍋 a game this trashy? 🍇
+
+✅🏮🍊🍓 As for "Arctic...", 🍋 it can just screw off. 🍇🍌
+
+
+✅🏮🍊🍓 Next episode? 🍇
+
+✅🏮🍊🍓 Well, I don't know. 🍇
+
+✅🏮🍊🍓 I've never played any of the games 🍋 that will appear in "...Episode 56". 🍇
+
+✅🏮🍊🍓 There's two U.S.-[only] releases 🍋 that I've absolutely never heard of, 🍊 there's a couple of ports of 🍋 arcade games that 🍋 I'm barely familiar with, 🍊 but (for the most part) I'm 🍋 walking into this completely blind. 🍇🍌
+
+
+✅🏮🍊🍓 So, this wraps up "...Episode 55" 🍋 and I'll see ya next time. 🍇🍌
+
+
+
+👓🏮🍊🎇# 📇 Thanks to the Patrons ✨
+
+
+✅🏮🍊Abraham "Peripheral" Drimmer 🍋 Alex D'Arata-Wolfe 🍋 Alex Minor 🍋 Andrew Makula 🍋 Andy Bene 🍋 Ben Schwartz 🍋 Ben Slater 🍋 BerserkerKong02 🍋 Birdy 🍋 Bob Mackey 🍋 Brian Cedrone 🍋 Brian Foote 🍋 Brick Road 🍋 Bryan "Korly" Corley 🍋 Bwo 🍋 Captain Ginyu
+✅🏮🍊Cmweed 🍋 Colby 🍋 Cole Sabin 🍋 Colin Peacock 🍋 Craig Erickson 🍋 Daakmore 🍋 Devon Meunier 🍋 Dezm101 🍋 Dustin Cooper 🍋 Flavio Testa 🍋 Fletcher Arnett 🍋 Fourside 🍋 Frankie Coleman 🍋 Fred 🍋 Fuxter 🍋 Gary Galloway
+✅🏮🍊Geoff Miller 🍋 HisameJP 🍋 Hugo Ojeda 🍋 ihavefivehat 🍋 James Skemp 🍋 Jared Breland 🍋 Jay 🍋 Jayson Magana 🍋 Jensma 🍋 Jody Anthony 🍋 Joe P 🍋 Kewl0210 🍋 Likwid 🍋 Mathew Winstone 🍋 Matt F 🍋 Matthew Seavey
+✅🏮🍊Max Pixley Smith 🍋 Mike "Goodly-Mike" F 🍋 Mike B 🍋 MikeyCox 🍋 Miles Mariae 🍋 N64th Street 🍋 Natalie 🍋 Nate Lawrence 🍋 Noee 🍋 Oliver Scott 🍋 pcbjunkie 🍋 Peter LaPrade 🍋 Phil Falco 🍋 Retro Pals 🍋 Richard Beres 🍋 Richard Layton
+✅🏮🍊Rob Browning 🍋 Sean697 🍋 Shaxbert 🍋 Tertus 🍋 The Rotary Club of Saladoria 🍋 Tyma Hughes 🍋 Will Minor 🍋 Will Mistretta 🍋 Zveebo
+
+
+
+👓🏮🍊🎇# 🎞️ Episode 55 Credits ✨
+
+🎧🏮🍊♪ "Vitamin C" ♪ by Can (Live in Paris 1973)
+
+
+👓🏮🍊🍓 Thank you for watching 🍋 "Chrontendo 🍋 Episode 55". 🍇🍌
+
+
+👓🏮🍊Opening Music: 🍋 ♪ "UFO" ♪ by ESG 🍋 🍋 Game Info Screen Music: 🍋 ♪ "Tin Cans (Puerto Rican Remix)" ♪ by Tortoise 🍋 🍋 ♪ "3030" ♪ by Deltron 3030 🍋 (Contains samples of ♪ "Introit" ♪ by William Sheller) 🍋 🍋 Credits Music: 🍋 ♪ "Vitamin C" ♪ by Can (Live in Paris 1973)
+
+
+👓🏮🍊Produced by 🍋 👨🏻‍🏫 Dr. Sparkle✨ 🍋 Blogspot, YouTube, Patreon, 🍋 Twitter, Tumblr: @Chrontendo 🍌
+
+
+👓🏮🍊🍓 All images and sounds contained in 🍋 this video are copyright their 🍋 respective owners. 🍇🍌
+
+
+👓🏮🍊🍓 Support 'Chrontendo' on Patreon 🍋 patreon.com/chrontendo 🍇
+
+
+
+
+
+
+
+
+
+
